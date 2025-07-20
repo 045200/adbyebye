@@ -4,16 +4,16 @@
   <a href="https://github.com/045200/adbyebye">
     <img src="https://img.shields.io/github/last-commit/045200/adbyebye?style=flat-square" alt="last update" />
   </a>
-  <a href="https://github.com/qq5460168/666">
+  <a href="https://github.com/045200/adbyebye">
     <img src="https://img.shields.io/github/forks/045200/adbyebye?style=flat-square" alt="forks" />
   </a>
-  <a href="https://github.com/qq5460168/666">
+  <a href="https://github.com/045200/adbyebye">
     <img src="https://img.shields.io/github/stars/045200/adbyebye?style=flat-square" alt="stars" />
   </a>
-  <a href="https://github.com/qq5460168/666/issues/">
+  <a href="https://github.com/045200/adbyebye/issues/">
     <img src="https://img.shields.io/github/issues/045200/adbyebye?style=flat-square" alt="open issues" />
   </a>
-  <a href="https://github.com/qq5460168/666">
+  <a href="https://github.com/045200/adbyebye">
     <img src="https://img.shields.io/github/license/045200/adbyebye?style=flat-square" alt="license" />
   </a>
 </p>
@@ -76,26 +76,26 @@ AdClose规则数量: 76810
 <summary>点击展开/收起</summary>
 
 - 广告拦截规则  
-  - [规则（GitHub）](https://raw.githubusercontent.com/qq5460168/666/master/rules.txt)
-  - [规则（国内加速）](https://ghproxy.net/https://raw.githubusercontent.com/qq5460168/666/master/rules.txt)
+  - [规则（GitHub）](https://raw.githubusercontent.com/045200/adbyebye/master/rules.txt)
+  - [规则（国内加速）](https://ghproxy.net/https://raw.githubusercontent.com/045200/adbyebye/master/rules.txt)
 - DNS 拦截规则  
-  - [DNS 规则（GitHub）](https://raw.githubusercontent.com/qq5460168/666/master/dns.txt)
-  - [DNS 规则（国内加速）](https://ghp.ci/https://raw.githubusercontent.com/qq5460168/666/master/dns.txt)
+  - [DNS 规则（GitHub）](https://raw.githubusercontent.com/045200/adbyebye/master/dns.txt)
+  - [DNS 规则（国内加速）](https://ghp.ci/https://raw.githubusercontent.com/045200/adbyebye/master/dns.txt)
 - 白名单  
-  - [白名单（GitHub）](https://raw.githubusercontent.com/qq5460168/666/master/allow.txt)
-  - [白名单（国内加速）](https://ghp.ci/https://raw.githubusercontent.com/qq5460168/666/master/allow.txt)
+  - [白名单（GitHub）](https://raw.githubusercontent.com/045200/adbyebye/master/allow.txt)
+  - [白名单（国内加速）](https://ghp.ci/https://raw.githubusercontent.com/045200/adbyebye/master/allow.txt)
 - Hosts 规则  
-  - [Hosts（GitHub）](https://raw.githubusercontent.com/qq5460168/666/master/hosts.txt)
-  - [Hosts（国内加速）](https://ghproxy.net/https://raw.githubusercontent.com/qq5460168/666/master/hosts.txt)
+  - [Hosts（GitHub）](https://raw.githubusercontent.com/045200/adbyebye/master/hosts.txt)
+  - [Hosts（国内加速）](https://ghproxy.net/https://raw.githubusercontent.com/045200/adbyebye/master/hosts.txt)
 - 专用客户端规则  
-  - [Quantumult X（qx.list）](https://raw.githubusercontent.com/qq5460168/666/master/qx.list)
-  - [Shadowrocket（Shadowrocket.list）](https://raw.githubusercontent.com/qq5460168/666/master/Shadowrocket.list)
-  - [AdClose（AdClose.txt）](https://raw.githubusercontent.com/qq5460168/666/master/AdClose.txt)
-  - [Singbox SRS（singbox.srs）](https://raw.githubusercontent.com/qq5460168/666/master/singbox.srs)
-  - [Singbox JSON（Singbox.json）](https://raw.githubusercontent.com/qq5460168/666/master/Singbox.json)
-  - [Invizible Pro（invizible.txt）](https://raw.githubusercontent.com/qq5460168/666/master/invizible.txt)
-  - [Clash（clash.yaml）](https://raw.githubusercontent.com/qq5460168/666/master/clash.yaml)
-  - [Clash Meta（clash_meta.yaml）](https://raw.githubusercontent.com/qq5460168/666/master/clash_meta.yaml)
+  - [Quantumult X（qx.list）](https://raw.githubusercontent.com/045200/adbyebye/master/qx.list)
+  - [Shadowrocket（Shadowrocket.list）](https://raw.githubusercontent.com/045200/adbyebye/master/Shadowrocket.list)
+  - [AdClose（AdClose.txt）](https://raw.githubusercontent.com/045200/adbyebye/master/AdClose.txt)
+  - [Singbox SRS（singbox.srs）](https://raw.githubusercontent.com/045200/adbyebye/master/singbox.srs)
+  - [Singbox JSON（Singbox.json）](https://raw.githubusercontent.com/45200/adbyebye/master/Singbox.json)
+  - [Invizible Pro（invizible.txt）](https://raw.githubusercontent.com/045200/adbyebye/master/invizible.txt)
+  - [Clash（clash.yaml）](https://raw.githubusercontent.com/045200/adbyebye/master/clash.yaml)
+  - [Clash Meta（clash_meta.yaml）](https://raw.githubusercontent.com/045200/adbyebye/master/clash_meta.yaml)
 
 </details>
 
