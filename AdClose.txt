@@ -2,11 +2,11 @@
 ! Title: AdByeBye去广告规则
 ! Homepage: https://github.com/045200/adbyebye
 ! Expires: 12 Hours
-! Version: 2025-07-21 16:24:30（北京时间）
+! Version: 2025-07-21 18:18:13（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 75939
 # AdClose 专用广告规则
-# 生成时间: 2025-07-21 08:24:29（北京时间）
+# 生成时间: 2025-07-21 10:18:11（北京时间）
 # 格式：domain, <域名>
 domain, 0-bloghkgadv.app.salemove.com
 domain, 0.r.msn.com
