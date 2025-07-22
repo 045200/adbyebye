@@ -1,9 +1,9 @@
 # Title: Quantumult X Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2025-07-22 08:22:33（北京时间）
-# Quantumult X规则数量: 75935
-# ! Total count: 75935
+# Last Updated: 2025-07-22 10:17:16（北京时间）
+# Quantumult X规则数量: 75938
+# ! Total count: 75938
 HOST-SUFFIX,0-bloghkgadv.app.salemove.com,REJECT
 HOST-SUFFIX,0.r.msn.com,REJECT
 HOST-SUFFIX,000123456789.online,REJECT
@@ -33799,6 +33799,7 @@ HOST-SUFFIX,promofremo.pro,REJECT
 HOST-SUFFIX,promointon.pro,REJECT
 HOST-SUFFIX,promorinfi.pro,REJECT
 HOST-SUFFIX,promote.biz.weibo.cn,REJECT
+HOST-SUFFIX,promotion-partner.kuaishou.com,REJECT
 HOST-SUFFIX,promotionalads.yahoo.co.jp,REJECT
 HOST-SUFFIX,promptalligator.pro,REJECT
 HOST-SUFFIX,promptammonite.pro,REJECT
@@ -43208,6 +43209,7 @@ HOST-SUFFIX,tmwbszn.icu,REJECT
 HOST-SUFFIX,tn.ads.justpremium.com,REJECT
 HOST-SUFFIX,tn.uvrifrd.cn,REJECT
 HOST-SUFFIX,tnc0-aliec2.zijieapi.com,REJECT
+HOST-SUFFIX,tnc0-alisc1.zijieapi.com,REJECT
 HOST-SUFFIX,tnc0-bjlgy.zijieapi.com,REJECT
 HOST-SUFFIX,tnc16-alisg.isnssdk.com,REJECT
 HOST-SUFFIX,tnc16-useast1a.isnssdk.com,REJECT
@@ -43218,6 +43220,7 @@ HOST-SUFFIX,tnc3-aliec2.zijieapi,REJECT
 HOST-SUFFIX,tnc3-aliec2.zijieapi.com,REJECT
 HOST-SUFFIX,tnc3-alisc1.bytedance.com,REJECT
 HOST-SUFFIX,tnc3-alisc1.snssdk.com,REJECT
+HOST-SUFFIX,tnc3-alisc1.toutiaoapi.com,REJECT
 HOST-SUFFIX,tnc3-alisc1.zijieapi,REJECT
 HOST-SUFFIX,tnc3-alisc1.zijieapi.com,REJECT
 HOST-SUFFIX,tnc3-alisc1.zijieapi.com.queniuyk.com,REJECT
