@@ -2,13 +2,13 @@
 ! Title: AdByeBye去广告规则
 ! Homepage: https://github.com/045200/adbyebye
 ! Expires: 12 Hours
-! Version: 2025-07-23 18:17:26（北京时间）
+! Version: 2025-07-23 20:33:20（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 75944
+! Total count: 75949
 # Title: Hosts Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2025-07-23 10:17:25（北京时间）
+# Last Updated: 2025-07-23 12:33:19（北京时间）
 0.0.0.0 0-bloghkgadv.app.salemove.com
 0.0.0.0 0.r.msn.com
 0.0.0.0 000123456789.online
@@ -7469,6 +7469,8 @@
 0.0.0.0 ali.cityads.com
 0.0.0.0 alicdn.bayimob.com
 0.0.0.0 alicdnv2.sitemonitor.cn.miaozhen.com
+0.0.0.0 alicoccdncnc-xn.inter.71edge.com
+0.0.0.0 alicoccdnct-xn.inter.71edge.com
 0.0.0.0 alictcarno.pro
 0.0.0.0 alictibet.com
 0.0.0.0 aliendivan.pro
@@ -11042,6 +11044,7 @@
 0.0.0.0 bdapi.ads.heytapmobi.com
 0.0.0.0 bdapi.ads.oppomobile.com
 0.0.0.0 bdates.fun
+0.0.0.0 bdcdncnc.inter.71edge.com
 0.0.0.0 bdcode.2345.com
 0.0.0.0 bdd.058www11w.top
 0.0.0.0 bddwm.com
@@ -23906,6 +23909,7 @@
 0.0.0.0 img1.mini.cache.wps.cn
 0.0.0.0 img1.sj.qq.com
 0.0.0.0 img1.tronads.io
+0.0.0.0 img2.360buyimg.com
 0.0.0.0 img2.ad.agrantsem.com
 0.0.0.0 img2.qqwangming6.com
 0.0.0.0 img3.ad.agrantsem.com
@@ -27741,6 +27745,7 @@
 0.0.0.0 m.gdt.qq.com
 0.0.0.0 m.gz-bz.cn
 0.0.0.0 m.hot-mob.com
+0.0.0.0 m.iqiyipic.com
 0.0.0.0 m.kubiqq.com
 0.0.0.0 m.l.qq.com
 0.0.0.0 m.mixadvert.com

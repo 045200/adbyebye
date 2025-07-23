@@ -1,9 +1,9 @@
 # Title: Quantumult X Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2025-07-23 10:17:25（北京时间）
-# Quantumult X规则数量: 75939
-# ! Total count: 75939
+# Last Updated: 2025-07-23 12:33:19（北京时间）
+# Quantumult X规则数量: 75944
+# ! Total count: 75944
 HOST-SUFFIX,0-bloghkgadv.app.salemove.com,REJECT
 HOST-SUFFIX,0.r.msn.com,REJECT
 HOST-SUFFIX,000123456789.online,REJECT
@@ -7464,6 +7464,8 @@ HOST-SUFFIX,ali-p2p-v2.pull.yximgs.com,REJECT
 HOST-SUFFIX,ali.cityads.com,REJECT
 HOST-SUFFIX,alicdn.bayimob.com,REJECT
 HOST-SUFFIX,alicdnv2.sitemonitor.cn.miaozhen.com,REJECT
+HOST-SUFFIX,alicoccdncnc-xn.inter.71edge.com,REJECT
+HOST-SUFFIX,alicoccdnct-xn.inter.71edge.com,REJECT
 HOST-SUFFIX,alictcarno.pro,REJECT
 HOST-SUFFIX,alictibet.com,REJECT
 HOST-SUFFIX,aliendivan.pro,REJECT
@@ -11037,6 +11039,7 @@ HOST-SUFFIX,bdapi-in.ads.oppomobile.com,REJECT
 HOST-SUFFIX,bdapi.ads.heytapmobi.com,REJECT
 HOST-SUFFIX,bdapi.ads.oppomobile.com,REJECT
 HOST-SUFFIX,bdates.fun,REJECT
+HOST-SUFFIX,bdcdncnc.inter.71edge.com,REJECT
 HOST-SUFFIX,bdcode.2345.com,REJECT
 HOST-SUFFIX,bdd.058www11w.top,REJECT
 HOST-SUFFIX,bddwm.com,REJECT
@@ -23901,6 +23904,7 @@ HOST-SUFFIX,img02.ad-tech.ru,REJECT
 HOST-SUFFIX,img1.mini.cache.wps.cn,REJECT
 HOST-SUFFIX,img1.sj.qq.com,REJECT
 HOST-SUFFIX,img1.tronads.io,REJECT
+HOST-SUFFIX,img2.360buyimg.com,REJECT
 HOST-SUFFIX,img2.ad.agrantsem.com,REJECT
 HOST-SUFFIX,img2.qqwangming6.com,REJECT
 HOST-SUFFIX,img3.ad.agrantsem.com,REJECT
@@ -27736,6 +27740,7 @@ HOST-SUFFIX,m.game.weibo.cn,REJECT
 HOST-SUFFIX,m.gdt.qq.com,REJECT
 HOST-SUFFIX,m.gz-bz.cn,REJECT
 HOST-SUFFIX,m.hot-mob.com,REJECT
+HOST-SUFFIX,m.iqiyipic.com,REJECT
 HOST-SUFFIX,m.kubiqq.com,REJECT
 HOST-SUFFIX,m.l.qq.com,REJECT
 HOST-SUFFIX,m.mixadvert.com,REJECT

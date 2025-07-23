@@ -2,11 +2,11 @@
 ! Title: AdByeBye去广告规则
 ! Homepage: https://github.com/045200/adbyebye
 ! Expires: 12 Hours
-! Version: 2025-07-23 18:17:26（北京时间）
+! Version: 2025-07-23 20:33:20（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 75943
+! Total count: 75948
 # AdClose 专用广告规则
-# 生成时间: 2025-07-23 10:17:25（北京时间）
+# 生成时间: 2025-07-23 12:33:19（北京时间）
 # 格式：domain, <域名>
 domain, 0-bloghkgadv.app.salemove.com
 domain, 0.r.msn.com
@@ -7468,6 +7468,8 @@ domain, ali-p2p-v2.pull.yximgs.com
 domain, ali.cityads.com
 domain, alicdn.bayimob.com
 domain, alicdnv2.sitemonitor.cn.miaozhen.com
+domain, alicoccdncnc-xn.inter.71edge.com
+domain, alicoccdnct-xn.inter.71edge.com
 domain, alictcarno.pro
 domain, alictibet.com
 domain, aliendivan.pro
@@ -11041,6 +11043,7 @@ domain, bdapi-in.ads.oppomobile.com
 domain, bdapi.ads.heytapmobi.com
 domain, bdapi.ads.oppomobile.com
 domain, bdates.fun
+domain, bdcdncnc.inter.71edge.com
 domain, bdcode.2345.com
 domain, bdd.058www11w.top
 domain, bddwm.com
@@ -23905,6 +23908,7 @@ domain, img02.ad-tech.ru
 domain, img1.mini.cache.wps.cn
 domain, img1.sj.qq.com
 domain, img1.tronads.io
+domain, img2.360buyimg.com
 domain, img2.ad.agrantsem.com
 domain, img2.qqwangming6.com
 domain, img3.ad.agrantsem.com
@@ -27740,6 +27744,7 @@ domain, m.game.weibo.cn
 domain, m.gdt.qq.com
 domain, m.gz-bz.cn
 domain, m.hot-mob.com
+domain, m.iqiyipic.com
 domain, m.kubiqq.com
 domain, m.l.qq.com
 domain, m.mixadvert.com
