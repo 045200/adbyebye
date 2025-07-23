@@ -2,13 +2,13 @@
 ! Title: AdByeBye去广告规则
 ! Homepage: https://github.com/045200/adbyebye
 ! Expires: 12 Hours
-! Version: 2025-07-23 22:17:49（北京时间）
+! Version: 2025-07-24 00:20:01（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 75949
+! Total count: 75952
 # Title: Invizible Pro Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2025-07-23 14:17:48（北京时间）
+# Last Updated: 2025-07-23 16:19:59（北京时间）
 0-bloghkgadv.app.salemove.com
 0.r.msn.com
 000123456789.online
@@ -1401,6 +1401,7 @@ ad-visor.com
 ad-vortex.com
 ad-wisteria.excite.co.jp
 ad-x.co.uk
+ad.10010.com
 ad.103092804.com
 ad.12306.cn
 ad.163.com
@@ -8654,6 +8655,7 @@ api.adrtx.net
 api.ads.citadelcenter.net
 api.ads.flurry.com
 api.ads.newsdigest.jp
+api.ads.tvb.com
 api.ads.yahoo.com
 api.ads66.com
 api.adsdk.adsaide.cn
@@ -23873,6 +23875,7 @@ img.ads.csdn.net
 img.ads.huntmad.com
 img.ads.mobilefuse.net
 img.ads.taptapnetworks.com
+img.ads.tvb.com
 img.adskeeper.co.uk
 img.adverticum.net
 img.ak.impact-ad.jp
