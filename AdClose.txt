@@ -2,11 +2,11 @@
 ! Title: AdByeBye去广告规则
 ! Homepage: https://github.com/045200/adbyebye
 ! Expires: 12 Hours
-! Version: 2025-07-24 22:17:44（北京时间）
+! Version: 2025-07-25 00:18:13（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 76031
+! Total count: 76028
 # AdClose 专用广告规则
-# 生成时间: 2025-07-24 14:17:42（北京时间）
+# 生成时间: 2025-07-24 16:18:11（北京时间）
 # 格式：domain, <域名>
 domain, 0-bloghkgadv.app.salemove.com
 domain, 0.r.msn.com
@@ -1402,7 +1402,6 @@ domain, ad-visor.com
 domain, ad-vortex.com
 domain, ad-wisteria.excite.co.jp
 domain, ad-x.co.uk
-domain, ad.10010.com
 domain, ad.103092804.com
 domain, ad.12306.cn
 domain, ad.163.com
@@ -8661,7 +8660,6 @@ domain, api.adrtx.net
 domain, api.ads.citadelcenter.net
 domain, api.ads.flurry.com
 domain, api.ads.newsdigest.jp
-domain, api.ads.tvb.com
 domain, api.ads.yahoo.com
 domain, api.ads66.com
 domain, api.adsdk.adsaide.cn
@@ -23889,7 +23887,6 @@ domain, img.ads.csdn.net
 domain, img.ads.huntmad.com
 domain, img.ads.mobilefuse.net
 domain, img.ads.taptapnetworks.com
-domain, img.ads.tvb.com
 domain, img.adskeeper.co.uk
 domain, img.adverticum.net
 domain, img.ak.impact-ad.jp

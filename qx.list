@@ -1,9 +1,9 @@
 # Title: Quantumult X Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2025-07-24 14:17:42（北京时间）
-# Quantumult X规则数量: 76027
-# ! Total count: 76027
+# Last Updated: 2025-07-24 16:18:11（北京时间）
+# Quantumult X规则数量: 76024
+# ! Total count: 76024
 HOST-SUFFIX,0-bloghkgadv.app.salemove.com,REJECT
 HOST-SUFFIX,0.r.msn.com,REJECT
 HOST-SUFFIX,000123456789.online,REJECT
@@ -1398,7 +1398,6 @@ HOST-SUFFIX,ad-visor.com,REJECT
 HOST-SUFFIX,ad-vortex.com,REJECT
 HOST-SUFFIX,ad-wisteria.excite.co.jp,REJECT
 HOST-SUFFIX,ad-x.co.uk,REJECT
-HOST-SUFFIX,ad.10010.com,REJECT
 HOST-SUFFIX,ad.103092804.com,REJECT
 HOST-SUFFIX,ad.12306.cn,REJECT
 HOST-SUFFIX,ad.163.com,REJECT
@@ -8657,7 +8656,6 @@ HOST-SUFFIX,api.adrtx.net,REJECT
 HOST-SUFFIX,api.ads.citadelcenter.net,REJECT
 HOST-SUFFIX,api.ads.flurry.com,REJECT
 HOST-SUFFIX,api.ads.newsdigest.jp,REJECT
-HOST-SUFFIX,api.ads.tvb.com,REJECT
 HOST-SUFFIX,api.ads.yahoo.com,REJECT
 HOST-SUFFIX,api.ads66.com,REJECT
 HOST-SUFFIX,api.adsdk.adsaide.cn,REJECT
@@ -23885,7 +23883,6 @@ HOST-SUFFIX,img.ads.csdn.net,REJECT
 HOST-SUFFIX,img.ads.huntmad.com,REJECT
 HOST-SUFFIX,img.ads.mobilefuse.net,REJECT
 HOST-SUFFIX,img.ads.taptapnetworks.com,REJECT
-HOST-SUFFIX,img.ads.tvb.com,REJECT
 HOST-SUFFIX,img.adskeeper.co.uk,REJECT
 HOST-SUFFIX,img.adverticum.net,REJECT
 HOST-SUFFIX,img.ak.impact-ad.jp,REJECT
