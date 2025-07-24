@@ -1,9 +1,9 @@
 # Title: Clash Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2025-07-24 01:17:48（北京时间）
-# Clash规则数量: 75947
-! Total count: 75947
+# Last Updated: 2025-07-24 03:25:44（北京时间）
+# Clash规则数量: 76027
+! Total count: 76027
 rules:
   - DOMAIN-SUFFIX,0-bloghkgadv.app.salemove.com,REJECT
   - DOMAIN-SUFFIX,0.r.msn.com,REJECT
@@ -997,6 +997,7 @@ rules:
   - DOMAIN-SUFFIX,accivunsty.pro,REJECT
   - DOMAIN-SUFFIX,acclacorne.pro,REJECT
   - DOMAIN-SUFFIX,acclastern.pro,REJECT
+  - DOMAIN-SUFFIX,acclasthen.pro,REJECT
   - DOMAIN-SUFFIX,acclastrol.pro,REJECT
   - DOMAIN-SUFFIX,acclastroo.pro,REJECT
   - DOMAIN-SUFFIX,acclidisco.pro,REJECT
@@ -1107,6 +1108,7 @@ rules:
   - DOMAIN-SUFFIX,acousticspider.pro,REJECT
   - DOMAIN-SUFFIX,acqc9.com,REJECT
   - DOMAIN-SUFFIX,acquaburch.pro,REJECT
+  - DOMAIN-SUFFIX,acquadisob.pro,REJECT
   - DOMAIN-SUFFIX,acquadissy.pro,REJECT
   - DOMAIN-SUFFIX,acquaforma.pro,REJECT
   - DOMAIN-SUFFIX,acquaseman.pro,REJECT
@@ -1137,6 +1139,7 @@ rules:
   - DOMAIN-SUFFIX,actinscamb.pro,REJECT
   - DOMAIN-SUFFIX,action.advisorycloud.com,REJECT
   - DOMAIN-SUFFIX,actionable-video-ads.advertising.amazon.dev,REJECT
+  - DOMAIN-SUFFIX,actionnewsreport.pro,REJECT
   - DOMAIN-SUFFIX,actionprotectionadvancedinternet.top,REJECT
   - DOMAIN-SUFFIX,activate-sea.adobe.com,REJECT
   - DOMAIN-SUFFIX,activate-sjc0.adobe.com,REJECT
@@ -1249,7 +1252,6 @@ rules:
   - DOMAIN-SUFFIX,ad-files.classting.com,REJECT
   - DOMAIN-SUFFIX,ad-flow.com,REJECT
   - DOMAIN-SUFFIX,ad-formats.advertising.aol.com,REJECT
-  - DOMAIN-SUFFIX,ad-fuse.com,REJECT
   - DOMAIN-SUFFIX,ad-g.doubleclick.net,REJECT
   - DOMAIN-SUFFIX,ad-ga.nocode.com,REJECT
   - DOMAIN-SUFFIX,ad-gbn.com,REJECT
@@ -6569,6 +6571,9 @@ rules:
   - DOMAIN-SUFFIX,advantagesblareseizure.com,REJECT
   - DOMAIN-SUFFIX,advantagesresponse.com,REJECT
   - DOMAIN-SUFFIX,advantawebagency.xyz,REJECT
+  - DOMAIN-SUFFIX,advantax-e300ai.com,REJECT
+  - DOMAIN-SUFFIX,advantaxai20.com,REJECT
+  - DOMAIN-SUFFIX,advantaxe300ai.net,REJECT
   - DOMAIN-SUFFIX,advantic01.webtrekk.net,REJECT
   - DOMAIN-SUFFIX,advantixmarketing.re.getclicky.com,REJECT
   - DOMAIN-SUFFIX,advanzia.containers.piwik.pro,REJECT
@@ -6599,6 +6604,7 @@ rules:
   - DOMAIN-SUFFIX,adventurefeeds.xml.ak-is2.net,REJECT
   - DOMAIN-SUFFIX,adventuregamers.xyz,REJECT
   - DOMAIN-SUFFIX,adventureinnmoab.world,REJECT
+  - DOMAIN-SUFFIX,adventurenewsnetwork.pro,REJECT
   - DOMAIN-SUFFIX,adventurerarmory.com,REJECT
   - DOMAIN-SUFFIX,adventures-from-home.com,REJECT
   - DOMAIN-SUFFIX,adventures-nacho-social.com,REJECT
@@ -6860,7 +6866,6 @@ rules:
   - DOMAIN-SUFFIX,advpx.com,REJECT
   - DOMAIN-SUFFIX,advpy.com,REJECT
   - DOMAIN-SUFFIX,advpz.com,REJECT
-  - DOMAIN-SUFFIX,advq.troove.top,REJECT
   - DOMAIN-SUFFIX,advrich.com,REJECT
   - DOMAIN-SUFFIX,advrts.onelouder.com,REJECT
   - DOMAIN-SUFFIX,advrts.s3.amazonaws.com,REJECT
@@ -7320,6 +7325,7 @@ rules:
   - DOMAIN-SUFFIX,aggluglose.pro,REJECT
   - DOMAIN-SUFFIX,aggobirris.pro,REJECT
   - DOMAIN-SUFFIX,aggradiale.pro,REJECT
+  - DOMAIN-SUFFIX,aggradispa.pro,REJECT
   - DOMAIN-SUFFIX,aggraetolo.pro,REJECT
   - DOMAIN-SUFFIX,aggraimput.pro,REJECT
   - DOMAIN-SUFFIX,aggrecatal.pro,REJECT
@@ -7400,7 +7406,6 @@ rules:
   - DOMAIN-SUFFIX,aizhantj.com,REJECT
   - DOMAIN-SUFFIX,aizzesuber.pro,REJECT
   - DOMAIN-SUFFIX,aj4j.icu,REJECT
-  - DOMAIN-SUFFIX,ajcjxczxpmln.pro,REJECT
   - DOMAIN-SUFFIX,ajcode.co,REJECT
   - DOMAIN-SUFFIX,ajfkwwpo.xyz,REJECT
   - DOMAIN-SUFFIX,ajkjbcjbaaaed.com,REJECT
@@ -7439,6 +7444,7 @@ rules:
   - DOMAIN-SUFFIX,alchemytransforms.pro,REJECT
   - DOMAIN-SUFFIX,alchemytransformsus.pro,REJECT
   - DOMAIN-SUFFIX,alciddisbe.pro,REJECT
+  - DOMAIN-SUFFIX,alcohvicar.pro,REJECT
   - DOMAIN-SUFFIX,alcolcrost.pro,REJECT
   - DOMAIN-SUFFIX,alcoldisso.pro,REJECT
   - DOMAIN-SUFFIX,alcolspani.pro,REJECT
@@ -7753,6 +7759,7 @@ rules:
   - DOMAIN-SUFFIX,amplideflo.pro,REJECT
   - DOMAIN-SUFFIX,amplipachu.pro,REJECT
   - DOMAIN-SUFFIX,amrytt.adk2x.com,REJECT
+  - DOMAIN-SUFFIX,ams.adventurousweddingsescape.beauty,REJECT
   - DOMAIN-SUFFIX,ams1-ib.adnxs.com,REJECT
   - DOMAIN-SUFFIX,ams1-mobile.adnxs.com,REJECT
   - DOMAIN-SUFFIX,ams1.ib.adnxs.com,REJECT
@@ -8953,7 +8960,6 @@ rules:
   - DOMAIN-SUFFIX,api.eu1.exponea.com,REJECT
   - DOMAIN-SUFFIX,api.eu1.mparticle.com,REJECT
   - DOMAIN-SUFFIX,api.euro.hismarttv.com,REJECT
-  - DOMAIN-SUFFIX,api.ewfiles.net,REJECT
   - DOMAIN-SUFFIX,api.exc.mob.com,REJECT
   - DOMAIN-SUFFIX,api.exoclick.com,REJECT
   - DOMAIN-SUFFIX,api.exponea.com,REJECT
@@ -10020,6 +10026,7 @@ rules:
   - DOMAIN-SUFFIX,artichokeimpala.pro,REJECT
   - DOMAIN-SUFFIX,artichoketermite.pro,REJECT
   - DOMAIN-SUFFIX,artichoketrout.pro,REJECT
+  - DOMAIN-SUFFIX,articlestoread.pro,REJECT
   - DOMAIN-SUFFIX,articpanna.pro,REJECT
   - DOMAIN-SUFFIX,artiffamer.pro,REJECT
   - DOMAIN-SUFFIX,artifimmor.pro,REJECT
@@ -10189,6 +10196,7 @@ rules:
   - DOMAIN-SUFFIX,assolletam.pro,REJECT
   - DOMAIN-SUFFIX,assolmanic.pro,REJECT
   - DOMAIN-SUFFIX,assondisgu.pro,REJECT
+  - DOMAIN-SUFFIX,assoningan.pro,REJECT
   - DOMAIN-SUFFIX,assorponut.pro,REJECT
   - DOMAIN-SUFFIX,assorrassu.pro,REJECT
   - DOMAIN-SUFFIX,assorrinsu.pro,REJECT
@@ -10247,7 +10255,6 @@ rules:
   - DOMAIN-SUFFIX,atanx2.alicdn.com,REJECT
   - DOMAIN-SUFFIX,atbdkmt.xyz,REJECT
   - DOMAIN-SUFFIX,atc.federated.ui.ssa.advertising.amazon.dev,REJECT
-  - DOMAIN-SUFFIX,atcbcr.pro,REJECT
   - DOMAIN-SUFFIX,ateketonti.pro,REJECT
   - DOMAIN-SUFFIX,atelecare.pro,REJECT
   - DOMAIN-SUFFIX,athanurina.pro,REJECT
@@ -10497,6 +10504,7 @@ rules:
   - DOMAIN-SUFFIX,avvigraddi.pro,REJECT
   - DOMAIN-SUFFIX,avvilinfre.pro,REJECT
   - DOMAIN-SUFFIX,avvinsconv.pro,REJECT
+  - DOMAIN-SUFFIX,avviscabme.pro,REJECT
   - DOMAIN-SUFFIX,avvitrestr.pro,REJECT
   - DOMAIN-SUFFIX,avvolhydro.pro,REJECT
   - DOMAIN-SUFFIX,avvolperid.pro,REJECT
@@ -10533,7 +10541,6 @@ rules:
   - DOMAIN-SUFFIX,aweuwv.advanced-web-analytics.com,REJECT
   - DOMAIN-SUFFIX,awiudbyqbpo.com,REJECT
   - DOMAIN-SUFFIX,awppcivuse1.advanced-web-analytics.com,REJECT
-  - DOMAIN-SUFFIX,awpwzbbhixuo.pro,REJECT
   - DOMAIN-SUFFIX,aws-api.sail-personalize.com,REJECT
   - DOMAIN-SUFFIX,aws-update.net,REJECT
   - DOMAIN-SUFFIX,aws.dsp.madserving.com,REJECT
@@ -10548,7 +10555,6 @@ rules:
   - DOMAIN-SUFFIX,axcdt.cn,REJECT
   - DOMAIN-SUFFIX,axcdy.cn,REJECT
   - DOMAIN-SUFFIX,axcs.ashcnq.cn,REJECT
-  - DOMAIN-SUFFIX,axgnba.pro,REJECT
   - DOMAIN-SUFFIX,axileunfei.pro,REJECT
   - DOMAIN-SUFFIX,axiom-pro-app.com,REJECT
   - DOMAIN-SUFFIX,axiom-pro.online,REJECT
@@ -11076,6 +11082,7 @@ rules:
   - DOMAIN-SUFFIX,bead-ad.com,REJECT
   - DOMAIN-SUFFIX,beads.sx.atl.publicus.com,REJECT
   - DOMAIN-SUFFIX,beamidiswe.pro,REJECT
+  - DOMAIN-SUFFIX,beaneranno.pro,REJECT
   - DOMAIN-SUFFIX,beap.adss.yahoo.com,REJECT
   - DOMAIN-SUFFIX,beap.gemini.yahoo.com,REJECT
   - DOMAIN-SUFFIX,bearastepf.pro,REJECT
@@ -11233,11 +11240,13 @@ rules:
   - DOMAIN-SUFFIX,beshrinapp.pro,REJECT
   - DOMAIN-SUFFIX,besliholmi.pro,REJECT
   - DOMAIN-SUFFIX,besmeargleor.com,REJECT
+  - DOMAIN-SUFFIX,besoventa.pro,REJECT
   - DOMAIN-SUFFIX,best-click.pro,REJECT
   - DOMAIN-SUFFIX,bestadsforyou.com,REJECT
   - DOMAIN-SUFFIX,bestadsrv.com,REJECT
   - DOMAIN-SUFFIX,bestapiaci.pro,REJECT
   - DOMAIN-SUFFIX,beste1.icu,REJECT
+  - DOMAIN-SUFFIX,bestfeeddaily.pro,REJECT
   - DOMAIN-SUFFIX,bestfunnyads.com,REJECT
   - DOMAIN-SUFFIX,bestihawse.pro,REJECT
   - DOMAIN-SUFFIX,bestispiri.pro,REJECT
@@ -11369,7 +11378,6 @@ rules:
   - DOMAIN-SUFFIX,billiard-local-ads-manage-git075863.vercel.app,REJECT
   - DOMAIN-SUFFIX,billtcarbu.pro,REJECT
   - DOMAIN-SUFFIX,bilocexagg.pro,REJECT
-  - DOMAIN-SUFFIX,bilouv.pro,REJECT
   - DOMAIN-SUFFIX,bindepremu.pro,REJECT
   - DOMAIN-SUFFIX,bindoaggom.pro,REJECT
   - DOMAIN-SUFFIX,bindodisat.pro,REJECT
@@ -11877,7 +11885,6 @@ rules:
   - DOMAIN-SUFFIX,bozzocadut.pro,REJECT
   - DOMAIN-SUFFIX,bp.mobad.ijinshan.com,REJECT
   - DOMAIN-SUFFIX,bpcuploads.com,REJECT
-  - DOMAIN-SUFFIX,bpuhdj.pro,REJECT
   - DOMAIN-SUFFIX,bpztsxx.com,REJECT
   - DOMAIN-SUFFIX,bqdzvl.xyz,REJECT
   - DOMAIN-SUFFIX,bqgimgs1.cdn.bcebos.com,REJECT
@@ -11887,6 +11894,7 @@ rules:
   - DOMAIN-SUFFIX,br.bendan.shop,REJECT
   - DOMAIN-SUFFIX,brabablood.pro,REJECT
   - DOMAIN-SUFFIX,braccacell.pro,REJECT
+  - DOMAIN-SUFFIX,bracclocup.pro,REJECT
   - DOMAIN-SUFFIX,braccoscur.pro,REJECT
   - DOMAIN-SUFFIX,braccpirat.pro,REJECT
   - DOMAIN-SUFFIX,braccrepre.pro,REJECT
@@ -11951,6 +11959,7 @@ rules:
   - DOMAIN-SUFFIX,brbiironi.pro,REJECT
   - DOMAIN-SUFFIX,breacister.pro,REJECT
   - DOMAIN-SUFFIX,breadglute.pro,REJECT
+  - DOMAIN-SUFFIX,breakingstorieshub.pro,REJECT
   - DOMAIN-SUFFIX,breathertz.pro,REJECT
   - DOMAIN-SUFFIX,breatsudse.pro,REJECT
   - DOMAIN-SUFFIX,breecsurre.pro,REJECT
@@ -11990,6 +11999,7 @@ rules:
   - DOMAIN-SUFFIX,brezzgelat.pro,REJECT
   - DOMAIN-SUFFIX,brfgbn.xyz,REJECT
   - DOMAIN-SUFFIX,brfvyrrp.com,REJECT
+  - DOMAIN-SUFFIX,bribbprope.pro,REJECT
   - DOMAIN-SUFFIX,bricicoibe.pro,REJECT
   - DOMAIN-SUFFIX,bricks.e.qq.com,REJECT
   - DOMAIN-SUFFIX,bridgeoos.com,REJECT
@@ -12131,7 +12141,6 @@ rules:
   - DOMAIN-SUFFIX,brixontal.pro,REJECT
   - DOMAIN-SUFFIX,brnsshahi.pro,REJECT
   - DOMAIN-SUFFIX,bro.flyme.cn,REJECT
-  - DOMAIN-SUFFIX,broadsexplorer.com,REJECT
   - DOMAIN-SUFFIX,broadsheetspikesnick.com,REJECT
   - DOMAIN-SUFFIX,broadsidedaisysanta.com,REJECT
   - DOMAIN-SUFFIX,broadsimp.site,REJECT
@@ -12318,7 +12327,6 @@ rules:
   - DOMAIN-SUFFIX,bugsee-api-prod.elasticbeanstalk.com,REJECT
   - DOMAIN-SUFFIX,buildvenez.pro,REJECT
   - DOMAIN-SUFFIX,bujiangjiu123.com,REJECT
-  - DOMAIN-SUFFIX,bujuhuy9.pro,REJECT
   - DOMAIN-SUFFIX,bulbofala.pro,REJECT
   - DOMAIN-SUFFIX,bulgaachte.pro,REJECT
   - DOMAIN-SUFFIX,bulgadisac.pro,REJECT
@@ -12332,6 +12340,7 @@ rules:
   - DOMAIN-SUFFIX,bulkysnail.pro,REJECT
   - DOMAIN-SUFFIX,bulldelett.pro,REJECT
   - DOMAIN-SUFFIX,bulldsyncr.pro,REJECT
+  - DOMAIN-SUFFIX,bulliaccag.pro,REJECT
   - DOMAIN-SUFFIX,bullobalan.pro,REJECT
   - DOMAIN-SUFFIX,bullodesce.pro,REJECT
   - DOMAIN-SUFFIX,bullorilec.pro,REJECT
@@ -12871,6 +12880,7 @@ rules:
   - DOMAIN-SUFFIX,carpodiscu.pro,REJECT
   - DOMAIN-SUFFIX,carredispe.pro,REJECT
   - DOMAIN-SUFFIX,carremetan.pro,REJECT
+  - DOMAIN-SUFFIX,carrepalel.pro,REJECT
   - DOMAIN-SUFFIX,carrick-ui.advoncommerce.com,REJECT
   - DOMAIN-SUFFIX,carriester.pro,REJECT
   - DOMAIN-SUFFIX,carrotcrayfish.pro,REJECT
@@ -13386,6 +13396,7 @@ rules:
   - DOMAIN-SUFFIX,cepacsinuo.pro,REJECT
   - DOMAIN-SUFFIX,cephapostr.pro,REJECT
   - DOMAIN-SUFFIX,ceppetwine.pro,REJECT
+  - DOMAIN-SUFFIX,ceramfrate.pro,REJECT
   - DOMAIN-SUFFIX,cerammaled.pro,REJECT
   - DOMAIN-SUFFIX,cerasironi.pro,REJECT
   - DOMAIN-SUFFIX,ceratdisla.pro,REJECT
@@ -13457,7 +13468,6 @@ rules:
   - DOMAIN-SUFFIX,ceuswatcab01.blob.core.windows.net,REJECT
   - DOMAIN-SUFFIX,ceuswatcab02.blob.core.windows.net,REJECT
   - DOMAIN-SUFFIX,cevenoestr.pro,REJECT
-  - DOMAIN-SUFFIX,cexovye8.pro,REJECT
   - DOMAIN-SUFFIX,cexygoo7.pro,REJECT
   - DOMAIN-SUFFIX,cezonix.pro,REJECT
   - DOMAIN-SUFFIX,cezonixpro.pro,REJECT
@@ -13930,6 +13940,7 @@ rules:
   - DOMAIN-SUFFIX,chudicostu.pro,REJECT
   - DOMAIN-SUFFIX,chugguregua.pro,REJECT
   - DOMAIN-SUFFIX,chugnastrig.pro,REJECT
+  - DOMAIN-SUFFIX,chuguadventures.co.tz,REJECT
   - DOMAIN-SUFFIX,chulian.gfowedy.cn,REJECT
   - DOMAIN-SUFFIX,chumeng.link,REJECT
   - DOMAIN-SUFFIX,chummspai.pro,REJECT
@@ -14504,6 +14515,7 @@ rules:
   - DOMAIN-SUFFIX,codimgratu.pro,REJECT
   - DOMAIN-SUFFIX,coedibenef.pro,REJECT
   - DOMAIN-SUFFIX,coediregar.pro,REJECT
+  - DOMAIN-SUFFIX,coeffchann.pro,REJECT
   - DOMAIN-SUFFIX,coeffconta.pro,REJECT
   - DOMAIN-SUFFIX,coelanordi.pro,REJECT
   - DOMAIN-SUFFIX,coelestone.pro,REJECT
@@ -14632,6 +14644,7 @@ rules:
   - DOMAIN-SUFFIX,com.yxcorp.gifshow.ad,REJECT
   - DOMAIN-SUFFIX,com.yxcorp.gifshow.map,REJECT
   - DOMAIN-SUFFIX,combamasca.pro,REJECT
+  - DOMAIN-SUFFIX,combamonan.pro,REJECT
   - DOMAIN-SUFFIX,combibarbu.pro,REJECT
   - DOMAIN-SUFFIX,combitrasl.pro,REJECT
   - DOMAIN-SUFFIX,comeddispo.pro,REJECT
@@ -14870,6 +14883,7 @@ rules:
   - DOMAIN-SUFFIX,congrdribb.pro,REJECT
   - DOMAIN-SUFFIX,congrindug.pro,REJECT
   - DOMAIN-SUFFIX,congrmargi.pro,REJECT
+  - DOMAIN-SUFFIX,congrquadr.pro,REJECT
   - DOMAIN-SUFFIX,congubusch.pro,REJECT
   - DOMAIN-SUFFIX,coniucarto.pro,REJECT
   - DOMAIN-SUFFIX,coniurimba.pro,REJECT
@@ -15529,6 +15543,7 @@ rules:
   - DOMAIN-SUFFIX,crucipropl.pro,REJECT
   - DOMAIN-SUFFIX,cruciricom.pro,REJECT
   - DOMAIN-SUFFIX,crucisciac.pro,REJECT
+  - DOMAIN-SUFFIX,crucizymas.pro,REJECT
   - DOMAIN-SUFFIX,crudmupiate.pro,REJECT
   - DOMAIN-SUFFIX,crueldisco.pro,REJECT
   - DOMAIN-SUFFIX,cruenititu.pro,REJECT
@@ -15546,7 +15561,6 @@ rules:
   - DOMAIN-SUFFIX,crystalbittern.pro,REJECT
   - DOMAIN-SUFFIX,crystalblazingwhirl.pro,REJECT
   - DOMAIN-SUFFIX,crystalbreeze.pro,REJECT
-  - DOMAIN-SUFFIX,crystalclearwaters.pro,REJECT
   - DOMAIN-SUFFIX,crystalcopperhead.pro,REJECT
   - DOMAIN-SUFFIX,crystalcrest.pro,REJECT
   - DOMAIN-SUFFIX,crystaljourney.pro,REJECT
@@ -15819,7 +15833,6 @@ rules:
   - DOMAIN-SUFFIX,cyhbrjf.cn,REJECT
   - DOMAIN-SUFFIX,cyhners.ero-advertising.com,REJECT
   - DOMAIN-SUFFIX,cyjemae8.pro,REJECT
-  - DOMAIN-SUFFIX,cyjwsx.pro,REJECT
   - DOMAIN-SUFFIX,cyluvie2.pro,REJECT
   - DOMAIN-SUFFIX,cymblinter.pro,REJECT
   - DOMAIN-SUFFIX,cymujiohio.pro,REJECT
@@ -16220,7 +16233,6 @@ rules:
   - DOMAIN-SUFFIX,dawekii3.pro,REJECT
   - DOMAIN-SUFFIX,dawnnationaladvertiser.com,REJECT
   - DOMAIN-SUFFIX,dawufai2.pro,REJECT
-  - DOMAIN-SUFFIX,daxigei8.pro,REJECT
   - DOMAIN-SUFFIX,daxivue8.pro,REJECT
   - DOMAIN-SUFFIX,daybeprese.pro,REJECT
   - DOMAIN-SUFFIX,dayboappen.pro,REJECT
@@ -16364,6 +16376,7 @@ rules:
   - DOMAIN-SUFFIX,debonregat.pro,REJECT
   - DOMAIN-SUFFIX,deboranaer.pro,REJECT
   - DOMAIN-SUFFIX,debroglie.advertising.a2z.com,REJECT
+  - DOMAIN-SUFFIX,debsesclu.pro,REJECT
   - DOMAIN-SUFFIX,debtnologot.pro,REJECT
   - DOMAIN-SUFFIX,debutingob.pro,REJECT
   - DOMAIN-SUFFIX,debutlynet.pro,REJECT
@@ -16651,7 +16664,6 @@ rules:
   - DOMAIN-SUFFIX,denticavil.pro,REJECT
   - DOMAIN-SUFFIX,dentigland.pro,REJECT
   - DOMAIN-SUFFIX,dentisepar.pro,REJECT
-  - DOMAIN-SUFFIX,dentsadventure.com,REJECT
   - DOMAIN-SUFFIX,denudcompi.pro,REJECT
   - DOMAIN-SUFFIX,denudriabb.pro,REJECT
   - DOMAIN-SUFFIX,denudtrivi.pro,REJECT
@@ -17194,6 +17206,7 @@ rules:
   - DOMAIN-SUFFIX,disaunovel.pro,REJECT
   - DOMAIN-SUFFIX,disautetra.pro,REJECT
   - DOMAIN-SUFFIX,disavabort.pro,REJECT
+  - DOMAIN-SUFFIX,disavforfe.pro,REJECT
   - DOMAIN-SUFFIX,disavmicro.pro,REJECT
   - DOMAIN-SUFFIX,disavnulla.pro,REJECT
   - DOMAIN-SUFFIX,disavtutta.pro,REJECT
@@ -17388,6 +17401,7 @@ rules:
   - DOMAIN-SUFFIX,dislafouet.pro,REJECT
   - DOMAIN-SUFFIX,dislaparti.pro,REJECT
   - DOMAIN-SUFFIX,dislariavv.pro,REJECT
+  - DOMAIN-SUFFIX,disleation.pro,REJECT
   - DOMAIN-SUFFIX,dislodecap.pro,REJECT
   - DOMAIN-SUFFIX,dislohydro.pro,REJECT
   - DOMAIN-SUFFIX,dislonarra.pro,REJECT
@@ -17531,6 +17545,7 @@ rules:
   - DOMAIN-SUFFIX,distiprees.pro,REJECT
   - DOMAIN-SUFFIX,distisymbr.pro,REJECT
   - DOMAIN-SUFFIX,distitussl.pro,REJECT
+  - DOMAIN-SUFFIX,distoberti.pro,REJECT
   - DOMAIN-SUFFIX,distoeredi.pro,REJECT
   - DOMAIN-SUFFIX,distomatte.pro,REJECT
   - DOMAIN-SUFFIX,distotermo.pro,REJECT
@@ -17650,7 +17665,6 @@ rules:
   - DOMAIN-SUFFIX,dm.oadz.com,REJECT
   - DOMAIN-SUFFIX,dm.pstatp.com,REJECT
   - DOMAIN-SUFFIX,dm.shouwangba.cn,REJECT
-  - DOMAIN-SUFFIX,dm.tocdefd.com,REJECT
   - DOMAIN-SUFFIX,dm.travelocity.com,REJECT
   - DOMAIN-SUFFIX,dm.video.weibocdn.com,REJECT
   - DOMAIN-SUFFIX,dm.wo.com.cn,REJECT
@@ -18127,7 +18141,6 @@ rules:
   - DOMAIN-SUFFIX,duendpuntu.pro,REJECT
   - DOMAIN-SUFFIX,duennscand.pro,REJECT
   - DOMAIN-SUFFIX,duessvital.pro,REJECT
-  - DOMAIN-SUFFIX,dufxlfaryfyc.pro,REJECT
   - DOMAIN-SUFFIX,dugenrimpa.pro,REJECT
   - DOMAIN-SUFFIX,duhocye9.pro,REJECT
   - DOMAIN-SUFFIX,duier.top,REJECT
@@ -18676,7 +18689,6 @@ rules:
   - DOMAIN-SUFFIX,embolsweet.pro,REJECT
   - DOMAIN-SUFFIX,embraperme.pro,REJECT
   - DOMAIN-SUFFIX,embrioutbl.pro,REJECT
-  - DOMAIN-SUFFIX,emctod.pro,REJECT
   - DOMAIN-SUFFIX,emdcadvertise.eastmoney.com,REJECT
   - DOMAIN-SUFFIX,emea.rel.msn.com,REJECT
   - DOMAIN-SUFFIX,emendrisol.pro,REJECT
@@ -18986,7 +18998,6 @@ rules:
   - DOMAIN-SUFFIX,epomads2.4shared.com,REJECT
   - DOMAIN-SUFFIX,epoun.top,REJECT
   - DOMAIN-SUFFIX,epoxyscaps.pro,REJECT
-  - DOMAIN-SUFFIX,epukdx.pro,REJECT
   - DOMAIN-SUFFIX,epxlt.xyz,REJECT
   - DOMAIN-SUFFIX,eq97f-1j0az.ads.tremorhub.com,REJECT
   - DOMAIN-SUFFIX,eq97f-3ak3i.ads.tremorhub.com,REJECT
@@ -19030,6 +19041,7 @@ rules:
   - DOMAIN-SUFFIX,ergadx.com,REJECT
   - DOMAIN-SUFFIX,ergoncaric.pro,REJECT
   - DOMAIN-SUFFIX,erinominis.pro,REJECT
+  - DOMAIN-SUFFIX,eriopwraxl.pro,REJECT
   - DOMAIN-SUFFIX,eritrblast.pro,REJECT
   - DOMAIN-SUFFIX,erjiyouhuiquan.com,REJECT
   - DOMAIN-SUFFIX,erlirscid.com,REJECT
@@ -19095,6 +19107,7 @@ rules:
   - DOMAIN-SUFFIX,escomjibstu.pro,REJECT
   - DOMAIN-SUFFIX,escomremon.pro,REJECT
   - DOMAIN-SUFFIX,escort-ads.com,REJECT
+  - DOMAIN-SUFFIX,escredeplo.pro,REJECT
   - DOMAIN-SUFFIX,escremalfu.pro,REJECT
   - DOMAIN-SUFFIX,escresgarr.pro,REJECT
   - DOMAIN-SUFFIX,escuerecen.pro,REJECT
@@ -19370,6 +19383,7 @@ rules:
   - DOMAIN-SUFFIX,event.zhihu.com,REJECT
   - DOMAIN-SUFFIX,eventapi.sooplive.co.kr,REJECT
   - DOMAIN-SUFFIX,eventlog.beacon.qq.com,REJECT
+  - DOMAIN-SUFFIX,eventnewsportal.pro,REJECT
   - DOMAIN-SUFFIX,events-analytics.hotstar.com,REJECT
   - DOMAIN-SUFFIX,events-api.otherlevels.com,REJECT
   - DOMAIN-SUFFIX,events-cn.ads.vungle.com,REJECT
@@ -19442,6 +19456,7 @@ rules:
   - DOMAIN-SUFFIX,exchange.adstanding.com,REJECT
   - DOMAIN-SUFFIX,exchange.nativeads.com,REJECT
   - DOMAIN-SUFFIX,excitingadventures.pro,REJECT
+  - DOMAIN-SUFFIX,exclusiveinsights.pro,REJECT
   - DOMAIN-SUFFIX,excsyrv.cn,REJECT
   - DOMAIN-SUFFIX,excurmyoki.pro,REJECT
   - DOMAIN-SUFFIX,exdynsrv.com,REJECT
@@ -19765,7 +19780,6 @@ rules:
   - DOMAIN-SUFFIX,fcpnxx.xyz,REJECT
   - DOMAIN-SUFFIX,fcqztan.cn,REJECT
   - DOMAIN-SUFFIX,fcs23-1.naiadsystems.com,REJECT
-  - DOMAIN-SUFFIX,fcvutavuonar.pro,REJECT
   - DOMAIN-SUFFIX,fcwx3i.skadsdkless.appsflyersdk.com,REJECT
   - DOMAIN-SUFFIX,fdads.sv.publicus.com,REJECT
   - DOMAIN-SUFFIX,fddxbn.xyz,REJECT
@@ -19811,6 +19825,7 @@ rules:
   - DOMAIN-SUFFIX,feedbabsga.pro,REJECT
   - DOMAIN-SUFFIX,feedback-c.zijieapi.com,REJECT
   - DOMAIN-SUFFIX,feedback.uc.cn,REJECT
+  - DOMAIN-SUFFIX,feedcurrentupdates.pro,REJECT
   - DOMAIN-SUFFIX,feeds.vivo.com.cn,REJECT
   - DOMAIN-SUFFIX,feeds.wise-click.com,REJECT
   - DOMAIN-SUFFIX,feedsads.cn,REJECT
@@ -19944,6 +19959,7 @@ rules:
   - DOMAIN-SUFFIX,fidelricol.pro,REJECT
   - DOMAIN-SUFFIX,fiefdrisfa.pro,REJECT
   - DOMAIN-SUFFIX,fieldheal.pro,REJECT
+  - DOMAIN-SUFFIX,fienaaccog.pro,REJECT
   - DOMAIN-SUFFIX,fieniringo.pro,REJECT
   - DOMAIN-SUFFIX,fiercearmadillo.pro,REJECT
   - DOMAIN-SUFFIX,fiercebee.pro,REJECT
@@ -20372,6 +20388,7 @@ rules:
   - DOMAIN-SUFFIX,forarcopul.pro,REJECT
   - DOMAIN-SUFFIX,forbaplumi.pro,REJECT
   - DOMAIN-SUFFIX,forbipreme.pro,REJECT
+  - DOMAIN-SUFFIX,forcituber.pro,REJECT
   - DOMAIN-SUFFIX,fordiammat.pro,REJECT
   - DOMAIN-SUFFIX,forebvedre.pro,REJECT
   - DOMAIN-SUFFIX,forecpyaem.pro,REJECT
@@ -20444,6 +20461,7 @@ rules:
   - DOMAIN-SUFFIX,forwardvision.pro,REJECT
   - DOMAIN-SUFFIX,foryidequa.pro,REJECT
   - DOMAIN-SUFFIX,forzaripia.pro,REJECT
+  - DOMAIN-SUFFIX,forzaunflu.pro,REJECT
   - DOMAIN-SUFFIX,forzubatr.com,REJECT
   - DOMAIN-SUFFIX,foschwharf.pro,REJECT
   - DOMAIN-SUFFIX,fosfobabbi.pro,REJECT
@@ -20758,7 +20776,6 @@ rules:
   - DOMAIN-SUFFIX,fszpzd.xyz,REJECT
   - DOMAIN-SUFFIX,ft8e.top,REJECT
   - DOMAIN-SUFFIX,ftads.net,REJECT
-  - DOMAIN-SUFFIX,ftfvwooymjic.pro,REJECT
   - DOMAIN-SUFFIX,fthqzxq.cn,REJECT
   - DOMAIN-SUFFIX,ftiodfqk.com,REJECT
   - DOMAIN-SUFFIX,ftp.adx1.com,REJECT
@@ -20876,7 +20893,6 @@ rules:
   - DOMAIN-SUFFIX,futtesopra.pro,REJECT
   - DOMAIN-SUFFIX,futureads.io,REJECT
   - DOMAIN-SUFFIX,futurefocusersy.pro,REJECT
-  - DOMAIN-SUFFIX,futureleaders.pro,REJECT
   - DOMAIN-SUFFIX,futuristicchinchilla.pro,REJECT
   - DOMAIN-SUFFIX,futuristiccicada.pro,REJECT
   - DOMAIN-SUFFIX,futuristicgharial.pro,REJECT
@@ -22403,6 +22419,7 @@ rules:
   - DOMAIN-SUFFIX,hadesleta.com,REJECT
   - DOMAIN-SUFFIX,haejkmm.cn,REJECT
   - DOMAIN-SUFFIX,haemadisgr.pro,REJECT
+  - DOMAIN-SUFFIX,haemopseud.pro,REJECT
   - DOMAIN-SUFFIX,haemorimba.pro,REJECT
   - DOMAIN-SUFFIX,haemosoggi.pro,REJECT
   - DOMAIN-SUFFIX,haemostraf.pro,REJECT
@@ -22508,7 +22525,6 @@ rules:
   - DOMAIN-SUFFIX,happyoryx.pro,REJECT
   - DOMAIN-SUFFIX,happyphrase.pro,REJECT
   - DOMAIN-SUFFIX,happypuff.pro,REJECT
-  - DOMAIN-SUFFIX,happyquest.pro,REJECT
   - DOMAIN-SUFFIX,happyrandoms.pro,REJECT
   - DOMAIN-SUFFIX,happysneeze.pro,REJECT
   - DOMAIN-SUFFIX,happyspark.pro,REJECT
@@ -22662,6 +22678,7 @@ rules:
   - DOMAIN-SUFFIX,headwhepat.pro,REJECT
   - DOMAIN-SUFFIX,health-partner.net,REJECT
   - DOMAIN-SUFFIX,healthdata.dbankcloud.cn,REJECT
+  - DOMAIN-SUFFIX,healthtechqualityadvisors.com,REJECT
   - DOMAIN-SUFFIX,heapepeir.pro,REJECT
   - DOMAIN-SUFFIX,heartyharmony.pro,REJECT
   - DOMAIN-SUFFIX,heatidereq.pro,REJECT
@@ -22765,7 +22782,6 @@ rules:
   - DOMAIN-SUFFIX,hereticvole.pro,REJECT
   - DOMAIN-SUFFIX,hereticwapiti.pro,REJECT
   - DOMAIN-SUFFIX,heritsirin.pro,REJECT
-  - DOMAIN-SUFFIX,herkguxhkogr.pro,REJECT
   - DOMAIN-SUFFIX,hermapadro.pro,REJECT
   - DOMAIN-SUFFIX,hermarokea.pro,REJECT
   - DOMAIN-SUFFIX,heroialkan.pro,REJECT
@@ -22938,7 +22954,6 @@ rules:
   - DOMAIN-SUFFIX,hm.woozooo.com,REJECT
   - DOMAIN-SUFFIX,hm2.cnzz.com,REJECT
   - DOMAIN-SUFFIX,hm3.cnzz.com,REJECT
-  - DOMAIN-SUFFIX,hmbjydxvypgx.pro,REJECT
   - DOMAIN-SUFFIX,hmcubp.top,REJECT
   - DOMAIN-SUFFIX,hmjhnkas.com,REJECT
   - DOMAIN-SUFFIX,hmjs.cnmo-img.com.cn,REJECT
@@ -23095,7 +23110,6 @@ rules:
   - DOMAIN-SUFFIX,houston.advgo.net,REJECT
   - DOMAIN-SUFFIX,houtai.2345.com,REJECT
   - DOMAIN-SUFFIX,houyi.kkmh.com,REJECT
-  - DOMAIN-SUFFIX,hovejyi.pro,REJECT
   - DOMAIN-SUFFIX,hovezerifre.pro,REJECT
   - DOMAIN-SUFFIX,hovuvay3.pro,REJECT
   - DOMAIN-SUFFIX,howlingwolvescallpack.pro,REJECT
@@ -23188,6 +23202,7 @@ rules:
   - DOMAIN-SUFFIX,hubble-web.production.ads.tmmp.io,REJECT
   - DOMAIN-SUFFIX,hubciddata.sandai.net,REJECT
   - DOMAIN-SUFFIX,hubcloud.com.cn,REJECT
+  - DOMAIN-SUFFIX,hubfeednews.pro,REJECT
   - DOMAIN-SUFFIX,hubiazhi.com,REJECT
   - DOMAIN-SUFFIX,hubt.pornhub.com,REJECT
   - DOMAIN-SUFFIX,hubuxay3.pro,REJECT
@@ -23491,6 +23506,7 @@ rules:
   - DOMAIN-SUFFIX,iask.qq.com,REJECT
   - DOMAIN-SUFFIX,iatroscomp.pro,REJECT
   - DOMAIN-SUFFIX,iau.adsiduous.com,REJECT
+  - DOMAIN-SUFFIX,iazure.pro,REJECT
   - DOMAIN-SUFFIX,ib-hl.snssdk.com,REJECT
   - DOMAIN-SUFFIX,ib.adnxs-simple.com,REJECT
   - DOMAIN-SUFFIX,ib.adnxs.com,REJECT
@@ -23521,7 +23537,6 @@ rules:
   - DOMAIN-SUFFIX,ib7.bcc-ads.com,REJECT
   - DOMAIN-SUFFIX,ib8.bcc-ads.com,REJECT
   - DOMAIN-SUFFIX,ib9.bcc-ads.com,REJECT
-  - DOMAIN-SUFFIX,ibahqcqqvjis.pro,REJECT
   - DOMAIN-SUFFIX,ibanaratte.pro,REJECT
   - DOMAIN-SUFFIX,ibernimper.pro,REJECT
   - DOMAIN-SUFFIX,ibernspere.pro,REJECT
@@ -24363,6 +24378,7 @@ rules:
   - DOMAIN-SUFFIX,incomsegre.pro,REJECT
   - DOMAIN-SUFFIX,incomtrian.pro,REJECT
   - DOMAIN-SUFFIX,inconbisla.pro,REJECT
+  - DOMAIN-SUFFIX,inconerump.pro,REJECT
   - DOMAIN-SUFFIX,inconverve.pro,REJECT
   - DOMAIN-SUFFIX,incorconin.pro,REJECT
   - DOMAIN-SUFFIX,incorfarin.pro,REJECT
@@ -24426,6 +24442,7 @@ rules:
   - DOMAIN-SUFFIX,indiguniso.pro,REJECT
   - DOMAIN-SUFFIX,indirads.org,REJECT
   - DOMAIN-SUFFIX,indisdemor.pro,REJECT
+  - DOMAIN-SUFFIX,indisdiseg.pro,REJECT
   - DOMAIN-SUFFIX,indisequil.pro,REJECT
   - DOMAIN-SUFFIX,indisgalva.pro,REJECT
   - DOMAIN-SUFFIX,indismaggi.pro,REJECT
@@ -24576,6 +24593,7 @@ rules:
   - DOMAIN-SUFFIX,infocenter.meizu.com,REJECT
   - DOMAIN-SUFFIX,infocprobo.pro,REJECT
   - DOMAIN-SUFFIX,infodmnemo.pro,REJECT
+  - DOMAIN-SUFFIX,infofeedhub.pro,REJECT
   - DOMAIN-SUFFIX,infogricre.pro,REJECT
   - DOMAIN-SUFFIX,infogtrill.pro,REJECT
   - DOMAIN-SUFFIX,infoistraf.pro,REJECT
@@ -24832,7 +24850,6 @@ rules:
   - DOMAIN-SUFFIX,inspiredvision.pro,REJECT
   - DOMAIN-SUFFIX,inspiredwhispers.pro,REJECT
   - DOMAIN-SUFFIX,inspiringflame.pro,REJECT
-  - DOMAIN-SUFFIX,inspiringmeadow.pro,REJECT
   - DOMAIN-SUFFIX,inspiringnonsense.pro,REJECT
   - DOMAIN-SUFFIX,inspiringshore.pro,REJECT
   - DOMAIN-SUFFIX,inst.360safe.com,REJECT
@@ -25105,6 +25122,7 @@ rules:
   - DOMAIN-SUFFIX,invilsdazi.pro,REJECT
   - DOMAIN-SUFFIX,invipdisco.pro,REJECT
   - DOMAIN-SUFFIX,invipsente.pro,REJECT
+  - DOMAIN-SUFFIX,inviscereo.pro,REJECT
   - DOMAIN-SUFFIX,inviscomen.pro,REJECT
   - DOMAIN-SUFFIX,invisfreet.pro,REJECT
   - DOMAIN-SUFFIX,invisiblecuscus.pro,REJECT
@@ -25428,7 +25446,6 @@ rules:
   - DOMAIN-SUFFIX,jadserve.postrelease.com,REJECT
   - DOMAIN-SUFFIX,jadserve.postrelease.com.akadns.net,REJECT
   - DOMAIN-SUFFIX,jagyseu.pro,REJECT
-  - DOMAIN-SUFFIX,jahicio6.pro,REJECT
   - DOMAIN-SUFFIX,jailoreint.pro,REJECT
   - DOMAIN-SUFFIX,jakaxie1.pro,REJECT
   - DOMAIN-SUFFIX,jakid.xyz,REJECT
@@ -25595,7 +25612,6 @@ rules:
   - DOMAIN-SUFFIX,jizzads.com,REJECT
   - DOMAIN-SUFFIX,jjade.xyz,REJECT
   - DOMAIN-SUFFIX,jjdk33.com,REJECT
-  - DOMAIN-SUFFIX,jjgkqv.pro,REJECT
   - DOMAIN-SUFFIX,jjjak.com,REJECT
   - DOMAIN-SUFFIX,jjjcyjj.cn,REJECT
   - DOMAIN-SUFFIX,jjkiahh.icu,REJECT
@@ -25746,7 +25762,6 @@ rules:
   - DOMAIN-SUFFIX,joyfuljigsawers.pro,REJECT
   - DOMAIN-SUFFIX,joyfuljingles.pro,REJECT
   - DOMAIN-SUFFIX,joyfuljolt.pro,REJECT
-  - DOMAIN-SUFFIX,joyfuljourney.pro,REJECT
   - DOMAIN-SUFFIX,joyfuljourneyrs.pro,REJECT
   - DOMAIN-SUFFIX,joyfuljourneyrse.pro,REJECT
   - DOMAIN-SUFFIX,joyfuljourneys.pro,REJECT
@@ -26124,7 +26139,6 @@ rules:
   - DOMAIN-SUFFIX,kc-valves.com,REJECT
   - DOMAIN-SUFFIX,kcnwe.xyz,REJECT
   - DOMAIN-SUFFIX,kcybtc.ezzgnn.info,REJECT
-  - DOMAIN-SUFFIX,kcykasbhbznj.pro,REJECT
   - DOMAIN-SUFFIX,kd.api.agrantsem.com,REJECT
   - DOMAIN-SUFFIX,kdcl.pchome.com.tw,REJECT
   - DOMAIN-SUFFIX,kdcxhr.cn,REJECT
@@ -26208,6 +26222,7 @@ rules:
   - DOMAIN-SUFFIX,kiks.yandex.ru,REJECT
   - DOMAIN-SUFFIX,killeaquin.pro,REJECT
   - DOMAIN-SUFFIX,killinonat.pro,REJECT
+  - DOMAIN-SUFFIX,kilommoral.pro,REJECT
   - DOMAIN-SUFFIX,kilomniadst.info,REJECT
   - DOMAIN-SUFFIX,kilomorang.pro,REJECT
   - DOMAIN-SUFFIX,kilomporzi.pro,REJECT
@@ -26298,7 +26313,6 @@ rules:
   - DOMAIN-SUFFIX,knjmhmk.com,REJECT
   - DOMAIN-SUFFIX,knliylh.cn,REJECT
   - DOMAIN-SUFFIX,knlk2md.cn,REJECT
-  - DOMAIN-SUFFIX,knmuxc.pro,REJECT
   - DOMAIN-SUFFIX,knmwrkw.xyz,REJECT
   - DOMAIN-SUFFIX,knowhramma.pro,REJECT
   - DOMAIN-SUFFIX,knowingherring.pro,REJECT
@@ -26311,7 +26325,6 @@ rules:
   - DOMAIN-SUFFIX,kobutopic.pro,REJECT
   - DOMAIN-SUFFIX,koceliy2.pro,REJECT
   - DOMAIN-SUFFIX,kochava.adsmeasurement.com,REJECT
-  - DOMAIN-SUFFIX,kociwoy4.pro,REJECT
   - DOMAIN-SUFFIX,kodfn.xyz,REJECT
   - DOMAIN-SUFFIX,kohuzeo2.pro,REJECT
   - DOMAIN-SUFFIX,kojangrech.pro,REJECT
@@ -26376,7 +26389,6 @@ rules:
   - DOMAIN-SUFFIX,ktienld.top,REJECT
   - DOMAIN-SUFFIX,ktk7k-1eakg.ads.tremorhub.com,REJECT
   - DOMAIN-SUFFIX,ktokto.mobi,REJECT
-  - DOMAIN-SUFFIX,ktqtyggmqgug.pro,REJECT
   - DOMAIN-SUFFIX,ktx769.cc,REJECT
   - DOMAIN-SUFFIX,ku11.pro,REJECT
   - DOMAIN-SUFFIX,ku6.cnzz.com,REJECT
@@ -26405,7 +26417,6 @@ rules:
   - DOMAIN-SUFFIX,kv-analytics.kiotviet.vn,REJECT
   - DOMAIN-SUFFIX,kv.joinads.me,REJECT
   - DOMAIN-SUFFIX,kv8899.com,REJECT
-  - DOMAIN-SUFFIX,kvbxxi.pro,REJECT
   - DOMAIN-SUFFIX,kvinit-prod.api.kochava.com,REJECT
   - DOMAIN-SUFFIX,kvsqa.xyz,REJECT
   - DOMAIN-SUFFIX,kw.ads.justpremium.com,REJECT
@@ -26435,7 +26446,6 @@ rules:
   - DOMAIN-SUFFIX,kzchyhr.cn,REJECT
   - DOMAIN-SUFFIX,kzgmpu.com,REJECT
   - DOMAIN-SUFFIX,kzjkexn.cn,REJECT
-  - DOMAIN-SUFFIX,kznnvknblmfl.pro,REJECT
   - DOMAIN-SUFFIX,kzuxlydg.icu,REJECT
   - DOMAIN-SUFFIX,l.aaxads.com,REJECT
   - DOMAIN-SUFFIX,l.flat-ads.com,REJECT
@@ -26589,6 +26599,7 @@ rules:
   - DOMAIN-SUFFIX,lassacleru.pro,REJECT
   - DOMAIN-SUFFIX,latam.adspecs.yahoo.com,REJECT
   - DOMAIN-SUFFIX,latchpanha.pro,REJECT
+  - DOMAIN-SUFFIX,latestactionnews.pro,REJECT
   - DOMAIN-SUFFIX,latifanate.pro,REJECT
   - DOMAIN-SUFFIX,latifmitte.pro,REJECT
   - DOMAIN-SUFFIX,latimralis.pro,REJECT
@@ -27036,7 +27047,6 @@ rules:
   - DOMAIN-SUFFIX,litchiads.com,REJECT
   - DOMAIN-SUFFIX,lite.a.market.xiaomi.com,REJECT
   - DOMAIN-SUFFIX,liteapi.ekatox.com,REJECT
-  - DOMAIN-SUFFIX,litehotnews24gr.pro,REJECT
   - DOMAIN-SUFFIX,literalaigu.pro,REJECT
   - DOMAIN-SUFFIX,literateflounder.pro,REJECT
   - DOMAIN-SUFFIX,literateorangutan.pro,REJECT
@@ -27218,6 +27228,7 @@ rules:
   - DOMAIN-SUFFIX,loadsm87artconnect.online,REJECT
   - DOMAIN-SUFFIX,loadstartsy1stem.space,REJECT
   - DOMAIN-SUFFIX,loadsurprise.com,REJECT
+  - DOMAIN-SUFFIX,loadsystemgloba9l.online,REJECT
   - DOMAIN-SUFFIX,loathsopra.pro,REJECT
   - DOMAIN-SUFFIX,lobelgallo.pro,REJECT
   - DOMAIN-SUFFIX,lobosuo1.pro,REJECT
@@ -27354,6 +27365,7 @@ rules:
   - DOMAIN-SUFFIX,longarestr.pro,REJECT
   - DOMAIN-SUFFIX,longebuzan.pro,REJECT
   - DOMAIN-SUFFIX,longieteri.pro,REJECT
+  - DOMAIN-SUFFIX,longipolys.pro,REJECT
   - DOMAIN-SUFFIX,longitudeads-com.videoplayerhub.com,REJECT
   - DOMAIN-SUFFIX,longulusis.pro,REJECT
   - DOMAIN-SUFFIX,lonsneoco.pro,REJECT
@@ -27644,7 +27656,6 @@ rules:
   - DOMAIN-SUFFIX,lustrspart.pro,REJECT
   - DOMAIN-SUFFIX,lustrstrav.pro,REJECT
   - DOMAIN-SUFFIX,luteotruce.pro,REJECT
-  - DOMAIN-SUFFIX,luvonue8.pro,REJECT
   - DOMAIN-SUFFIX,luwapao7.pro,REJECT
   - DOMAIN-SUFFIX,luxadv.com,REJECT
   - DOMAIN-SUFFIX,luxecraze.pro,REJECT
@@ -27673,7 +27684,6 @@ rules:
   - DOMAIN-SUFFIX,lydajie0.pro,REJECT
   - DOMAIN-SUFFIX,lydajuu3.pro,REJECT
   - DOMAIN-SUFFIX,lyewe.xyz,REJECT
-  - DOMAIN-SUFFIX,lyewfndsvvpq.pro,REJECT
   - DOMAIN-SUFFIX,lyfiwoy.pro,REJECT
   - DOMAIN-SUFFIX,lygjgzc.com,REJECT
   - DOMAIN-SUFFIX,lyhonua.pro,REJECT
@@ -28368,7 +28378,6 @@ rules:
   - DOMAIN-SUFFIX,mclick.mobi,REJECT
   - DOMAIN-SUFFIX,mclick.simba.taobao.com,REJECT
   - DOMAIN-SUFFIX,mclseww.top,REJECT
-  - DOMAIN-SUFFIX,mcnpcb.pro,REJECT
   - DOMAIN-SUFFIX,mdhxyhl.cn,REJECT
   - DOMAIN-SUFFIX,mdkjefq.cn,REJECT
   - DOMAIN-SUFFIX,mdp-appconf-sg.heytapdl.com,REJECT
@@ -29239,6 +29248,7 @@ rules:
   - DOMAIN-SUFFIX,moonlriabb.pro,REJECT
   - DOMAIN-SUFFIX,mopanscomp.pro,REJECT
   - DOMAIN-SUFFIX,mopleintav.pro,REJECT
+  - DOMAIN-SUFFIX,mopusricon.pro,REJECT
   - DOMAIN-SUFFIX,moracpalla.pro,REJECT
   - DOMAIN-SUFFIX,moralbuckp.pro,REJECT
   - DOMAIN-SUFFIX,moralinflu.pro,REJECT
@@ -29252,6 +29262,7 @@ rules:
   - DOMAIN-SUFFIX,mores.toponad.com,REJECT
   - DOMAIN-SUFFIX,morfeadope.pro,REJECT
   - DOMAIN-SUFFIX,morigrinca.pro,REJECT
+  - DOMAIN-SUFFIX,moriripere.pro,REJECT
   - DOMAIN-SUFFIX,morlsikr.pro,REJECT
   - DOMAIN-SUFFIX,mormogeoma.pro,REJECT
   - DOMAIN-SUFFIX,morningwhisper.pro,REJECT
@@ -29574,6 +29585,7 @@ rules:
   - DOMAIN-SUFFIX,mylottoadserv.com,REJECT
   - DOMAIN-SUFFIX,mymeadville.com,REJECT
   - DOMAIN-SUFFIX,mynet-pbs.theadx.com,REJECT
+  - DOMAIN-SUFFIX,myogevolia.pro,REJECT
   - DOMAIN-SUFFIX,myotounwri.pro,REJECT
   - DOMAIN-SUFFIX,mypopads.com,REJECT
   - DOMAIN-SUFFIX,myqague4.pro,REJECT
@@ -29998,6 +30010,7 @@ rules:
   - DOMAIN-SUFFIX,newads.cmpnet.com,REJECT
   - DOMAIN-SUFFIX,newadserver.interfree.it,REJECT
   - DOMAIN-SUFFIX,newbopercu.pro,REJECT
+  - DOMAIN-SUFFIX,newbrightsroom.pro,REJECT
   - DOMAIN-SUFFIX,newlog.reader.qq.com,REJECT
   - DOMAIN-SUFFIX,newmatruci.pro,REJECT
   - DOMAIN-SUFFIX,news-flash.net,REJECT
@@ -30008,6 +30021,7 @@ rules:
   - DOMAIN-SUFFIX,news.mpush.qq.com,REJECT
   - DOMAIN-SUFFIX,newsadsppush.com,REJECT
   - DOMAIN-SUFFIX,newsadst.com,REJECT
+  - DOMAIN-SUFFIX,newscriticalfeed.pro,REJECT
   - DOMAIN-SUFFIX,newsfeed-drcn.cloud.dbankcloud.cn,REJECT
   - DOMAIN-SUFFIX,newsfeed-drcn.cloud.dbankcloud.com,REJECT
   - DOMAIN-SUFFIX,newsfeed-drcn.cloud.hihonorcloud.cn,REJECT
@@ -30022,6 +30036,7 @@ rules:
   - DOMAIN-SUFFIX,nexanoi9.pro,REJECT
   - DOMAIN-SUFFIX,nexlytics.pro,REJECT
   - DOMAIN-SUFFIX,nextgenideas.pro,REJECT
+  - DOMAIN-SUFFIX,nextgenreporting.pro,REJECT
   - DOMAIN-SUFFIX,nezokoo.pro,REJECT
   - DOMAIN-SUFFIX,nezoloi2.pro,REJECT
   - DOMAIN-SUFFIX,nezqmud.com,REJECT
@@ -30664,6 +30679,7 @@ rules:
   - DOMAIN-SUFFIX,obtemcondo.pro,REJECT
   - DOMAIN-SUFFIX,obtruvagin.pro,REJECT
   - DOMAIN-SUFFIX,obumbregim.pro,REJECT
+  - DOMAIN-SUFFIX,oc-real-estate-advisors.com,REJECT
   - DOMAIN-SUFFIX,oc.umeng.co,REJECT
   - DOMAIN-SUFFIX,oc.umeng.com,REJECT
   - DOMAIN-SUFFIX,oca.microsoft.com,REJECT
@@ -30811,7 +30827,6 @@ rules:
   - DOMAIN-SUFFIX,olininicot.pro,REJECT
   - DOMAIN-SUFFIX,oliprklism.pro,REJECT
   - DOMAIN-SUFFIX,oliveappoliveinter.pro,REJECT
-  - DOMAIN-SUFFIX,olivebotolivedata.pro,REJECT
   - DOMAIN-SUFFIX,olivebyteredforum.pro,REJECT
   - DOMAIN-SUFFIX,olivechipbluechip.pro,REJECT
   - DOMAIN-SUFFIX,olivechipbluecloud.pro,REJECT
@@ -30850,7 +30865,6 @@ rules:
   - DOMAIN-SUFFIX,oltrarincu.pro,REJECT
   - DOMAIN-SUFFIX,oltrawinch.pro,REJECT
   - DOMAIN-SUFFIX,oltremerop.pro,REJECT
-  - DOMAIN-SUFFIX,olx-pl.check-buy1298.shop,REJECT
   - DOMAIN-SUFFIX,olx-pl.check-buy1402.shop,REJECT
   - DOMAIN-SUFFIX,olx-pl.check-buy2012.shop,REJECT
   - DOMAIN-SUFFIX,olx-pl.padservice.cfd,REJECT
@@ -30928,6 +30942,7 @@ rules:
   - DOMAIN-SUFFIX,online-panel.advertising.amazon.dev,REJECT
   - DOMAIN-SUFFIX,online.adservicemedia.dk,REJECT
   - DOMAIN-SUFFIX,online.cnzz.com,REJECT
+  - DOMAIN-SUFFIX,online.mbaark.pro,REJECT
   - DOMAIN-SUFFIX,onlineads.magicvalley.com,REJECT
   - DOMAIN-SUFFIX,onlinedownloads.org,REJECT
   - DOMAIN-SUFFIX,onnintrope.pro,REJECT
@@ -31077,6 +31092,7 @@ rules:
   - DOMAIN-SUFFIX,opr.adx.opera.com,REJECT
   - DOMAIN-SUFFIX,oprisalpig.pro,REJECT
   - DOMAIN-SUFFIX,ops.adsrvr.org,REJECT
+  - DOMAIN-SUFFIX,ops.pro-earngrp.com,REJECT
   - DOMAIN-SUFFIX,opt.proadscdn.com,REJECT
   - DOMAIN-SUFFIX,optacsickl.pro,REJECT
   - DOMAIN-SUFFIX,optad360.io,REJECT
@@ -31092,7 +31108,6 @@ rules:
   - DOMAIN-SUFFIX,optimalgrowth.pro,REJECT
   - DOMAIN-SUFFIX,optimalibex.pro,REJECT
   - DOMAIN-SUFFIX,optimaljerboa.pro,REJECT
-  - DOMAIN-SUFFIX,optimalpath.pro,REJECT
   - DOMAIN-SUFFIX,optimalquail.pro,REJECT
   - DOMAIN-SUFFIX,optimalrhino.pro,REJECT
   - DOMAIN-SUFFIX,optimalscallop.pro,REJECT
@@ -31253,6 +31268,7 @@ rules:
   - DOMAIN-SUFFIX,oslbahk.top,REJECT
   - DOMAIN-SUFFIX,osmancaket.pro,REJECT
   - DOMAIN-SUFFIX,osmotalime.pro,REJECT
+  - DOMAIN-SUFFIX,osmunconcl.pro,REJECT
   - DOMAIN-SUFFIX,osnabkaoli.pro,REJECT
   - DOMAIN-SUFFIX,osnignsk.xyz,REJECT
   - DOMAIN-SUFFIX,oss.cdn.adintl.cn,REJECT
@@ -31461,7 +31477,6 @@ rules:
   - DOMAIN-SUFFIX,ovopoadiaf.pro,REJECT
   - DOMAIN-SUFFIX,ovranrinto.pro,REJECT
   - DOMAIN-SUFFIX,ovrhufsadsca.com,REJECT
-  - DOMAIN-SUFFIX,ovscretgtlun.pro,REJECT
   - DOMAIN-SUFFIX,ovulaimpie.pro,REJECT
   - DOMAIN-SUFFIX,ovulatampi.pro,REJECT
   - DOMAIN-SUFFIX,ovvierinfo.pro,REJECT
@@ -31901,7 +31916,6 @@ rules:
   - DOMAIN-SUFFIX,palpiultra.pro,REJECT
   - DOMAIN-SUFFIX,paludpalil.pro,REJECT
   - DOMAIN-SUFFIX,paludsurro.pro,REJECT
-  - DOMAIN-SUFFIX,palurui.pro,REJECT
   - DOMAIN-SUFFIX,panajia4.pro,REJECT
   - DOMAIN-SUFFIX,panasonic-ads.com,REJECT
   - DOMAIN-SUFFIX,panchaxumbilic.com,REJECT
@@ -32218,7 +32232,6 @@ rules:
   - DOMAIN-SUFFIX,pdaorg.adspeed.net,REJECT
   - DOMAIN-SUFFIX,pdhhmf.cn,REJECT
   - DOMAIN-SUFFIX,pdiabbi.cn,REJECT
-  - DOMAIN-SUFFIX,pdjhdaapvzbz.pro,REJECT
   - DOMAIN-SUFFIX,pdjjrh.xyz,REJECT
   - DOMAIN-SUFFIX,pdl.gionee.com,REJECT
   - DOMAIN-SUFFIX,pdown.stat.360safe.com,REJECT
@@ -32400,6 +32413,7 @@ rules:
   - DOMAIN-SUFFIX,perfectboa.pro,REJECT
   - DOMAIN-SUFFIX,perfectdragonfly.pro,REJECT
   - DOMAIN-SUFFIX,perfecthedgehog.pro,REJECT
+  - DOMAIN-SUFFIX,perfectnewsline.pro,REJECT
   - DOMAIN-SUFFIX,perfectpug.pro,REJECT
   - DOMAIN-SUFFIX,perfectquail.pro,REJECT
   - DOMAIN-SUFFIX,perfectraptor.pro,REJECT
@@ -32492,6 +32506,7 @@ rules:
   - DOMAIN-SUFFIX,persiriacc.pro,REJECT
   - DOMAIN-SUFFIX,persodeice.pro,REJECT
   - DOMAIN-SUFFIX,persoepyll.pro,REJECT
+  - DOMAIN-SUFFIX,personalfeednews.pro,REJECT
   - DOMAIN-SUFFIX,persoserbi.pro,REJECT
   - DOMAIN-SUFFIX,perspnemoki.pro,REJECT
   - DOMAIN-SUFFIX,perspnonpl.pro,REJECT
@@ -32621,6 +32636,7 @@ rules:
   - DOMAIN-SUFFIX,photogrott.pro,REJECT
   - DOMAIN-SUFFIX,photohoodte.pro,REJECT
   - DOMAIN-SUFFIX,photoimpia.pro,REJECT
+  - DOMAIN-SUFFIX,photomitri.pro,REJECT
   - DOMAIN-SUFFIX,photoparaf.pro,REJECT
   - DOMAIN-SUFFIX,photoralle.pro,REJECT
   - DOMAIN-SUFFIX,photosubex.pro,REJECT
@@ -32730,6 +32746,7 @@ rules:
   - DOMAIN-SUFFIX,pin.hpplay.cn,REJECT
   - DOMAIN-SUFFIX,pinacantic.pro,REJECT
   - DOMAIN-SUFFIX,pinburicon.pro,REJECT
+  - DOMAIN-SUFFIX,pindatangf.pro,REJECT
   - DOMAIN-SUFFIX,pinecloud.pro,REJECT
   - DOMAIN-SUFFIX,pinekotrach.pro,REJECT
   - DOMAIN-SUFFIX,pinetreeneedlesfall.pro,REJECT
@@ -32762,6 +32779,7 @@ rules:
   - DOMAIN-SUFFIX,pinterest.adsymptotic.com,REJECT
   - DOMAIN-SUFFIX,pinziimpas.pro,REJECT
   - DOMAIN-SUFFIX,pinzimeric.pro,REJECT
+  - DOMAIN-SUFFIX,piogerazzu.pro,REJECT
   - DOMAIN-SUFFIX,piombramut.pro,REJECT
   - DOMAIN-SUFFIX,piombvicis.pro,REJECT
   - DOMAIN-SUFFIX,pionidefra.pro,REJECT
@@ -32967,7 +32985,6 @@ rules:
   - DOMAIN-SUFFIX,playfulvista.pro,REJECT
   - DOMAIN-SUFFIX,playfulwhimsy.pro,REJECT
   - DOMAIN-SUFFIX,playfulwhirl.pro,REJECT
-  - DOMAIN-SUFFIX,playfulwondersof.pro,REJECT
   - DOMAIN-SUFFIX,playfulwordbloom.pro,REJECT
   - DOMAIN-SUFFIX,playfulwordstream.pro,REJECT
   - DOMAIN-SUFFIX,playfulzephyr.pro,REJECT
@@ -33451,6 +33468,7 @@ rules:
   - DOMAIN-SUFFIX,preciousperch.pro,REJECT
   - DOMAIN-SUFFIX,preciousvulture.pro,REJECT
   - DOMAIN-SUFFIX,preciseaardwark.pro,REJECT
+  - DOMAIN-SUFFIX,preciseargumen.pro,REJECT
   - DOMAIN-SUFFIX,preciseasp.pro,REJECT
   - DOMAIN-SUFFIX,precisecollie.pro,REJECT
   - DOMAIN-SUFFIX,precisefoxhound.pro,REJECT
@@ -33494,6 +33512,7 @@ rules:
   - DOMAIN-SUFFIX,prefafleec.pro,REJECT
   - DOMAIN-SUFFIX,prefascori.pro,REJECT
   - DOMAIN-SUFFIX,prefatradi.pro,REJECT
+  - DOMAIN-SUFFIX,prefectagendafeed.pro,REJECT
   - DOMAIN-SUFFIX,prefepiaga.pro,REJECT
   - DOMAIN-SUFFIX,prefiraggi.pro,REJECT
   - DOMAIN-SUFFIX,prefiriapp.pro,REJECT
@@ -33837,6 +33856,7 @@ rules:
   - DOMAIN-SUFFIX,propellerads.tech,REJECT
   - DOMAIN-SUFFIX,properepen.pro,REJECT
   - DOMAIN-SUFFIX,properisca.pro,REJECT
+  - DOMAIN-SUFFIX,propernewshub.pro,REJECT
   - DOMAIN-SUFFIX,prophantap.pro,REJECT
   - DOMAIN-SUFFIX,prophdeben.pro,REJECT
   - DOMAIN-SUFFIX,propheticcrayfish.pro,REJECT
@@ -33973,6 +33993,7 @@ rules:
   - DOMAIN-SUFFIX,pseudfumar.pro,REJECT
   - DOMAIN-SUFFIX,pseudinciu.pro,REJECT
   - DOMAIN-SUFFIX,pseudorrip.pro,REJECT
+  - DOMAIN-SUFFIX,pseudtelha.pro,REJECT
   - DOMAIN-SUFFIX,pseudzygen.pro,REJECT
   - DOMAIN-SUFFIX,psgorobin.pro,REJECT
   - DOMAIN-SUFFIX,pshaleuke.pro,REJECT
@@ -34209,7 +34230,6 @@ rules:
   - DOMAIN-SUFFIX,pvymlsvo.xyz,REJECT
   - DOMAIN-SUFFIX,pw.analytics.console.aws.a2z.com,REJECT
   - DOMAIN-SUFFIX,pw.cnzz.com,REJECT
-  - DOMAIN-SUFFIX,pwefrn.pro,REJECT
   - DOMAIN-SUFFIX,pwr-ads.com,REJECT
   - DOMAIN-SUFFIX,px-intl.ucweb.com,REJECT
   - DOMAIN-SUFFIX,px.ad-tech.ru,REJECT
@@ -34357,7 +34377,6 @@ rules:
   - DOMAIN-SUFFIX,qiudbjwhy.com,REJECT
   - DOMAIN-SUFFIX,qiuyva.pro,REJECT
   - DOMAIN-SUFFIX,qiwagiy8.pro,REJECT
-  - DOMAIN-SUFFIX,qiwdjfniejuk.pro,REJECT
   - DOMAIN-SUFFIX,qiwotyy9.pro,REJECT
   - DOMAIN-SUFFIX,qiyeshangpu.net,REJECT
   - DOMAIN-SUFFIX,qjekt0c.xyz,REJECT
@@ -34801,7 +34820,6 @@ rules:
   - DOMAIN-SUFFIX,radiantdreamscapes.pro,REJECT
   - DOMAIN-SUFFIX,radiantdrift.pro,REJECT
   - DOMAIN-SUFFIX,radiantdrifterst.pro,REJECT
-  - DOMAIN-SUFFIX,radiantecho.pro,REJECT
   - DOMAIN-SUFFIX,radiantechorse.pro,REJECT
   - DOMAIN-SUFFIX,radiantechorseyt.pro,REJECT
   - DOMAIN-SUFFIX,radiantechos.pro,REJECT
@@ -35137,6 +35155,7 @@ rules:
   - DOMAIN-SUFFIX,rapidheron.pro,REJECT
   - DOMAIN-SUFFIX,rapidhyena.pro,REJECT
   - DOMAIN-SUFFIX,rapidkestrel.pro,REJECT
+  - DOMAIN-SUFFIX,rapidreporting.pro,REJECT
   - DOMAIN-SUFFIX,rapidterrier.pro,REJECT
   - DOMAIN-SUFFIX,rapidturaco.pro,REJECT
   - DOMAIN-SUFFIX,rapiduakari.pro,REJECT
@@ -35316,6 +35335,7 @@ rules:
   - DOMAIN-SUFFIX,realads.realmedia.com,REJECT
   - DOMAIN-SUFFIX,realanteater.pro,REJECT
   - DOMAIN-SUFFIX,realbannerads.com,REJECT
+  - DOMAIN-SUFFIX,realbreakingnews.pro,REJECT
   - DOMAIN-SUFFIX,realcfadsblog.com,REJECT
   - DOMAIN-SUFFIX,realgopher.pro,REJECT
   - DOMAIN-SUFFIX,realhippo.pro,REJECT
@@ -35329,6 +35349,7 @@ rules:
   - DOMAIN-SUFFIX,realisticrhino.pro,REJECT
   - DOMAIN-SUFFIX,realisticsawfish.pro,REJECT
   - DOMAIN-SUFFIX,realisticspoonbill.pro,REJECT
+  - DOMAIN-SUFFIX,realitychecknew.pro,REJECT
   - DOMAIN-SUFFIX,realityshifterschange.pro,REJECT
   - DOMAIN-SUFFIX,realityshiftingfast.pro,REJECT
   - DOMAIN-SUFFIX,realityshiftsnow.pro,REJECT
@@ -35344,6 +35365,7 @@ rules:
   - DOMAIN-SUFFIX,realtimeads.com,REJECT
   - DOMAIN-SUFFIX,realtimeleakadvancedissue.top,REJECT
   - DOMAIN-SUFFIX,realtimeprivacyadvancedhigh.autos,REJECT
+  - DOMAIN-SUFFIX,realtimeupdates.pro,REJECT
   - DOMAIN-SUFFIX,realwanghao.com,REJECT
   - DOMAIN-SUFFIX,realwasp.pro,REJECT
   - DOMAIN-SUFFIX,reanastrac.pro,REJECT
@@ -35386,7 +35408,6 @@ rules:
   - DOMAIN-SUFFIX,rechapatto.pro,REJECT
   - DOMAIN-SUFFIX,recharinfo.pro,REJECT
   - DOMAIN-SUFFIX,rechisfott.pro,REJECT
-  - DOMAIN-SUFFIX,recipefordads.com,REJECT
   - DOMAIN-SUFFIX,recipparim.pro,REJECT
   - DOMAIN-SUFFIX,recirattra.pro,REJECT
   - DOMAIN-SUFFIX,recirkorya.pro,REJECT
@@ -35418,6 +35439,7 @@ rules:
   - DOMAIN-SUFFIX,recourigua.pro,REJECT
   - DOMAIN-SUFFIX,recrecrono.pro,REJECT
   - DOMAIN-SUFFIX,recredilac.pro,REJECT
+  - DOMAIN-SUFFIX,recruit.courserathreads.business,REJECT
   - DOMAIN-SUFFIX,recryateli.pro,REJECT
   - DOMAIN-SUFFIX,rectangledownloads.com,REJECT
   - DOMAIN-SUFFIX,recupdibbi.pro,REJECT
@@ -35599,13 +35621,13 @@ rules:
   - DOMAIN-SUFFIX,relazramma.pro,REJECT
   - DOMAIN-SUFFIX,release.baidu.com,REJECT
   - DOMAIN-SUFFIX,relegplnk.pro,REJECT
+  - DOMAIN-SUFFIX,relevantfeed.pro,REJECT
   - DOMAIN-SUFFIX,relevinsuf.pro,REJECT
   - DOMAIN-SUFFIX,reliable-fast-advanced-accurate.autos,REJECT
   - DOMAIN-SUFFIX,reliableaccuratesafeadvanced.autos,REJECT
   - DOMAIN-SUFFIX,reliablefastadvancedaccurate.autos,REJECT
   - DOMAIN-SUFFIX,reliablefastadvancedexpress.autos,REJECT
   - DOMAIN-SUFFIX,reliableguide.pro,REJECT
-  - DOMAIN-SUFFIX,reliableinsight.pro,REJECT
   - DOMAIN-SUFFIX,reliableplant.advertserve.com,REJECT
   - DOMAIN-SUFFIX,reliasgamb.pro,REJECT
   - DOMAIN-SUFFIX,relieoverg.pro,REJECT
@@ -36321,6 +36343,7 @@ rules:
   - DOMAIN-SUFFIX,rimpidisol.pro,REJECT
   - DOMAIN-SUFFIX,rimpiester.pro,REJECT
   - DOMAIN-SUFFIX,rimpipapis.pro,REJECT
+  - DOMAIN-SUFFIX,rimpisgric.pro,REJECT
   - DOMAIN-SUFFIX,rimpisguaz.pro,REJECT
   - DOMAIN-SUFFIX,rimpocarona.pro,REJECT
   - DOMAIN-SUFFIX,rimpoeebre.pro,REJECT
@@ -36704,6 +36727,7 @@ rules:
   - DOMAIN-SUFFIX,rivetcapsi.pro,REJECT
   - DOMAIN-SUFFIX,rivetiodur.pro,REJECT
   - DOMAIN-SUFFIX,rivibsnowl.pro,REJECT
+  - DOMAIN-SUFFIX,rivinsovra.pro,REJECT
   - DOMAIN-SUFFIX,rivisgromm.pro,REJECT
   - DOMAIN-SUFFIX,rivivdupli.pro,REJECT
   - DOMAIN-SUFFIX,rivolcorbe.pro,REJECT
@@ -36805,7 +36829,6 @@ rules:
   - DOMAIN-SUFFIX,rongedui.com,REJECT
   - DOMAIN-SUFFIX,roniedovec.pro,REJECT
   - DOMAIN-SUFFIX,ronzastirp.pro,REJECT
-  - DOMAIN-SUFFIX,roofreddom.pro,REJECT
   - DOMAIN-SUFFIX,roomwriagg.pro,REJECT
   - DOMAIN-SUFFIX,root.newshuntads.com,REJECT
   - DOMAIN-SUFFIX,rootivache.pro,REJECT
@@ -36879,7 +36902,6 @@ rules:
   - DOMAIN-SUFFIX,rpt-gdt.play.t002.ottcn.com,REJECT
   - DOMAIN-SUFFIX,rpt.gdt.qq.com,REJECT
   - DOMAIN-SUFFIX,rptdata.wb.qq.com,REJECT
-  - DOMAIN-SUFFIX,rpvehb.pro,REJECT
   - DOMAIN-SUFFIX,rpyor0k.xyz,REJECT
   - DOMAIN-SUFFIX,rqd.qq.com,REJECT
   - DOMAIN-SUFFIX,rqxtbr.xyz,REJECT
@@ -37120,7 +37142,6 @@ rules:
   - DOMAIN-SUFFIX,rvyjbwr.cn,REJECT
   - DOMAIN-SUFFIX,rvzlobj.cn,REJECT
   - DOMAIN-SUFFIX,rxblxg.pro,REJECT
-  - DOMAIN-SUFFIX,rxddsdpgljsl.pro,REJECT
   - DOMAIN-SUFFIX,rxewp4.skadsdkless.appsflyersdk.com,REJECT
   - DOMAIN-SUFFIX,rxlidz.ink,REJECT
   - DOMAIN-SUFFIX,rxyggrq.cn,REJECT
@@ -37444,7 +37465,6 @@ rules:
   - DOMAIN-SUFFIX,sacchsolet.pro,REJECT
   - DOMAIN-SUFFIX,sacermazae.pro,REJECT
   - DOMAIN-SUFFIX,sacfasv.com,REJECT
-  - DOMAIN-SUFFIX,sacfeqjpmznz.pro,REJECT
   - DOMAIN-SUFFIX,sacraaccin.pro,REJECT
   - DOMAIN-SUFFIX,sacradouci.pro,REJECT
   - DOMAIN-SUFFIX,sacraperse.pro,REJECT
@@ -37473,12 +37493,15 @@ rules:
   - DOMAIN-SUFFIX,safehrifig.pro,REJECT
   - DOMAIN-SUFFIX,safeimmediateadvancedproven.top,REJECT
   - DOMAIN-SUFFIX,safendispe.pro,REJECT
+  - DOMAIN-SUFFIX,safereading.pro,REJECT
+  - DOMAIN-SUFFIX,safetynews.pro,REJECT
   - DOMAIN-SUFFIX,saffronbloodhound.pro,REJECT
   - DOMAIN-SUFFIX,saffronfennec.pro,REJECT
   - DOMAIN-SUFFIX,saffronjaguarundi.pro,REJECT
   - DOMAIN-SUFFIX,saffronpetrel.pro,REJECT
   - DOMAIN-SUFFIX,saffronsaluki.pro,REJECT
   - DOMAIN-SUFFIX,saffronseal.pro,REJECT
+  - DOMAIN-SUFFIX,sagamzooph.pro,REJECT
   - DOMAIN-SUFFIX,sagan.iad-03.braze.com,REJECT
   - DOMAIN-SUFFIX,sagebettong.pro,REJECT
   - DOMAIN-SUFFIX,sagebutterfly.pro,REJECT
@@ -37727,7 +37750,6 @@ rules:
   - DOMAIN-SUFFIX,sbavapausa.pro,REJECT
   - DOMAIN-SUFFIX,sbaviantis.pro,REJECT
   - DOMAIN-SUFFIX,sbcjahdc.com,REJECT
-  - DOMAIN-SUFFIX,sbcqem.pro,REJECT
   - DOMAIN-SUFFIX,sbdebcz.cn,REJECT
   - DOMAIN-SUFFIX,sbeacon.sina.com.cn,REJECT
   - DOMAIN-SUFFIX,sbeaje.com,REJECT
@@ -38102,6 +38124,7 @@ rules:
   - DOMAIN-SUFFIX,scontsacco.pro,REJECT
   - DOMAIN-SUFFIX,scontsbass.pro,REJECT
   - DOMAIN-SUFFIX,scontscomp.pro,REJECT
+  - DOMAIN-SUFFIX,scoopinsights.pro,REJECT
   - DOMAIN-SUFFIX,scopeinsup.pro,REJECT
   - DOMAIN-SUFFIX,scopely-dicewithbuddies.adsbynimbus.com,REJECT
   - DOMAIN-SUFFIX,scopely-scrabblego.adsbynimbus.com,REJECT
@@ -38633,6 +38656,7 @@ rules:
   - DOMAIN-SUFFIX,semilneuro.pro,REJECT
   - DOMAIN-SUFFIX,semimcosti.pro,REJECT
   - DOMAIN-SUFFIX,seminincat.pro,REJECT
+  - DOMAIN-SUFFIX,seminriadd.pro,REJECT
   - DOMAIN-SUFFIX,semioimpes.pro,REJECT
   - DOMAIN-SUFFIX,semioseggi.pro,REJECT
   - DOMAIN-SUFFIX,semiotenci.pro,REJECT
@@ -38959,7 +38983,6 @@ rules:
   - DOMAIN-SUFFIX,sfendderub.pro,REJECT
   - DOMAIN-SUFFIX,sfendelarg.pro,REJECT
   - DOMAIN-SUFFIX,sfeniairdr.pro,REJECT
-  - DOMAIN-SUFFIX,sferinonco.pro,REJECT
   - DOMAIN-SUFFIX,sferitalie.pro,REJECT
   - DOMAIN-SUFFIX,sferzgrama.pro,REJECT
   - DOMAIN-SUFFIX,sfg11rr.com,REJECT
@@ -39050,6 +39073,7 @@ rules:
   - DOMAIN-SUFFIX,sg.cityads.com,REJECT
   - DOMAIN-SUFFIX,sg.mmstat.com,REJECT
   - DOMAIN-SUFFIX,sg2-bid.adsrvr.org,REJECT
+  - DOMAIN-SUFFIX,sgabbmisfi.pro,REJECT
   - DOMAIN-SUFFIX,sgallrespe.pro,REJECT
   - DOMAIN-SUFFIX,sgambcampa.pro,REJECT
   - DOMAIN-SUFFIX,sgangsembr.pro,REJECT
@@ -39067,7 +39091,6 @@ rules:
   - DOMAIN-SUFFIX,sgassuncra.pro,REJECT
   - DOMAIN-SUFFIX,sgavaaffaka.pro,REJECT
   - DOMAIN-SUFFIX,sgavaspher.pro,REJECT
-  - DOMAIN-SUFFIX,sgczywmfqglh.pro,REJECT
   - DOMAIN-SUFFIX,sgegie.fun,REJECT
   - DOMAIN-SUFFIX,sgeth7.icu,REJECT
   - DOMAIN-SUFFIX,sgfw.adsafeprotected.com,REJECT
@@ -39086,6 +39109,7 @@ rules:
   - DOMAIN-SUFFIX,sgommbooth.pro,REJECT
   - DOMAIN-SUFFIX,sgommperfe.pro,REJECT
   - DOMAIN-SUFFIX,sgorgparap.pro,REJECT
+  - DOMAIN-SUFFIX,sgottdisco.pro,REJECT
   - DOMAIN-SUFFIX,sgoverefut.pro,REJECT
   - DOMAIN-SUFFIX,sgp.o2o.api.xiaomi.com,REJECT
   - DOMAIN-SUFFIX,sgp.smartadserver.com,REJECT
@@ -39096,7 +39120,6 @@ rules:
   - DOMAIN-SUFFIX,sgpm-b4.dcntr-ads.com,REJECT
   - DOMAIN-SUFFIX,sgradambid.pro,REJECT
   - DOMAIN-SUFFIX,sgrafrayon.pro,REJECT
-  - DOMAIN-SUFFIX,sgrafwrist.pro,REJECT
   - DOMAIN-SUFFIX,sgramcrott.pro,REJECT
   - DOMAIN-SUFFIX,sgramlimon.pro,REJECT
   - DOMAIN-SUFFIX,sgramunnet.pro,REJECT
@@ -39288,7 +39311,6 @@ rules:
   - DOMAIN-SUFFIX,shop.yipanhaocai.com,REJECT
   - DOMAIN-SUFFIX,shopapi.ranking.rakuten.co.jp,REJECT
   - DOMAIN-SUFFIX,shopify.rakutenadvertising.io,REJECT
-  - DOMAIN-SUFFIX,shopmeyxc.pro,REJECT
   - DOMAIN-SUFFIX,shoppingads.com,REJECT
   - DOMAIN-SUFFIX,short-share.com,REJECT
   - DOMAIN-SUFFIX,shortlychn.pro,REJECT
@@ -39652,6 +39674,7 @@ rules:
   - DOMAIN-SUFFIX,skystdispe.pro,REJECT
   - DOMAIN-SUFFIX,skywave.jetstream.advertising.a2z.com,REJECT
   - DOMAIN-SUFFIX,sl-adsrv.rtbsuperhub.com,REJECT
+  - DOMAIN-SUFFIX,slabbuntow.pro,REJECT
   - DOMAIN-SUFFIX,slaccscomp.pro,REJECT
   - DOMAIN-SUFFIX,slaccsmezz.pro,REJECT
   - DOMAIN-SUFFIX,slaccunopt.pro,REJECT
@@ -39814,6 +39837,7 @@ rules:
   - DOMAIN-SUFFIX,smartopen.jd.com,REJECT
   - DOMAIN-SUFFIX,smartpegasus.pro,REJECT
   - DOMAIN-SUFFIX,smartreliableadvancedguard.autos,REJECT
+  - DOMAIN-SUFFIX,smartreporting.pro,REJECT
   - DOMAIN-SUFFIX,smartsails.voiceads.cn,REJECT
   - DOMAIN-SUFFIX,smartscrpt.advertserve.com,REJECT
   - DOMAIN-SUFFIX,smartspark.pro,REJECT
@@ -39980,6 +40004,7 @@ rules:
   - DOMAIN-SUFFIX,snubbaroei.pro,REJECT
   - DOMAIN-SUFFIX,snudaauten.pro,REJECT
   - DOMAIN-SUFFIX,snudamanic.pro,REJECT
+  - DOMAIN-SUFFIX,snuffingly.pro,REJECT
   - DOMAIN-SUFFIX,snugfizz.pro,REJECT
   - DOMAIN-SUFFIX,snugglewink.pro,REJECT
   - DOMAIN-SUFFIX,snugitowne.pro,REJECT
@@ -40025,6 +40050,7 @@ rules:
   - DOMAIN-SUFFIX,soffimagni.pro,REJECT
   - DOMAIN-SUFFIX,soffiscorn.pro,REJECT
   - DOMAIN-SUFFIX,soffobreak.pro,REJECT
+  - DOMAIN-SUFFIX,soffotacci.pro,REJECT
   - DOMAIN-SUFFIX,soffoteolo.pro,REJECT
   - DOMAIN-SUFFIX,soffrideol.pro,REJECT
   - DOMAIN-SUFFIX,soffrrimbe.pro,REJECT
@@ -40259,6 +40285,7 @@ rules:
   - DOMAIN-SUFFIX,sottrregur.pro,REJECT
   - DOMAIN-SUFFIX,soubioveri.pro,REJECT
   - DOMAIN-SUFFIX,soul-ad.soulapp.cn,REJECT
+  - DOMAIN-SUFFIX,soulamaliz.pro,REJECT
   - DOMAIN-SUFFIX,soulfsubba.pro,REJECT
   - DOMAIN-SUFFIX,soulsearchersseektruth.pro,REJECT
   - DOMAIN-SUFFIX,soulsearchingjourney.pro,REJECT
@@ -40670,6 +40697,7 @@ rules:
   - DOMAIN-SUFFIX,spoted-pro.it.com,REJECT
   - DOMAIN-SUFFIX,spotemyoti.pro,REJECT
   - DOMAIN-SUFFIX,spotify.sub-update.com,REJECT
+  - DOMAIN-SUFFIX,spotlightreporting.pro,REJECT
   - DOMAIN-SUFFIX,spottedaardwark.pro,REJECT
   - DOMAIN-SUFFIX,spottedalligator.pro,REJECT
   - DOMAIN-SUFFIX,spottedbird.pro,REJECT
@@ -41470,7 +41498,6 @@ rules:
   - DOMAIN-SUFFIX,strasmiris.pro,REJECT
   - DOMAIN-SUFFIX,stratallth.pro,REJECT
   - DOMAIN-SUFFIX,stratdisso.pro,REJECT
-  - DOMAIN-SUFFIX,strategiccore.pro,REJECT
   - DOMAIN-SUFFIX,strategicflow.pro,REJECT
   - DOMAIN-SUFFIX,strategicpath.pro,REJECT
   - DOMAIN-SUFFIX,strategicteam.pro,REJECT
@@ -41888,6 +41915,7 @@ rules:
   - DOMAIN-SUFFIX,supersonicads-a.akamaihd.net,REJECT
   - DOMAIN-SUFFIX,supersonicads.com,REJECT
   - DOMAIN-SUFFIX,supersoppi.pro,REJECT
+  - DOMAIN-SUFFIX,supersprig.pro,REJECT
   - DOMAIN-SUFFIX,supersquac.pro,REJECT
   - DOMAIN-SUFFIX,supersting.pro,REJECT
   - DOMAIN-SUFFIX,supertrist.pro,REJECT
@@ -41934,6 +41962,7 @@ rules:
   - DOMAIN-SUFFIX,suriecolpi.pro,REJECT
   - DOMAIN-SUFFIX,suriefilia.pro,REJECT
   - DOMAIN-SUFFIX,surinappai.pro,REJECT
+  - DOMAIN-SUFFIX,surmiperid.pro,REJECT
   - DOMAIN-SUFFIX,surperverse.com,REJECT
   - DOMAIN-SUFFIX,surprisehaven.pro,REJECT
   - DOMAIN-SUFFIX,surprisespark.pro,REJECT
@@ -42057,7 +42086,6 @@ rules:
   - DOMAIN-SUFFIX,swanmrhegu.pro,REJECT
   - DOMAIN-SUFFIX,swap-pro-relpax.com,REJECT
   - DOMAIN-SUFFIX,swartravag.pro,REJECT
-  - DOMAIN-SUFFIX,swaujw.pro,REJECT
   - DOMAIN-SUFFIX,swaybaint.pro,REJECT
   - DOMAIN-SUFFIX,swaybrisk.pro,REJECT
   - DOMAIN-SUFFIX,swayecho.pro,REJECT
@@ -42215,6 +42243,7 @@ rules:
   - DOMAIN-SUFFIX,synhandler.rtb.adx1.com,REJECT
   - DOMAIN-SUFFIX,synonbilbo.pro,REJECT
   - DOMAIN-SUFFIX,synopnapea.pro,REJECT
+  - DOMAIN-SUFFIX,synqor.pro,REJECT
   - DOMAIN-SUFFIX,synsads.com,REJECT
   - DOMAIN-SUFFIX,syodidroga.pro,REJECT
   - DOMAIN-SUFFIX,syphiassis.pro,REJECT
@@ -42429,7 +42458,6 @@ rules:
   - DOMAIN-SUFFIX,talentedmammoth.pro,REJECT
   - DOMAIN-SUFFIX,talentedmarten.pro,REJECT
   - DOMAIN-SUFFIX,talentedwolf.pro,REJECT
-  - DOMAIN-SUFFIX,taleqram.pro,REJECT
   - DOMAIN-SUFFIX,tali.iad-03.braze.com,REJECT
   - DOMAIN-SUFFIX,talisunder.pro,REJECT
   - DOMAIN-SUFFIX,talk.igexin.com,REJECT
@@ -42750,6 +42778,7 @@ rules:
   - DOMAIN-SUFFIX,termvb.xyz,REJECT
   - DOMAIN-SUFFIX,ternanonnu.pro,REJECT
   - DOMAIN-SUFFIX,ternariqua.pro,REJECT
+  - DOMAIN-SUFFIX,terracinqu.pro,REJECT
   - DOMAIN-SUFFIX,terrafolkm.pro,REJECT
   - DOMAIN-SUFFIX,terratetralogy.pro,REJECT
   - DOMAIN-SUFFIX,terraza.premiumleads.com,REJECT
@@ -42876,7 +42905,6 @@ rules:
   - DOMAIN-SUFFIX,theclfilos.pro,REJECT
   - DOMAIN-SUFFIX,thecoreadv.com,REJECT
   - DOMAIN-SUFFIX,thefatherofsalmon.com,REJECT
-  - DOMAIN-SUFFIX,thehigginsadventure.com,REJECT
   - DOMAIN-SUFFIX,thehotads.com,REJECT
   - DOMAIN-SUFFIX,thejugaadstudio.com,REJECT
   - DOMAIN-SUFFIX,themis.hupu.com,REJECT
@@ -42907,6 +42935,7 @@ rules:
   - DOMAIN-SUFFIX,thesac9.top,REJECT
   - DOMAIN-SUFFIX,thespreadsheetguru.7eer.net,REJECT
   - DOMAIN-SUFFIX,thespreadsheetguru.evyy.net,REJECT
+  - DOMAIN-SUFFIX,theveryarticle.pro,REJECT
   - DOMAIN-SUFFIX,thewiarneni.pro,REJECT
   - DOMAIN-SUFFIX,thewindrun.com,REJECT
   - DOMAIN-SUFFIX,theyeshivaworld.advertserve.com,REJECT
@@ -43161,7 +43190,6 @@ rules:
   - DOMAIN-SUFFIX,tkads.millemedia.de,REJECT
   - DOMAIN-SUFFIX,tknkfd.xyz,REJECT
   - DOMAIN-SUFFIX,tkqwurl.icu,REJECT
-  - DOMAIN-SUFFIX,tkvyau.pro,REJECT
   - DOMAIN-SUFFIX,tl.oneway.mobi,REJECT
   - DOMAIN-SUFFIX,tlbjw.com,REJECT
   - DOMAIN-SUFFIX,tlmlt.yuwenxuexizazhi.com,REJECT
@@ -43348,6 +43376,7 @@ rules:
   - DOMAIN-SUFFIX,topcrassev.pro,REJECT
   - DOMAIN-SUFFIX,topdownloads.nl.intellitxt.com,REJECT
   - DOMAIN-SUFFIX,tophippo.vlion.cn,REJECT
+  - DOMAIN-SUFFIX,topicalupdatesnews.pro,REJECT
   - DOMAIN-SUFFIX,topicinfec.pro,REJECT
   - DOMAIN-SUFFIX,topics-eole.avads.net,REJECT
   - DOMAIN-SUFFIX,topics.avads.net,REJECT
@@ -43359,6 +43388,7 @@ rules:
   - DOMAIN-SUFFIX,topotinaci.pro,REJECT
   - DOMAIN-SUFFIX,topperinfe.pro,REJECT
   - DOMAIN-SUFFIX,topqualityonlineleads.com,REJECT
+  - DOMAIN-SUFFIX,topsectionnews.pro,REJECT
   - DOMAIN-SUFFIX,toptopleads.com,REJECT
   - DOMAIN-SUFFIX,torbiassie.pro,REJECT
   - DOMAIN-SUFFIX,torcedissi.pro,REJECT
@@ -43768,6 +43798,7 @@ rules:
   - DOMAIN-SUFFIX,tramebuird.pro,REJECT
   - DOMAIN-SUFFIX,trameturin.pro,REJECT
   - DOMAIN-SUFFIX,tramipoete.pro,REJECT
+  - DOMAIN-SUFFIX,tramiswigti.pro,REJECT
   - DOMAIN-SUFFIX,trammsyssi.pro,REJECT
   - DOMAIN-SUFFIX,trampfatto.pro,REJECT
   - DOMAIN-SUFFIX,trampparso.pro,REJECT
@@ -43800,7 +43831,6 @@ rules:
   - DOMAIN-SUFFIX,tranquilphoenixwhirl.pro,REJECT
   - DOMAIN-SUFFIX,tranquilreflections.pro,REJECT
   - DOMAIN-SUFFIX,tranquilshadowflare.pro,REJECT
-  - DOMAIN-SUFFIX,tranquilspot.pro,REJECT
   - DOMAIN-SUFFIX,tranquilstardustpath.pro,REJECT
   - DOMAIN-SUFFIX,tranquilstarflare.pro,REJECT
   - DOMAIN-SUFFIX,tranquilstars.pro,REJECT
@@ -43833,6 +43863,7 @@ rules:
   - DOMAIN-SUFFIX,translucentlemur.pro,REJECT
   - DOMAIN-SUFFIX,translucentquetzal.pro,REJECT
   - DOMAIN-SUFFIX,translucentsheep.pro,REJECT
+  - DOMAIN-SUFFIX,transmonac.pro,REJECT
   - DOMAIN-SUFFIX,transmoote.pro,REJECT
   - DOMAIN-SUFFIX,transpalma.pro,REJECT
   - DOMAIN-SUFFIX,transparentbeaver.pro,REJECT
@@ -43884,6 +43915,7 @@ rules:
   - DOMAIN-SUFFIX,trascsverm.pro,REJECT
   - DOMAIN-SUFFIX,trasecollo.pro,REJECT
   - DOMAIN-SUFFIX,trasemisit.pro,REJECT
+  - DOMAIN-SUFFIX,trasepress.pro,REJECT
   - DOMAIN-SUFFIX,trasfaffor.pro,REJECT
   - DOMAIN-SUFFIX,trasfdemon.pro,REJECT
   - DOMAIN-SUFFIX,trasfgrogi.pro,REJECT
@@ -43900,6 +43932,7 @@ rules:
   - DOMAIN-SUFFIX,trasmfrang.pro,REJECT
   - DOMAIN-SUFFIX,trasmhouse.pro,REJECT
   - DOMAIN-SUFFIX,trasmpseud.pro,REJECT
+  - DOMAIN-SUFFIX,trasmrehar.pro,REJECT
   - DOMAIN-SUFFIX,trasmskidd.pro,REJECT
   - DOMAIN-SUFFIX,trasmtarpe.pro,REJECT
   - DOMAIN-SUFFIX,trasmwhist.pro,REJECT
@@ -43970,6 +44003,7 @@ rules:
   - DOMAIN-SUFFIX,tremiapopl.pro,REJECT
   - DOMAIN-SUFFIX,tremijoebu.pro,REJECT
   - DOMAIN-SUFFIX,trendads.reactivebetting.com,REJECT
+  - DOMAIN-SUFFIX,trendingreports.pro,REJECT
   - DOMAIN-SUFFIX,trends.mobile.sina.cn,REJECT
   - DOMAIN-SUFFIX,trendsfreshnews.pro,REJECT
   - DOMAIN-SUFFIX,trendyglimpse.pro,REJECT
@@ -44025,7 +44059,6 @@ rules:
   - DOMAIN-SUFFIX,trionfruit.pro,REJECT
   - DOMAIN-SUFFIX,trip-update-info.com,REJECT
   - DOMAIN-SUFFIX,tripadvisor-rent.com-book872.com,REJECT
-  - DOMAIN-SUFFIX,tripadvisor-up.com,REJECT
   - DOMAIN-SUFFIX,tripadvisor-villa-747937.com,REJECT
   - DOMAIN-SUFFIX,tripadvisor.activate.ensighten.com,REJECT
   - DOMAIN-SUFFIX,tripecolas.pro,REJECT
@@ -44390,7 +44423,6 @@ rules:
   - DOMAIN-SUFFIX,tyaqy.m.cn.miaozhen.com,REJECT
   - DOMAIN-SUFFIX,tyawwj.cn,REJECT
   - DOMAIN-SUFFIX,tybakoo5.pro,REJECT
-  - DOMAIN-SUFFIX,tycajoi9.pro,REJECT
   - DOMAIN-SUFFIX,tycihua.pro,REJECT
   - DOMAIN-SUFFIX,tycipuy1.pro,REJECT
   - DOMAIN-SUFFIX,tyciqai6.pro,REJECT
@@ -44562,6 +44594,7 @@ rules:
   - DOMAIN-SUFFIX,ulogs2.gifshow.com,REJECT
   - DOMAIN-SUFFIX,ulogs2.ksapisrv.com,REJECT
   - DOMAIN-SUFFIX,ulojlvmejkaem.xyz,REJECT
+  - DOMAIN-SUFFIX,ultimateinsights.pro,REJECT
   - DOMAIN-SUFFIX,ultimmarte.pro,REJECT
   - DOMAIN-SUFFIX,ultraalbatross.pro,REJECT
   - DOMAIN-SUFFIX,ultraaman.pro,REJECT
@@ -44853,6 +44886,7 @@ rules:
   - DOMAIN-SUFFIX,uniquebutterfly.pro,REJECT
   - DOMAIN-SUFFIX,uniquecougar.pro,REJECT
   - DOMAIN-SUFFIX,uniqueinsight.pro,REJECT
+  - DOMAIN-SUFFIX,uniqueinsights.pro,REJECT
   - DOMAIN-SUFFIX,uniquejourney.pro,REJECT
   - DOMAIN-SUFFIX,uniqueladybug.pro,REJECT
   - DOMAIN-SUFFIX,uniquemushroom.pro,REJECT
@@ -44867,7 +44901,6 @@ rules:
   - DOMAIN-SUFFIX,unityads.unity3d.com,REJECT
   - DOMAIN-SUFFIX,unityads.unity3d.com.edgekey.net,REJECT
   - DOMAIN-SUFFIX,unityads.unitychina.cn,REJECT
-  - DOMAIN-SUFFIX,unityofmundrzed.pro,REJECT
   - DOMAIN-SUFFIX,univecontr.pro,REJECT
   - DOMAIN-SUFFIX,univepsamm.pro,REJECT
   - DOMAIN-SUFFIX,unizzerbat.pro,REJECT
@@ -44907,6 +44940,7 @@ rules:
   - DOMAIN-SUFFIX,unoadsrv.com,REJECT
   - DOMAIN-SUFFIX,unobvcomia.pro,REJECT
   - DOMAIN-SUFFIX,unocuscorc.pro,REJECT
+  - DOMAIN-SUFFIX,unoffendingly.pro,REJECT
   - DOMAIN-SUFFIX,unorgintro.pro,REJECT
   - DOMAIN-SUFFIX,unorivesic.pro,REJECT
   - DOMAIN-SUFFIX,unovemarin.pro,REJECT
@@ -45114,6 +45148,7 @@ rules:
   - DOMAIN-SUFFIX,update.sdkbox.com,REJECT
   - DOMAIN-SUFFIX,update.stickyadstv.com,REJECT
   - DOMAIN-SUFFIX,update.tas.yieldmo.com,REJECT
+  - DOMAIN-SUFFIX,update.vlnguba.com,REJECT
   - DOMAIN-SUFFIX,update.volam2005pk.com,REJECT
   - DOMAIN-SUFFIX,update.volamthientu.cc,REJECT
   - DOMAIN-SUFFIX,update.wo.gumgum.com,REJECT
@@ -45124,6 +45159,7 @@ rules:
   - DOMAIN-SUFFIX,updates.guitar-pro.com,REJECT
   - DOMAIN-SUFFIX,updatesdk.avlyun.com,REJECT
   - DOMAIN-SUFFIX,updatesecure.pro,REJECT
+  - DOMAIN-SUFFIX,updatesexpress.pro,REJECT
   - DOMAIN-SUFFIX,uperitrigo.pro,REJECT
   - DOMAIN-SUFFIX,upfile-drcn.platform.hicloud.com,REJECT
   - DOMAIN-SUFFIX,upfile-drcn.platform.hihonorcloud.com,REJECT
@@ -45234,7 +45270,6 @@ rules:
   - DOMAIN-SUFFIX,urimnugocfr.com,REJECT
   - DOMAIN-SUFFIX,urinarisol.pro,REJECT
   - DOMAIN-SUFFIX,urineripul.pro,REJECT
-  - DOMAIN-SUFFIX,urkjpptnwwra.pro,REJECT
   - DOMAIN-SUFFIX,urlatfisca.pro,REJECT
   - DOMAIN-SUFFIX,urlkwqi.cn,REJECT
   - DOMAIN-SUFFIX,urolispei.pro,REJECT
@@ -45317,6 +45352,7 @@ rules:
   - DOMAIN-SUFFIX,use2direct.adsrvr.org,REJECT
   - DOMAIN-SUFFIX,useactiveleads.org,REJECT
   - DOMAIN-SUFFIX,usedirect.adsrvr.org,REJECT
+  - DOMAIN-SUFFIX,usefulfeednews.pro,REJECT
   - DOMAIN-SUFFIX,user-room.naiadsystems.com,REJECT
   - DOMAIN-SUFFIX,user-shield-check.com,REJECT
   - DOMAIN-SUFFIX,user-sync.adxpremium.services,REJECT
@@ -45943,7 +45979,6 @@ rules:
   - DOMAIN-SUFFIX,vibrantdreamers.pro,REJECT
   - DOMAIN-SUFFIX,vibrantdreamscape.pro,REJECT
   - DOMAIN-SUFFIX,vibrantecho.pro,REJECT
-  - DOMAIN-SUFFIX,vibrantecosystem.pro,REJECT
   - DOMAIN-SUFFIX,vibranteden.pro,REJECT
   - DOMAIN-SUFFIX,vibrantfuzz.pro,REJECT
   - DOMAIN-SUFFIX,vibrantglimpse.pro,REJECT
@@ -46225,6 +46260,7 @@ rules:
   - DOMAIN-SUFFIX,vittiscomu.pro,REJECT
   - DOMAIN-SUFFIX,vittohorse.pro,REJECT
   - DOMAIN-SUFFIX,vittozendo.pro,REJECT
+  - DOMAIN-SUFFIX,vitupinfal.pro,REJECT
   - DOMAIN-SUFFIX,vituprista.pro,REJECT
   - DOMAIN-SUFFIX,vivaciousauk.pro,REJECT
   - DOMAIN-SUFFIX,vivaciousbug.pro,REJECT
@@ -46343,7 +46379,6 @@ rules:
   - DOMAIN-SUFFIX,vnfjsus.xyz,REJECT
   - DOMAIN-SUFFIX,vnfsbl.xyz,REJECT
   - DOMAIN-SUFFIX,vnsodo.mobi,REJECT
-  - DOMAIN-SUFFIX,vntkasoccdadvmtlkf8mhuxwi25s6i8c.xyz,REJECT
   - DOMAIN-SUFFIX,vnvmif.cn,REJECT
   - DOMAIN-SUFFIX,vocaljoy.pro,REJECT
   - DOMAIN-SUFFIX,vocaltrasc.pro,REJECT
@@ -46936,6 +46971,7 @@ rules:
   - DOMAIN-SUFFIX,wattstraum.pro,REJECT
   - DOMAIN-SUFFIX,watyxaa.pro,REJECT
   - DOMAIN-SUFFIX,wavefuji.pro,REJECT
+  - DOMAIN-SUFFIX,wavelengthnews.pro,REJECT
   - DOMAIN-SUFFIX,wavelorezz.pro,REJECT
   - DOMAIN-SUFFIX,wavelsbaci.pro,REJECT
   - DOMAIN-SUFFIX,waveripple.pro,REJECT
@@ -47029,6 +47065,7 @@ rules:
   - DOMAIN-SUFFIX,webapi.staging.salamantex.com,REJECT
   - DOMAIN-SUFFIX,webcast5-open-lf.douyin.com,REJECT
   - DOMAIN-SUFFIX,webcollects.kugou.com,REJECT
+  - DOMAIN-SUFFIX,webcommunitynews.pro,REJECT
   - DOMAIN-SUFFIX,webfile.adview.cn,REJECT
   - DOMAIN-SUFFIX,webfile.adview.com,REJECT
   - DOMAIN-SUFFIX,webid.ad.daum.net,REJECT
@@ -47109,6 +47146,7 @@ rules:
   - DOMAIN-SUFFIX,wgoeisdnlk.com,REJECT
   - DOMAIN-SUFFIX,whaleads.com,REJECT
   - DOMAIN-SUFFIX,whalesongsmelodies.pro,REJECT
+  - DOMAIN-SUFFIX,whatsnewtodayweb.pro,REJECT
   - DOMAIN-SUFFIX,whatsupjoy.pro,REJECT
   - DOMAIN-SUFFIX,whe0nqk.icu,REJECT
   - DOMAIN-SUFFIX,whefnudri.pro,REJECT
@@ -47270,7 +47308,6 @@ rules:
   - DOMAIN-SUFFIX,whiteriall.pro,REJECT
   - DOMAIN-SUFFIX,whitetapir.pro,REJECT
   - DOMAIN-SUFFIX,whitewebpinklink.pro,REJECT
-  - DOMAIN-SUFFIX,whitewebplumbot.pro,REJECT
   - DOMAIN-SUFFIX,whitfaggra.pro,REJECT
   - DOMAIN-SUFFIX,whizzyflare.pro,REJECT
   - DOMAIN-SUFFIX,whjiryjr.pro,REJECT
@@ -47652,6 +47689,7 @@ rules:
   - DOMAIN-SUFFIX,wreatcoinc.pro,REJECT
   - DOMAIN-SUFFIX,wreckindol.pro,REJECT
   - DOMAIN-SUFFIX,wrilqmyv.pro,REJECT
+  - DOMAIN-SUFFIX,writenewsnow.pro,REJECT
   - DOMAIN-SUFFIX,wrontonshatbona.pro,REJECT
   - DOMAIN-SUFFIX,wrpsouf.cn,REJECT
   - DOMAIN-SUFFIX,wrth.cn,REJECT
@@ -48026,6 +48064,7 @@ rules:
   - DOMAIN-SUFFIX,www.accivunsty.pro,REJECT
   - DOMAIN-SUFFIX,www.acclacorne.pro,REJECT
   - DOMAIN-SUFFIX,www.acclastern.pro,REJECT
+  - DOMAIN-SUFFIX,www.acclasthen.pro,REJECT
   - DOMAIN-SUFFIX,www.acclastrol.pro,REJECT
   - DOMAIN-SUFFIX,www.acclastroo.pro,REJECT
   - DOMAIN-SUFFIX,www.acclidisco.pro,REJECT
@@ -48123,6 +48162,7 @@ rules:
   - DOMAIN-SUFFIX,www.acousticocelot.pro,REJECT
   - DOMAIN-SUFFIX,www.acousticspider.pro,REJECT
   - DOMAIN-SUFFIX,www.acquaburch.pro,REJECT
+  - DOMAIN-SUFFIX,www.acquadisob.pro,REJECT
   - DOMAIN-SUFFIX,www.acquadissy.pro,REJECT
   - DOMAIN-SUFFIX,www.acquaforma.pro,REJECT
   - DOMAIN-SUFFIX,www.acquaseman.pro,REJECT
@@ -48146,6 +48186,7 @@ rules:
   - DOMAIN-SUFFIX,www.actiaichth.pro,REJECT
   - DOMAIN-SUFFIX,www.actinrical.pro,REJECT
   - DOMAIN-SUFFIX,www.actinscamb.pro,REJECT
+  - DOMAIN-SUFFIX,www.actionnewsreport.pro,REJECT
   - DOMAIN-SUFFIX,www.activeadventure.com,REJECT
   - DOMAIN-SUFFIX,www.activeagama.pro,REJECT
   - DOMAIN-SUFFIX,www.activedegu.pro,REJECT
@@ -48160,7 +48201,6 @@ rules:
   - DOMAIN-SUFFIX,www.acynoindit.pro,REJECT
   - DOMAIN-SUFFIX,www.ad-center.com,REJECT
   - DOMAIN-SUFFIX,www.ad-cloud.jp,REJECT
-  - DOMAIN-SUFFIX,www.ad-fuse.com,REJECT
   - DOMAIN-SUFFIX,www.ad-lister.co.uk,REJECT
   - DOMAIN-SUFFIX,www.ad-net.co.uk,REJECT
   - DOMAIN-SUFFIX,www.ad-server.eu,REJECT
@@ -48458,6 +48498,9 @@ rules:
   - DOMAIN-SUFFIX,www.advangelists.com,REJECT
   - DOMAIN-SUFFIX,www.advanpromo.com,REJECT
   - DOMAIN-SUFFIX,www.advantawebagency.xyz,REJECT
+  - DOMAIN-SUFFIX,www.advantax-e300ai.com,REJECT
+  - DOMAIN-SUFFIX,www.advantaxai20.com,REJECT
+  - DOMAIN-SUFFIX,www.advantaxe300ai.net,REJECT
   - DOMAIN-SUFFIX,www.advaplex.com,REJECT
   - DOMAIN-SUFFIX,www.advconversion.com,REJECT
   - DOMAIN-SUFFIX,www.advenscrip.pro,REJECT
@@ -48467,6 +48510,7 @@ rules:
   - DOMAIN-SUFFIX,www.adventurefeeds.com,REJECT
   - DOMAIN-SUFFIX,www.adventuregamers.xyz,REJECT
   - DOMAIN-SUFFIX,www.adventureinnmoab.world,REJECT
+  - DOMAIN-SUFFIX,www.adventurenewsnetwork.pro,REJECT
   - DOMAIN-SUFFIX,www.adventures-from-home.com,REJECT
   - DOMAIN-SUFFIX,www.adventures-nacho-social.com,REJECT
   - DOMAIN-SUFFIX,www.adventurousadder.pro,REJECT
@@ -48640,6 +48684,7 @@ rules:
   - DOMAIN-SUFFIX,www.aggluglose.pro,REJECT
   - DOMAIN-SUFFIX,www.aggobirris.pro,REJECT
   - DOMAIN-SUFFIX,www.aggradiale.pro,REJECT
+  - DOMAIN-SUFFIX,www.aggradispa.pro,REJECT
   - DOMAIN-SUFFIX,www.aggraetolo.pro,REJECT
   - DOMAIN-SUFFIX,www.aggraimput.pro,REJECT
   - DOMAIN-SUFFIX,www.aggrecatal.pro,REJECT
@@ -48683,7 +48728,6 @@ rules:
   - DOMAIN-SUFFIX,www.aisleunclu.pro,REJECT
   - DOMAIN-SUFFIX,www.aitongji.vip,REJECT
   - DOMAIN-SUFFIX,www.aizzesuber.pro,REJECT
-  - DOMAIN-SUFFIX,www.ajcjxczxpmln.pro,REJECT
   - DOMAIN-SUFFIX,www.ajowaeggfr.pro,REJECT
   - DOMAIN-SUFFIX,www.akenothere.pro,REJECT
   - DOMAIN-SUFFIX,www.akiakosguer.pro,REJECT
@@ -48705,6 +48749,7 @@ rules:
   - DOMAIN-SUFFIX,www.alchemytransforms.pro,REJECT
   - DOMAIN-SUFFIX,www.alchemytransformsus.pro,REJECT
   - DOMAIN-SUFFIX,www.alciddisbe.pro,REJECT
+  - DOMAIN-SUFFIX,www.alcohvicar.pro,REJECT
   - DOMAIN-SUFFIX,www.alcolcrost.pro,REJECT
   - DOMAIN-SUFFIX,www.alcoldisso.pro,REJECT
   - DOMAIN-SUFFIX,www.alcolspani.pro,REJECT
@@ -48965,6 +49010,7 @@ rules:
   - DOMAIN-SUFFIX,www.amphispant.pro,REJECT
   - DOMAIN-SUFFIX,www.amplideflo.pro,REJECT
   - DOMAIN-SUFFIX,www.amplipachu.pro,REJECT
+  - DOMAIN-SUFFIX,www.ams.adventurousweddingsescape.beauty,REJECT
   - DOMAIN-SUFFIX,www.ams3.adventuretravelvibes.xyz,REJECT
   - DOMAIN-SUFFIX,www.ams3.adventurewithbooks.xyz,REJECT
   - DOMAIN-SUFFIX,www.amusingalphabets.pro,REJECT
@@ -49468,6 +49514,7 @@ rules:
   - DOMAIN-SUFFIX,www.artichokeimpala.pro,REJECT
   - DOMAIN-SUFFIX,www.artichoketermite.pro,REJECT
   - DOMAIN-SUFFIX,www.artichoketrout.pro,REJECT
+  - DOMAIN-SUFFIX,www.articlestoread.pro,REJECT
   - DOMAIN-SUFFIX,www.articpanna.pro,REJECT
   - DOMAIN-SUFFIX,www.artiffamer.pro,REJECT
   - DOMAIN-SUFFIX,www.artifimmor.pro,REJECT
@@ -49554,6 +49601,7 @@ rules:
   - DOMAIN-SUFFIX,www.assolletam.pro,REJECT
   - DOMAIN-SUFFIX,www.assolmanic.pro,REJECT
   - DOMAIN-SUFFIX,www.assondisgu.pro,REJECT
+  - DOMAIN-SUFFIX,www.assoningan.pro,REJECT
   - DOMAIN-SUFFIX,www.assorponut.pro,REJECT
   - DOMAIN-SUFFIX,www.assorrassu.pro,REJECT
   - DOMAIN-SUFFIX,www.assorrinsu.pro,REJECT
@@ -49596,7 +49644,6 @@ rules:
   - DOMAIN-SUFFIX,www.ata.ero-advertising.com,REJECT
   - DOMAIN-SUFFIX,www.atabaammos.pro,REJECT
   - DOMAIN-SUFFIX,www.atancreas.pro,REJECT
-  - DOMAIN-SUFFIX,www.atcbcr.pro,REJECT
   - DOMAIN-SUFFIX,www.ateketonti.pro,REJECT
   - DOMAIN-SUFFIX,www.atelecare.pro,REJECT
   - DOMAIN-SUFFIX,www.athanurina.pro,REJECT
@@ -49797,6 +49844,7 @@ rules:
   - DOMAIN-SUFFIX,www.avvigraddi.pro,REJECT
   - DOMAIN-SUFFIX,www.avvilinfre.pro,REJECT
   - DOMAIN-SUFFIX,www.avvinsconv.pro,REJECT
+  - DOMAIN-SUFFIX,www.avviscabme.pro,REJECT
   - DOMAIN-SUFFIX,www.avvitrestr.pro,REJECT
   - DOMAIN-SUFFIX,www.avvolhydro.pro,REJECT
   - DOMAIN-SUFFIX,www.avvolperid.pro,REJECT
@@ -49809,10 +49857,8 @@ rules:
   - DOMAIN-SUFFIX,www.awesomeseagull.pro,REJECT
   - DOMAIN-SUFFIX,www.awesometermite.pro,REJECT
   - DOMAIN-SUFFIX,www.awesometiger.pro,REJECT
-  - DOMAIN-SUFFIX,www.awpwzbbhixuo.pro,REJECT
   - DOMAIN-SUFFIX,www.awsmads.com,REJECT
   - DOMAIN-SUFFIX,www.axbrenomog.pro,REJECT
-  - DOMAIN-SUFFIX,www.axgnba.pro,REJECT
   - DOMAIN-SUFFIX,www.axileunfei.pro,REJECT
   - DOMAIN-SUFFIX,www.axiom-pro-app.com,REJECT
   - DOMAIN-SUFFIX,www.axiom-pro.online,REJECT
@@ -50044,6 +50090,7 @@ rules:
   - DOMAIN-SUFFIX,www.bcftutrave.pro,REJECT
   - DOMAIN-SUFFIX,www.bdweb3legaladvisors.com,REJECT
   - DOMAIN-SUFFIX,www.beamidiswe.pro,REJECT
+  - DOMAIN-SUFFIX,www.beaneranno.pro,REJECT
   - DOMAIN-SUFFIX,www.bearastepf.pro,REJECT
   - DOMAIN-SUFFIX,www.bearclawstrength.pro,REJECT
   - DOMAIN-SUFFIX,www.bearhugsgivenfreely.pro,REJECT
@@ -50182,7 +50229,9 @@ rules:
   - DOMAIN-SUFFIX,www.beshasuper.pro,REJECT
   - DOMAIN-SUFFIX,www.beshrinapp.pro,REJECT
   - DOMAIN-SUFFIX,www.besliholmi.pro,REJECT
+  - DOMAIN-SUFFIX,www.besoventa.pro,REJECT
   - DOMAIN-SUFFIX,www.bestapiaci.pro,REJECT
+  - DOMAIN-SUFFIX,www.bestfeeddaily.pro,REJECT
   - DOMAIN-SUFFIX,www.bestihawse.pro,REJECT
   - DOMAIN-SUFFIX,www.bestispiri.pro,REJECT
   - DOMAIN-SUFFIX,www.bestoappre.pro,REJECT
@@ -50247,7 +50296,6 @@ rules:
   - DOMAIN-SUFFIX,www.billiard-local-ads-manage-git075863.vercel.app,REJECT
   - DOMAIN-SUFFIX,www.billtcarbu.pro,REJECT
   - DOMAIN-SUFFIX,www.bilocexagg.pro,REJECT
-  - DOMAIN-SUFFIX,www.bilouv.pro,REJECT
   - DOMAIN-SUFFIX,www.bindepremu.pro,REJECT
   - DOMAIN-SUFFIX,www.bindoaggom.pro,REJECT
   - DOMAIN-SUFFIX,www.bindodisat.pro,REJECT
@@ -50651,9 +50699,9 @@ rules:
   - DOMAIN-SUFFIX,www.boxtomalco.pro,REJECT
   - DOMAIN-SUFFIX,www.bozzocadut.pro,REJECT
   - DOMAIN-SUFFIX,www.bpcuploads.com,REJECT
-  - DOMAIN-SUFFIX,www.bpuhdj.pro,REJECT
   - DOMAIN-SUFFIX,www.brabablood.pro,REJECT
   - DOMAIN-SUFFIX,www.braccacell.pro,REJECT
+  - DOMAIN-SUFFIX,www.bracclocup.pro,REJECT
   - DOMAIN-SUFFIX,www.braccoscur.pro,REJECT
   - DOMAIN-SUFFIX,www.braccpirat.pro,REJECT
   - DOMAIN-SUFFIX,www.braccrepre.pro,REJECT
@@ -50708,6 +50756,7 @@ rules:
   - DOMAIN-SUFFIX,www.brbiironi.pro,REJECT
   - DOMAIN-SUFFIX,www.breacister.pro,REJECT
   - DOMAIN-SUFFIX,www.breadglute.pro,REJECT
+  - DOMAIN-SUFFIX,www.breakingstorieshub.pro,REJECT
   - DOMAIN-SUFFIX,www.breathertz.pro,REJECT
   - DOMAIN-SUFFIX,www.breatsudse.pro,REJECT
   - DOMAIN-SUFFIX,www.breecsurre.pro,REJECT
@@ -50743,6 +50792,7 @@ rules:
   - DOMAIN-SUFFIX,www.brevipacas.pro,REJECT
   - DOMAIN-SUFFIX,www.brewebizan.pro,REJECT
   - DOMAIN-SUFFIX,www.brezzgelat.pro,REJECT
+  - DOMAIN-SUFFIX,www.bribbprope.pro,REJECT
   - DOMAIN-SUFFIX,www.bricicoibe.pro,REJECT
   - DOMAIN-SUFFIX,www.briefpurul.pro,REJECT
   - DOMAIN-SUFFIX,www.brigaabboz.pro,REJECT
@@ -50880,7 +50930,6 @@ rules:
   - DOMAIN-SUFFIX,www.briviricru.pro,REJECT
   - DOMAIN-SUFFIX,www.brixontal.pro,REJECT
   - DOMAIN-SUFFIX,www.brnsshahi.pro,REJECT
-  - DOMAIN-SUFFIX,www.broadsexplorer.com,REJECT
   - DOMAIN-SUFFIX,www.broadspring.com,REJECT
   - DOMAIN-SUFFIX,www.broadviewnewsportal.com,REJECT
   - DOMAIN-SUFFIX,www.broccchios.pro,REJECT
@@ -51017,7 +51066,6 @@ rules:
   - DOMAIN-SUFFIX,www.bufutoa2.pro,REJECT
   - DOMAIN-SUFFIX,www.bugiavinif.pro,REJECT
   - DOMAIN-SUFFIX,www.buildvenez.pro,REJECT
-  - DOMAIN-SUFFIX,www.bujuhuy9.pro,REJECT
   - DOMAIN-SUFFIX,www.bulbofala.pro,REJECT
   - DOMAIN-SUFFIX,www.bulgaachte.pro,REJECT
   - DOMAIN-SUFFIX,www.bulgadisac.pro,REJECT
@@ -51031,6 +51079,7 @@ rules:
   - DOMAIN-SUFFIX,www.bulldelett.pro,REJECT
   - DOMAIN-SUFFIX,www.bulldsyncr.pro,REJECT
   - DOMAIN-SUFFIX,www.bulletads.com,REJECT
+  - DOMAIN-SUFFIX,www.bulliaccag.pro,REJECT
   - DOMAIN-SUFFIX,www.bullobalan.pro,REJECT
   - DOMAIN-SUFFIX,www.bullodesce.pro,REJECT
   - DOMAIN-SUFFIX,www.bullorilec.pro,REJECT
@@ -51377,6 +51426,7 @@ rules:
   - DOMAIN-SUFFIX,www.carpodiscu.pro,REJECT
   - DOMAIN-SUFFIX,www.carredispe.pro,REJECT
   - DOMAIN-SUFFIX,www.carremetan.pro,REJECT
+  - DOMAIN-SUFFIX,www.carrepalel.pro,REJECT
   - DOMAIN-SUFFIX,www.carriester.pro,REJECT
   - DOMAIN-SUFFIX,www.carrotcrayfish.pro,REJECT
   - DOMAIN-SUFFIX,www.carrotfoxhound.pro,REJECT
@@ -51558,6 +51608,7 @@ rules:
   - DOMAIN-SUFFIX,www.cepacsinuo.pro,REJECT
   - DOMAIN-SUFFIX,www.cephapostr.pro,REJECT
   - DOMAIN-SUFFIX,www.ceppetwine.pro,REJECT
+  - DOMAIN-SUFFIX,www.ceramfrate.pro,REJECT
   - DOMAIN-SUFFIX,www.cerammaled.pro,REJECT
   - DOMAIN-SUFFIX,www.cerasironi.pro,REJECT
   - DOMAIN-SUFFIX,www.ceratdisla.pro,REJECT
@@ -51624,7 +51675,6 @@ rules:
   - DOMAIN-SUFFIX,www.cetansozza.pro,REJECT
   - DOMAIN-SUFFIX,www.ceticunard.pro,REJECT
   - DOMAIN-SUFFIX,www.cevenoestr.pro,REJECT
-  - DOMAIN-SUFFIX,www.cexovye8.pro,REJECT
   - DOMAIN-SUFFIX,www.cexygoo7.pro,REJECT
   - DOMAIN-SUFFIX,www.cezonix.pro,REJECT
   - DOMAIN-SUFFIX,www.cezonixpro.pro,REJECT
@@ -52262,6 +52312,7 @@ rules:
   - DOMAIN-SUFFIX,www.codimgratu.pro,REJECT
   - DOMAIN-SUFFIX,www.coedibenef.pro,REJECT
   - DOMAIN-SUFFIX,www.coediregar.pro,REJECT
+  - DOMAIN-SUFFIX,www.coeffchann.pro,REJECT
   - DOMAIN-SUFFIX,www.coeffconta.pro,REJECT
   - DOMAIN-SUFFIX,www.coelanordi.pro,REJECT
   - DOMAIN-SUFFIX,www.coelestone.pro,REJECT
@@ -52374,6 +52425,7 @@ rules:
   - DOMAIN-SUFFIX,www.coluvaa1.pro,REJECT
   - DOMAIN-SUFFIX,www.colyogigar.pro,REJECT
   - DOMAIN-SUFFIX,www.combamasca.pro,REJECT
+  - DOMAIN-SUFFIX,www.combamonan.pro,REJECT
   - DOMAIN-SUFFIX,www.combibarbu.pro,REJECT
   - DOMAIN-SUFFIX,www.combitrasl.pro,REJECT
   - DOMAIN-SUFFIX,www.comeddispo.pro,REJECT
@@ -52576,6 +52628,7 @@ rules:
   - DOMAIN-SUFFIX,www.congrdribb.pro,REJECT
   - DOMAIN-SUFFIX,www.congrindug.pro,REJECT
   - DOMAIN-SUFFIX,www.congrmargi.pro,REJECT
+  - DOMAIN-SUFFIX,www.congrquadr.pro,REJECT
   - DOMAIN-SUFFIX,www.congubusch.pro,REJECT
   - DOMAIN-SUFFIX,www.coniucarto.pro,REJECT
   - DOMAIN-SUFFIX,www.coniurimba.pro,REJECT
@@ -53067,6 +53120,7 @@ rules:
   - DOMAIN-SUFFIX,www.crucipropl.pro,REJECT
   - DOMAIN-SUFFIX,www.cruciricom.pro,REJECT
   - DOMAIN-SUFFIX,www.crucisciac.pro,REJECT
+  - DOMAIN-SUFFIX,www.crucizymas.pro,REJECT
   - DOMAIN-SUFFIX,www.crudmupiate.pro,REJECT
   - DOMAIN-SUFFIX,www.crueldisco.pro,REJECT
   - DOMAIN-SUFFIX,www.cruenititu.pro,REJECT
@@ -53083,7 +53137,6 @@ rules:
   - DOMAIN-SUFFIX,www.crystalbittern.pro,REJECT
   - DOMAIN-SUFFIX,www.crystalblazingwhirl.pro,REJECT
   - DOMAIN-SUFFIX,www.crystalbreeze.pro,REJECT
-  - DOMAIN-SUFFIX,www.crystalclearwaters.pro,REJECT
   - DOMAIN-SUFFIX,www.crystalcopperhead.pro,REJECT
   - DOMAIN-SUFFIX,www.crystalcrest.pro,REJECT
   - DOMAIN-SUFFIX,www.crystaljourney.pro,REJECT
@@ -53290,7 +53343,6 @@ rules:
   - DOMAIN-SUFFIX,www.cyharoo8.pro,REJECT
   - DOMAIN-SUFFIX,www.cyhners.ero-advertising.com,REJECT
   - DOMAIN-SUFFIX,www.cyjemae8.pro,REJECT
-  - DOMAIN-SUFFIX,www.cyjwsx.pro,REJECT
   - DOMAIN-SUFFIX,www.cyluvie2.pro,REJECT
   - DOMAIN-SUFFIX,www.cymblinter.pro,REJECT
   - DOMAIN-SUFFIX,www.cymujiohio.pro,REJECT
@@ -53506,7 +53558,6 @@ rules:
   - DOMAIN-SUFFIX,www.dawa.ero-advertising.com,REJECT
   - DOMAIN-SUFFIX,www.dawekii3.pro,REJECT
   - DOMAIN-SUFFIX,www.dawufai2.pro,REJECT
-  - DOMAIN-SUFFIX,www.daxigei8.pro,REJECT
   - DOMAIN-SUFFIX,www.daxivue8.pro,REJECT
   - DOMAIN-SUFFIX,www.dayangfa.com,REJECT
   - DOMAIN-SUFFIX,www.daybeprese.pro,REJECT
@@ -53589,6 +53640,7 @@ rules:
   - DOMAIN-SUFFIX,www.debonairsunfish.pro,REJECT
   - DOMAIN-SUFFIX,www.debonregat.pro,REJECT
   - DOMAIN-SUFFIX,www.deboranaer.pro,REJECT
+  - DOMAIN-SUFFIX,www.debsesclu.pro,REJECT
   - DOMAIN-SUFFIX,www.debtnologot.pro,REJECT
   - DOMAIN-SUFFIX,www.debutingob.pro,REJECT
   - DOMAIN-SUFFIX,www.debutlynet.pro,REJECT
@@ -54264,6 +54316,7 @@ rules:
   - DOMAIN-SUFFIX,www.disaunovel.pro,REJECT
   - DOMAIN-SUFFIX,www.disautetra.pro,REJECT
   - DOMAIN-SUFFIX,www.disavabort.pro,REJECT
+  - DOMAIN-SUFFIX,www.disavforfe.pro,REJECT
   - DOMAIN-SUFFIX,www.disavmicro.pro,REJECT
   - DOMAIN-SUFFIX,www.disavnulla.pro,REJECT
   - DOMAIN-SUFFIX,www.disavtutta.pro,REJECT
@@ -54456,6 +54509,7 @@ rules:
   - DOMAIN-SUFFIX,www.dislafouet.pro,REJECT
   - DOMAIN-SUFFIX,www.dislaparti.pro,REJECT
   - DOMAIN-SUFFIX,www.dislariavv.pro,REJECT
+  - DOMAIN-SUFFIX,www.disleation.pro,REJECT
   - DOMAIN-SUFFIX,www.dislodecap.pro,REJECT
   - DOMAIN-SUFFIX,www.dislohydro.pro,REJECT
   - DOMAIN-SUFFIX,www.dislonarra.pro,REJECT
@@ -54583,6 +54637,7 @@ rules:
   - DOMAIN-SUFFIX,www.distiprees.pro,REJECT
   - DOMAIN-SUFFIX,www.distisymbr.pro,REJECT
   - DOMAIN-SUFFIX,www.distitussl.pro,REJECT
+  - DOMAIN-SUFFIX,www.distoberti.pro,REJECT
   - DOMAIN-SUFFIX,www.distoeredi.pro,REJECT
   - DOMAIN-SUFFIX,www.distomatte.pro,REJECT
   - DOMAIN-SUFFIX,www.distotermo.pro,REJECT
@@ -54656,7 +54711,6 @@ rules:
   - DOMAIN-SUFFIX,www.djinkobathk.pro,REJECT
   - DOMAIN-SUFFIX,www.dknindsl.com,REJECT
   - DOMAIN-SUFFIX,www.dlljuv.pro,REJECT
-  - DOMAIN-SUFFIX,www.dm.tocdefd.com,REJECT
   - DOMAIN-SUFFIX,www.dns-be.com,REJECT
   - DOMAIN-SUFFIX,www.dns-ff5tjavme90pq8.allredl.com,REJECT
   - DOMAIN-SUFFIX,www.dns-joj7d9fut87nrn.nalataexport.com,REJECT
@@ -54902,7 +54956,6 @@ rules:
   - DOMAIN-SUFFIX,www.duendpuntu.pro,REJECT
   - DOMAIN-SUFFIX,www.duennscand.pro,REJECT
   - DOMAIN-SUFFIX,www.duessvital.pro,REJECT
-  - DOMAIN-SUFFIX,www.dufxlfaryfyc.pro,REJECT
   - DOMAIN-SUFFIX,www.dugenrimpa.pro,REJECT
   - DOMAIN-SUFFIX,www.duhocye9.pro,REJECT
   - DOMAIN-SUFFIX,www.dulcesdott.pro,REJECT
@@ -55253,7 +55306,6 @@ rules:
   - DOMAIN-SUFFIX,www.embolsweet.pro,REJECT
   - DOMAIN-SUFFIX,www.embraperme.pro,REJECT
   - DOMAIN-SUFFIX,www.embrioutbl.pro,REJECT
-  - DOMAIN-SUFFIX,www.emctod.pro,REJECT
   - DOMAIN-SUFFIX,www.emendrisol.pro,REJECT
   - DOMAIN-SUFFIX,www.emeralddogfish.pro,REJECT
   - DOMAIN-SUFFIX,www.emeraldermine.pro,REJECT
@@ -55526,7 +55578,6 @@ rules:
   - DOMAIN-SUFFIX,www.epmads.com,REJECT
   - DOMAIN-SUFFIX,www.epoidecre.pro,REJECT
   - DOMAIN-SUFFIX,www.epoxyscaps.pro,REJECT
-  - DOMAIN-SUFFIX,www.epukdx.pro,REJECT
   - DOMAIN-SUFFIX,www.equespolla.pro,REJECT
   - DOMAIN-SUFFIX,www.equidoocys.pro,REJECT
   - DOMAIN-SUFFIX,www.equilcatap.pro,REJECT
@@ -55552,6 +55603,7 @@ rules:
   - DOMAIN-SUFFIX,www.erexol24.pro,REJECT
   - DOMAIN-SUFFIX,www.ergoncaric.pro,REJECT
   - DOMAIN-SUFFIX,www.erinominis.pro,REJECT
+  - DOMAIN-SUFFIX,www.eriopwraxl.pro,REJECT
   - DOMAIN-SUFFIX,www.eritrblast.pro,REJECT
   - DOMAIN-SUFFIX,www.ermensbrin.pro,REJECT
   - DOMAIN-SUFFIX,www.ermogodecal.pro,REJECT
@@ -55598,6 +55650,7 @@ rules:
   - DOMAIN-SUFFIX,www.escomjibstu.pro,REJECT
   - DOMAIN-SUFFIX,www.escomremon.pro,REJECT
   - DOMAIN-SUFFIX,www.escort-ads.com,REJECT
+  - DOMAIN-SUFFIX,www.escredeplo.pro,REJECT
   - DOMAIN-SUFFIX,www.escremalfu.pro,REJECT
   - DOMAIN-SUFFIX,www.escresgarr.pro,REJECT
   - DOMAIN-SUFFIX,www.escuerecen.pro,REJECT
@@ -55771,6 +55824,7 @@ rules:
   - DOMAIN-SUFFIX,www.evasivekakapo.pro,REJECT
   - DOMAIN-SUFFIX,www.evasiveocelot.pro,REJECT
   - DOMAIN-SUFFIX,www.evasivetortoise.pro,REJECT
+  - DOMAIN-SUFFIX,www.eventnewsportal.pro,REJECT
   - DOMAIN-SUFFIX,www.evenzoforst.pro,REJECT
   - DOMAIN-SUFFIX,www.everblossom.pro,REJECT
   - DOMAIN-SUFFIX,www.everember.pro,REJECT
@@ -55804,6 +55858,7 @@ rules:
   - DOMAIN-SUFFIX,www.exceprival.pro,REJECT
   - DOMAIN-SUFFIX,www.excesxenike.pro,REJECT
   - DOMAIN-SUFFIX,www.excitingadventures.pro,REJECT
+  - DOMAIN-SUFFIX,www.exclusiveinsights.pro,REJECT
   - DOMAIN-SUFFIX,www.excurmyoki.pro,REJECT
   - DOMAIN-SUFFIX,www.execrdiesa.pro,REJECT
   - DOMAIN-SUFFIX,www.exhalsdoga.pro,REJECT
@@ -56039,7 +56094,6 @@ rules:
   - DOMAIN-SUFFIX,www.fazenradio.pro,REJECT
   - DOMAIN-SUFFIX,www.faziovolun.pro,REJECT
   - DOMAIN-SUFFIX,www.fazoteu9.pro,REJECT
-  - DOMAIN-SUFFIX,www.fcvutavuonar.pro,REJECT
   - DOMAIN-SUFFIX,www.fearlessbandicoot.pro,REJECT
   - DOMAIN-SUFFIX,www.fearlessdingo.pro,REJECT
   - DOMAIN-SUFFIX,www.fearlessgecko.pro,REJECT
@@ -56070,6 +56124,7 @@ rules:
   - DOMAIN-SUFFIX,www.fecuncimas.pro,REJECT
   - DOMAIN-SUFFIX,www.federperin.pro,REJECT
   - DOMAIN-SUFFIX,www.feedbabsga.pro,REJECT
+  - DOMAIN-SUFFIX,www.feedcurrentupdates.pro,REJECT
   - DOMAIN-SUFFIX,www.feeliintur.pro,REJECT
   - DOMAIN-SUFFIX,www.feelimicro.pro,REJECT
   - DOMAIN-SUFFIX,www.feignaffia.pro,REJECT
@@ -56171,6 +56226,7 @@ rules:
   - DOMAIN-SUFFIX,www.fidelricol.pro,REJECT
   - DOMAIN-SUFFIX,www.fiefdrisfa.pro,REJECT
   - DOMAIN-SUFFIX,www.fieldheal.pro,REJECT
+  - DOMAIN-SUFFIX,www.fienaaccog.pro,REJECT
   - DOMAIN-SUFFIX,www.fieniringo.pro,REJECT
   - DOMAIN-SUFFIX,www.fiercearmadillo.pro,REJECT
   - DOMAIN-SUFFIX,www.fiercebee.pro,REJECT
@@ -56510,6 +56566,7 @@ rules:
   - DOMAIN-SUFFIX,www.forarcopul.pro,REJECT
   - DOMAIN-SUFFIX,www.forbaplumi.pro,REJECT
   - DOMAIN-SUFFIX,www.forbipreme.pro,REJECT
+  - DOMAIN-SUFFIX,www.forcituber.pro,REJECT
   - DOMAIN-SUFFIX,www.fordiammat.pro,REJECT
   - DOMAIN-SUFFIX,www.forebvedre.pro,REJECT
   - DOMAIN-SUFFIX,www.forecpyaem.pro,REJECT
@@ -56578,6 +56635,7 @@ rules:
   - DOMAIN-SUFFIX,www.forwardvision.pro,REJECT
   - DOMAIN-SUFFIX,www.foryidequa.pro,REJECT
   - DOMAIN-SUFFIX,www.forzaripia.pro,REJECT
+  - DOMAIN-SUFFIX,www.forzaunflu.pro,REJECT
   - DOMAIN-SUFFIX,www.foschwharf.pro,REJECT
   - DOMAIN-SUFFIX,www.fosfobabbi.pro,REJECT
   - DOMAIN-SUFFIX,www.fosfoiodoh.pro,REJECT
@@ -56833,7 +56891,6 @@ rules:
   - DOMAIN-SUFFIX,www.frusttrala.pro,REJECT
   - DOMAIN-SUFFIX,www.frustunser.pro,REJECT
   - DOMAIN-SUFFIX,www.fruttsurvo.pro,REJECT
-  - DOMAIN-SUFFIX,www.ftfvwooymjic.pro,REJECT
   - DOMAIN-SUFFIX,www.fucihai5.pro,REJECT
   - DOMAIN-SUFFIX,www.fucilagres.pro,REJECT
   - DOMAIN-SUFFIX,www.fucincentr.pro,REJECT
@@ -56927,7 +56984,6 @@ rules:
   - DOMAIN-SUFFIX,www.fusulzolla.pro,REJECT
   - DOMAIN-SUFFIX,www.futtesopra.pro,REJECT
   - DOMAIN-SUFFIX,www.futurefocusersy.pro,REJECT
-  - DOMAIN-SUFFIX,www.futureleaders.pro,REJECT
   - DOMAIN-SUFFIX,www.futuristicchinchilla.pro,REJECT
   - DOMAIN-SUFFIX,www.futuristiccicada.pro,REJECT
   - DOMAIN-SUFFIX,www.futuristicgharial.pro,REJECT
@@ -57957,6 +58013,7 @@ rules:
   - DOMAIN-SUFFIX,www.haboocitic.pro,REJECT
   - DOMAIN-SUFFIX,www.haddeunpar.pro,REJECT
   - DOMAIN-SUFFIX,www.haemadisgr.pro,REJECT
+  - DOMAIN-SUFFIX,www.haemopseud.pro,REJECT
   - DOMAIN-SUFFIX,www.haemorimba.pro,REJECT
   - DOMAIN-SUFFIX,www.haemosoggi.pro,REJECT
   - DOMAIN-SUFFIX,www.haemostraf.pro,REJECT
@@ -58037,7 +58094,6 @@ rules:
   - DOMAIN-SUFFIX,www.happyoryx.pro,REJECT
   - DOMAIN-SUFFIX,www.happyphrase.pro,REJECT
   - DOMAIN-SUFFIX,www.happypuff.pro,REJECT
-  - DOMAIN-SUFFIX,www.happyquest.pro,REJECT
   - DOMAIN-SUFFIX,www.happyrandoms.pro,REJECT
   - DOMAIN-SUFFIX,www.happysneeze.pro,REJECT
   - DOMAIN-SUFFIX,www.happyspark.pro,REJECT
@@ -58139,6 +58195,7 @@ rules:
   - DOMAIN-SUFFIX,www.headtoheadsudoku.com,REJECT
   - DOMAIN-SUFFIX,www.headwhepat.pro,REJECT
   - DOMAIN-SUFFIX,www.health-partner.net,REJECT
+  - DOMAIN-SUFFIX,www.healthtechqualityadvisors.com,REJECT
   - DOMAIN-SUFFIX,www.heapepeir.pro,REJECT
   - DOMAIN-SUFFIX,www.heartyharmony.pro,REJECT
   - DOMAIN-SUFFIX,www.heatidereq.pro,REJECT
@@ -58220,7 +58277,6 @@ rules:
   - DOMAIN-SUFFIX,www.hereticvole.pro,REJECT
   - DOMAIN-SUFFIX,www.hereticwapiti.pro,REJECT
   - DOMAIN-SUFFIX,www.heritsirin.pro,REJECT
-  - DOMAIN-SUFFIX,www.herkguxhkogr.pro,REJECT
   - DOMAIN-SUFFIX,www.hermapadro.pro,REJECT
   - DOMAIN-SUFFIX,www.hermarokea.pro,REJECT
   - DOMAIN-SUFFIX,www.heroialkan.pro,REJECT
@@ -58307,7 +58363,6 @@ rules:
   - DOMAIN-SUFFIX,www.hiwituu1.pro,REJECT
   - DOMAIN-SUFFIX,www.hizaqau7.pro,REJECT
   - DOMAIN-SUFFIX,www.hlgglm.com,REJECT
-  - DOMAIN-SUFFIX,www.hmbjydxvypgx.pro,REJECT
   - DOMAIN-SUFFIX,www.hmusindem.pro,REJECT
   - DOMAIN-SUFFIX,www.hnchammob.pro,REJECT
   - DOMAIN-SUFFIX,www.hobloantid.pro,REJECT
@@ -58422,7 +58477,6 @@ rules:
   - DOMAIN-SUFFIX,www.hotoryx.pro,REJECT
   - DOMAIN-SUFFIX,www.hotpudu.pro,REJECT
   - DOMAIN-SUFFIX,www.hovcu4.top,REJECT
-  - DOMAIN-SUFFIX,www.hovejyi.pro,REJECT
   - DOMAIN-SUFFIX,www.hovezerifre.pro,REJECT
   - DOMAIN-SUFFIX,www.hovuvay3.pro,REJECT
   - DOMAIN-SUFFIX,www.howlingwolvescallpack.pro,REJECT
@@ -58430,6 +58484,7 @@ rules:
   - DOMAIN-SUFFIX,www.hrznzodrapp.pro,REJECT
   - DOMAIN-SUFFIX,www.hsjbcgc6.pro,REJECT
   - DOMAIN-SUFFIX,www.huariunres.pro,REJECT
+  - DOMAIN-SUFFIX,www.hubfeednews.pro,REJECT
   - DOMAIN-SUFFIX,www.hubuxay3.pro,REJECT
   - DOMAIN-SUFFIX,www.huddlsaett.pro,REJECT
   - DOMAIN-SUFFIX,www.huderyu5.pro,REJECT
@@ -58557,7 +58612,7 @@ rules:
   - DOMAIN-SUFFIX,www.iadiriuni.pro,REJECT
   - DOMAIN-SUFFIX,www.iambitelem.pro,REJECT
   - DOMAIN-SUFFIX,www.iatroscomp.pro,REJECT
-  - DOMAIN-SUFFIX,www.ibahqcqqvjis.pro,REJECT
+  - DOMAIN-SUFFIX,www.iazure.pro,REJECT
   - DOMAIN-SUFFIX,www.ibanaratte.pro,REJECT
   - DOMAIN-SUFFIX,www.ibernimper.pro,REJECT
   - DOMAIN-SUFFIX,www.ibernspere.pro,REJECT
@@ -59157,6 +59212,7 @@ rules:
   - DOMAIN-SUFFIX,www.incomsegre.pro,REJECT
   - DOMAIN-SUFFIX,www.incomtrian.pro,REJECT
   - DOMAIN-SUFFIX,www.inconbisla.pro,REJECT
+  - DOMAIN-SUFFIX,www.inconerump.pro,REJECT
   - DOMAIN-SUFFIX,www.inconverve.pro,REJECT
   - DOMAIN-SUFFIX,www.incorconin.pro,REJECT
   - DOMAIN-SUFFIX,www.incorfarin.pro,REJECT
@@ -59220,6 +59276,7 @@ rules:
   - DOMAIN-SUFFIX,www.indigrimag.pro,REJECT
   - DOMAIN-SUFFIX,www.indiguniso.pro,REJECT
   - DOMAIN-SUFFIX,www.indisdemor.pro,REJECT
+  - DOMAIN-SUFFIX,www.indisdiseg.pro,REJECT
   - DOMAIN-SUFFIX,www.indisequil.pro,REJECT
   - DOMAIN-SUFFIX,www.indisgalva.pro,REJECT
   - DOMAIN-SUFFIX,www.indismaggi.pro,REJECT
@@ -59356,6 +59413,7 @@ rules:
   - DOMAIN-SUFFIX,www.infoccontr.pro,REJECT
   - DOMAIN-SUFFIX,www.infocprobo.pro,REJECT
   - DOMAIN-SUFFIX,www.infodmnemo.pro,REJECT
+  - DOMAIN-SUFFIX,www.infofeedhub.pro,REJECT
   - DOMAIN-SUFFIX,www.infogricre.pro,REJECT
   - DOMAIN-SUFFIX,www.infogtrill.pro,REJECT
   - DOMAIN-SUFFIX,www.infoistraf.pro,REJECT
@@ -59583,7 +59641,6 @@ rules:
   - DOMAIN-SUFFIX,www.inspiredvision.pro,REJECT
   - DOMAIN-SUFFIX,www.inspiredwhispers.pro,REJECT
   - DOMAIN-SUFFIX,www.inspiringflame.pro,REJECT
-  - DOMAIN-SUFFIX,www.inspiringmeadow.pro,REJECT
   - DOMAIN-SUFFIX,www.inspiringnonsense.pro,REJECT
   - DOMAIN-SUFFIX,www.inspiringshore.pro,REJECT
   - DOMAIN-SUFFIX,www.instakilli.pro,REJECT
@@ -59815,6 +59872,7 @@ rules:
   - DOMAIN-SUFFIX,www.invilsdazi.pro,REJECT
   - DOMAIN-SUFFIX,www.invipdisco.pro,REJECT
   - DOMAIN-SUFFIX,www.invipsente.pro,REJECT
+  - DOMAIN-SUFFIX,www.inviscereo.pro,REJECT
   - DOMAIN-SUFFIX,www.inviscomen.pro,REJECT
   - DOMAIN-SUFFIX,www.invisfreet.pro,REJECT
   - DOMAIN-SUFFIX,www.invisiblecuscus.pro,REJECT
@@ -59990,7 +60048,6 @@ rules:
   - DOMAIN-SUFFIX,www.jadesdesid.pro,REJECT
   - DOMAIN-SUFFIX,www.jads.co,REJECT
   - DOMAIN-SUFFIX,www.jagyseu.pro,REJECT
-  - DOMAIN-SUFFIX,www.jahicio6.pro,REJECT
   - DOMAIN-SUFFIX,www.jailoreint.pro,REJECT
   - DOMAIN-SUFFIX,www.jakaxie1.pro,REJECT
   - DOMAIN-SUFFIX,www.jalopeuras.pro,REJECT
@@ -60067,7 +60124,6 @@ rules:
   - DOMAIN-SUFFIX,www.jivojovy.pro,REJECT
   - DOMAIN-SUFFIX,www.jizahotimo.pro,REJECT
   - DOMAIN-SUFFIX,www.jizzads.com,REJECT
-  - DOMAIN-SUFFIX,www.jjgkqv.pro,REJECT
   - DOMAIN-SUFFIX,www.jmine.cn,REJECT
   - DOMAIN-SUFFIX,www.jobejuu3.pro,REJECT
   - DOMAIN-SUFFIX,www.jocutii8.pro,REJECT
@@ -60183,7 +60239,6 @@ rules:
   - DOMAIN-SUFFIX,www.joyfuljigsawers.pro,REJECT
   - DOMAIN-SUFFIX,www.joyfuljingles.pro,REJECT
   - DOMAIN-SUFFIX,www.joyfuljolt.pro,REJECT
-  - DOMAIN-SUFFIX,www.joyfuljourney.pro,REJECT
   - DOMAIN-SUFFIX,www.joyfuljourneyrs.pro,REJECT
   - DOMAIN-SUFFIX,www.joyfuljourneyrse.pro,REJECT
   - DOMAIN-SUFFIX,www.joyfuljourneys.pro,REJECT
@@ -60349,7 +60404,6 @@ rules:
   - DOMAIN-SUFFIX,www.kawotya.pro,REJECT
   - DOMAIN-SUFFIX,www.kca8531.cc,REJECT
   - DOMAIN-SUFFIX,www.kcc4445.top,REJECT
-  - DOMAIN-SUFFIX,www.kcykasbhbznj.pro,REJECT
   - DOMAIN-SUFFIX,www.kds.ero-advertising.com,REJECT
   - DOMAIN-SUFFIX,www.kdu4127.cc,REJECT
   - DOMAIN-SUFFIX,www.kechugravi.pro,REJECT
@@ -60401,6 +60455,7 @@ rules:
   - DOMAIN-SUFFIX,www.kikadie.pro,REJECT
   - DOMAIN-SUFFIX,www.killeaquin.pro,REJECT
   - DOMAIN-SUFFIX,www.killinonat.pro,REJECT
+  - DOMAIN-SUFFIX,www.kilommoral.pro,REJECT
   - DOMAIN-SUFFIX,www.kilomorang.pro,REJECT
   - DOMAIN-SUFFIX,www.kilomporzi.pro,REJECT
   - DOMAIN-SUFFIX,www.kilovmodul.pro,REJECT
@@ -60432,7 +60487,6 @@ rules:
   - DOMAIN-SUFFIX,www.knickvalha.pro,REJECT
   - DOMAIN-SUFFIX,www.knittedkites.pro,REJECT
   - DOMAIN-SUFFIX,www.knivecauca.pro,REJECT
-  - DOMAIN-SUFFIX,www.knmuxc.pro,REJECT
   - DOMAIN-SUFFIX,www.knowhramma.pro,REJECT
   - DOMAIN-SUFFIX,www.knowingherring.pro,REJECT
   - DOMAIN-SUFFIX,www.knowingibex.pro,REJECT
@@ -60442,7 +60496,6 @@ rules:
   - DOMAIN-SUFFIX,www.knutgisupre.pro,REJECT
   - DOMAIN-SUFFIX,www.kobutopic.pro,REJECT
   - DOMAIN-SUFFIX,www.koceliy2.pro,REJECT
-  - DOMAIN-SUFFIX,www.kociwoy4.pro,REJECT
   - DOMAIN-SUFFIX,www.kohuzeo2.pro,REJECT
   - DOMAIN-SUFFIX,www.kojangrech.pro,REJECT
   - DOMAIN-SUFFIX,www.kolicie3.pro,REJECT
@@ -60472,7 +60525,6 @@ rules:
   - DOMAIN-SUFFIX,www.krockaccav.pro,REJECT
   - DOMAIN-SUFFIX,www.krummcausa.pro,REJECT
   - DOMAIN-SUFFIX,www.kryptplagi.pro,REJECT
-  - DOMAIN-SUFFIX,www.ktqtyggmqgug.pro,REJECT
   - DOMAIN-SUFFIX,www.kuchmiete.pro,REJECT
   - DOMAIN-SUFFIX,www.kudexoo3.pro,REJECT
   - DOMAIN-SUFFIX,www.kujate-denuxo.pro,REJECT
@@ -60485,10 +60537,8 @@ rules:
   - DOMAIN-SUFFIX,www.kuryxua3.pro,REJECT
   - DOMAIN-SUFFIX,www.kutudoy4.pro,REJECT
   - DOMAIN-SUFFIX,www.kuwupia.pro,REJECT
-  - DOMAIN-SUFFIX,www.kvbxxi.pro,REJECT
   - DOMAIN-SUFFIX,www.ky6895.com,REJECT
   - DOMAIN-SUFFIX,www.kykyniu7.pro,REJECT
-  - DOMAIN-SUFFIX,www.kznnvknblmfl.pro,REJECT
   - DOMAIN-SUFFIX,www.labbrcamio.pro,REJECT
   - DOMAIN-SUFFIX,www.labefsafen.pro,REJECT
   - DOMAIN-SUFFIX,www.labiamelol.pro,REJECT
@@ -60593,6 +60643,7 @@ rules:
   - DOMAIN-SUFFIX,www.laserscomb.pro,REJECT
   - DOMAIN-SUFFIX,www.lassacleru.pro,REJECT
   - DOMAIN-SUFFIX,www.latchpanha.pro,REJECT
+  - DOMAIN-SUFFIX,www.latestactionnews.pro,REJECT
   - DOMAIN-SUFFIX,www.latifanate.pro,REJECT
   - DOMAIN-SUFFIX,www.latifmitte.pro,REJECT
   - DOMAIN-SUFFIX,www.latimralis.pro,REJECT
@@ -60854,7 +60905,6 @@ rules:
   - DOMAIN-SUFFIX,www.lisptuimpat.pro,REJECT
   - DOMAIN-SUFFIX,www.listasirin.pro,REJECT
   - DOMAIN-SUFFIX,www.litanvicar.pro,REJECT
-  - DOMAIN-SUFFIX,www.litehotnews24gr.pro,REJECT
   - DOMAIN-SUFFIX,www.literalaigu.pro,REJECT
   - DOMAIN-SUFFIX,www.literateflounder.pro,REJECT
   - DOMAIN-SUFFIX,www.literateorangutan.pro,REJECT
@@ -60963,6 +61013,7 @@ rules:
   - DOMAIN-SUFFIX,www.loadsabingo.com,REJECT
   - DOMAIN-SUFFIX,www.loadsm87artconnect.online,REJECT
   - DOMAIN-SUFFIX,www.loadstartsy1stem.space,REJECT
+  - DOMAIN-SUFFIX,www.loadsystemgloba9l.online,REJECT
   - DOMAIN-SUFFIX,www.loathsopra.pro,REJECT
   - DOMAIN-SUFFIX,www.lobelgallo.pro,REJECT
   - DOMAIN-SUFFIX,www.lobosuo1.pro,REJECT
@@ -60999,6 +61050,7 @@ rules:
   - DOMAIN-SUFFIX,www.longarestr.pro,REJECT
   - DOMAIN-SUFFIX,www.longebuzan.pro,REJECT
   - DOMAIN-SUFFIX,www.longieteri.pro,REJECT
+  - DOMAIN-SUFFIX,www.longipolys.pro,REJECT
   - DOMAIN-SUFFIX,www.longulusis.pro,REJECT
   - DOMAIN-SUFFIX,www.lonsneoco.pro,REJECT
   - DOMAIN-SUFFIX,www.lontasubve.pro,REJECT
@@ -61228,7 +61280,6 @@ rules:
   - DOMAIN-SUFFIX,www.lustrspart.pro,REJECT
   - DOMAIN-SUFFIX,www.lustrstrav.pro,REJECT
   - DOMAIN-SUFFIX,www.luteotruce.pro,REJECT
-  - DOMAIN-SUFFIX,www.luvonue8.pro,REJECT
   - DOMAIN-SUFFIX,www.luwapao7.pro,REJECT
   - DOMAIN-SUFFIX,www.luxecraze.pro,REJECT
   - DOMAIN-SUFFIX,www.luxefeather.pro,REJECT
@@ -61239,7 +61290,6 @@ rules:
   - DOMAIN-SUFFIX,www.lyciarituo.pro,REJECT
   - DOMAIN-SUFFIX,www.lydajie0.pro,REJECT
   - DOMAIN-SUFFIX,www.lydajuu3.pro,REJECT
-  - DOMAIN-SUFFIX,www.lyewfndsvvpq.pro,REJECT
   - DOMAIN-SUFFIX,www.lyfiwoy.pro,REJECT
   - DOMAIN-SUFFIX,www.lyhonua.pro,REJECT
   - DOMAIN-SUFFIX,www.lyjuvyy1.pro,REJECT
@@ -61700,7 +61750,6 @@ rules:
   - DOMAIN-SUFFIX,www.mazzoitro.pro,REJECT
   - DOMAIN-SUFFIX,www.mazzounmul.pro,REJECT
   - DOMAIN-SUFFIX,www.mclick.mobi,REJECT
-  - DOMAIN-SUFFIX,www.mcnpcb.pro,REJECT
   - DOMAIN-SUFFIX,www.mdfsbn.com,REJECT
   - DOMAIN-SUFFIX,www.meadvilledeals.com,REJECT
   - DOMAIN-SUFFIX,www.meadvilledining.com,REJECT
@@ -62278,6 +62327,7 @@ rules:
   - DOMAIN-SUFFIX,www.moonlriabb.pro,REJECT
   - DOMAIN-SUFFIX,www.mopanscomp.pro,REJECT
   - DOMAIN-SUFFIX,www.mopleintav.pro,REJECT
+  - DOMAIN-SUFFIX,www.mopusricon.pro,REJECT
   - DOMAIN-SUFFIX,www.moracpalla.pro,REJECT
   - DOMAIN-SUFFIX,www.moralbuckp.pro,REJECT
   - DOMAIN-SUFFIX,www.moralinflu.pro,REJECT
@@ -62290,6 +62340,7 @@ rules:
   - DOMAIN-SUFFIX,www.morenbocemu.pro,REJECT
   - DOMAIN-SUFFIX,www.morfeadope.pro,REJECT
   - DOMAIN-SUFFIX,www.morigrinca.pro,REJECT
+  - DOMAIN-SUFFIX,www.moriripere.pro,REJECT
   - DOMAIN-SUFFIX,www.morlsikr.pro,REJECT
   - DOMAIN-SUFFIX,www.mormogeoma.pro,REJECT
   - DOMAIN-SUFFIX,www.morningwhisper.pro,REJECT
@@ -62442,6 +62493,7 @@ rules:
   - DOMAIN-SUFFIX,www.mylodprepa.pro,REJECT
   - DOMAIN-SUFFIX,www.mylottoadserv.com,REJECT
   - DOMAIN-SUFFIX,www.mymeadville.com,REJECT
+  - DOMAIN-SUFFIX,www.myogevolia.pro,REJECT
   - DOMAIN-SUFFIX,www.myotounwri.pro,REJECT
   - DOMAIN-SUFFIX,www.myqague4.pro,REJECT
   - DOMAIN-SUFFIX,www.myremoa9.pro,REJECT
@@ -62704,7 +62756,9 @@ rules:
   - DOMAIN-SUFFIX,www.nevraritoc.pro,REJECT
   - DOMAIN-SUFFIX,www.nevrofibri.pro,REJECT
   - DOMAIN-SUFFIX,www.newbopercu.pro,REJECT
+  - DOMAIN-SUFFIX,www.newbrightsroom.pro,REJECT
   - DOMAIN-SUFFIX,www.newmatruci.pro,REJECT
+  - DOMAIN-SUFFIX,www.newscriticalfeed.pro,REJECT
   - DOMAIN-SUFFIX,www.newsfeedchronicle.pro,REJECT
   - DOMAIN-SUFFIX,www.newsfeedheadline.pro,REJECT
   - DOMAIN-SUFFIX,www.newshuntads.com,REJECT
@@ -62712,6 +62766,7 @@ rules:
   - DOMAIN-SUFFIX,www.nexanoi9.pro,REJECT
   - DOMAIN-SUFFIX,www.nexlytics.pro,REJECT
   - DOMAIN-SUFFIX,www.nextgenideas.pro,REJECT
+  - DOMAIN-SUFFIX,www.nextgenreporting.pro,REJECT
   - DOMAIN-SUFFIX,www.nezokoo.pro,REJECT
   - DOMAIN-SUFFIX,www.nezoloi2.pro,REJECT
   - DOMAIN-SUFFIX,www.nezujao0.pro,REJECT
@@ -63150,6 +63205,7 @@ rules:
   - DOMAIN-SUFFIX,www.obtemcondo.pro,REJECT
   - DOMAIN-SUFFIX,www.obtruvagin.pro,REJECT
   - DOMAIN-SUFFIX,www.obumbregim.pro,REJECT
+  - DOMAIN-SUFFIX,www.oc-real-estate-advisors.com,REJECT
   - DOMAIN-SUFFIX,www.occamtumul.pro,REJECT
   - DOMAIN-SUFFIX,www.occasastom.pro,REJECT
   - DOMAIN-SUFFIX,www.occasphaeo.pro,REJECT
@@ -63232,7 +63288,6 @@ rules:
   - DOMAIN-SUFFIX,www.olininicot.pro,REJECT
   - DOMAIN-SUFFIX,www.oliprklism.pro,REJECT
   - DOMAIN-SUFFIX,www.oliveappoliveinter.pro,REJECT
-  - DOMAIN-SUFFIX,www.olivebotolivedata.pro,REJECT
   - DOMAIN-SUFFIX,www.olivebyteredforum.pro,REJECT
   - DOMAIN-SUFFIX,www.olivechipbluechip.pro,REJECT
   - DOMAIN-SUFFIX,www.olivechipbluecloud.pro,REJECT
@@ -63269,7 +63324,6 @@ rules:
   - DOMAIN-SUFFIX,www.oltrarincu.pro,REJECT
   - DOMAIN-SUFFIX,www.oltrawinch.pro,REJECT
   - DOMAIN-SUFFIX,www.oltremerop.pro,REJECT
-  - DOMAIN-SUFFIX,www.olx-pl.check-buy1298.shop,REJECT
   - DOMAIN-SUFFIX,www.olx-pl.check-buy1402.shop,REJECT
   - DOMAIN-SUFFIX,www.olx-pl.check-buy2012.shop,REJECT
   - DOMAIN-SUFFIX,www.olx-pl.padservice.cfd,REJECT
@@ -63317,6 +63371,7 @@ rules:
   - DOMAIN-SUFFIX,www.oneratorpi.pro,REJECT
   - DOMAIN-SUFFIX,www.onerepatin.pro,REJECT
   - DOMAIN-SUFFIX,www.oniomsgran.pro,REJECT
+  - DOMAIN-SUFFIX,www.online.mbaark.pro,REJECT
   - DOMAIN-SUFFIX,www.onlinedownloads.org,REJECT
   - DOMAIN-SUFFIX,www.onnintrope.pro,REJECT
   - DOMAIN-SUFFIX,www.onnipribus.pro,REJECT
@@ -63397,6 +63452,7 @@ rules:
   - DOMAIN-SUFFIX,www.opponreimp.pro,REJECT
   - DOMAIN-SUFFIX,www.oppugbasch.pro,REJECT
   - DOMAIN-SUFFIX,www.oprisalpig.pro,REJECT
+  - DOMAIN-SUFFIX,www.ops.pro-earngrp.com,REJECT
   - DOMAIN-SUFFIX,www.optacsickl.pro,REJECT
   - DOMAIN-SUFFIX,www.optad360.com,REJECT
   - DOMAIN-SUFFIX,www.optavincuo.pro,REJECT
@@ -63408,7 +63464,6 @@ rules:
   - DOMAIN-SUFFIX,www.optimalgrowth.pro,REJECT
   - DOMAIN-SUFFIX,www.optimalibex.pro,REJECT
   - DOMAIN-SUFFIX,www.optimaljerboa.pro,REJECT
-  - DOMAIN-SUFFIX,www.optimalpath.pro,REJECT
   - DOMAIN-SUFFIX,www.optimalquail.pro,REJECT
   - DOMAIN-SUFFIX,www.optimalrhino.pro,REJECT
   - DOMAIN-SUFFIX,www.optimalscallop.pro,REJECT
@@ -63538,6 +63593,7 @@ rules:
   - DOMAIN-SUFFIX,www.osculdisgo.pro,REJECT
   - DOMAIN-SUFFIX,www.osmancaket.pro,REJECT
   - DOMAIN-SUFFIX,www.osmotalime.pro,REJECT
+  - DOMAIN-SUFFIX,www.osmunconcl.pro,REJECT
   - DOMAIN-SUFFIX,www.osnabkaoli.pro,REJECT
   - DOMAIN-SUFFIX,www.ossamscudi.pro,REJECT
   - DOMAIN-SUFFIX,www.ossestempo.pro,REJECT
@@ -63702,7 +63758,6 @@ rules:
   - DOMAIN-SUFFIX,www.ovipomormo.pro,REJECT
   - DOMAIN-SUFFIX,www.ovopoadiaf.pro,REJECT
   - DOMAIN-SUFFIX,www.ovranrinto.pro,REJECT
-  - DOMAIN-SUFFIX,www.ovscretgtlun.pro,REJECT
   - DOMAIN-SUFFIX,www.ovulaimpie.pro,REJECT
   - DOMAIN-SUFFIX,www.ovulatampi.pro,REJECT
   - DOMAIN-SUFFIX,www.ovvierinfo.pro,REJECT
@@ -63791,7 +63846,6 @@ rules:
   - DOMAIN-SUFFIX,www.palpiultra.pro,REJECT
   - DOMAIN-SUFFIX,www.paludpalil.pro,REJECT
   - DOMAIN-SUFFIX,www.paludsurro.pro,REJECT
-  - DOMAIN-SUFFIX,www.palurui.pro,REJECT
   - DOMAIN-SUFFIX,www.panajia4.pro,REJECT
   - DOMAIN-SUFFIX,www.panasonic-ads.com,REJECT
   - DOMAIN-SUFFIX,www.panchpaten.pro,REJECT
@@ -64008,7 +64062,6 @@ rules:
   - DOMAIN-SUFFIX,www.pcads.ru,REJECT
   - DOMAIN-SUFFIX,www.pccleaner-update.xyz,REJECT
   - DOMAIN-SUFFIX,www.pcuois.com,REJECT
-  - DOMAIN-SUFFIX,www.pdjhdaapvzbz.pro,REJECT
   - DOMAIN-SUFFIX,www.peacefulcosmicstorm.pro,REJECT
   - DOMAIN-SUFFIX,www.peacefulcrystalfrost.pro,REJECT
   - DOMAIN-SUFFIX,www.peacefulechoes.pro,REJECT
@@ -64165,6 +64218,7 @@ rules:
   - DOMAIN-SUFFIX,www.perfectboa.pro,REJECT
   - DOMAIN-SUFFIX,www.perfectdragonfly.pro,REJECT
   - DOMAIN-SUFFIX,www.perfecthedgehog.pro,REJECT
+  - DOMAIN-SUFFIX,www.perfectnewsline.pro,REJECT
   - DOMAIN-SUFFIX,www.perfectpug.pro,REJECT
   - DOMAIN-SUFFIX,www.perfectquail.pro,REJECT
   - DOMAIN-SUFFIX,www.perfectraptor.pro,REJECT
@@ -64245,6 +64299,7 @@ rules:
   - DOMAIN-SUFFIX,www.persiriacc.pro,REJECT
   - DOMAIN-SUFFIX,www.persodeice.pro,REJECT
   - DOMAIN-SUFFIX,www.persoepyll.pro,REJECT
+  - DOMAIN-SUFFIX,www.personalfeednews.pro,REJECT
   - DOMAIN-SUFFIX,www.persoserbi.pro,REJECT
   - DOMAIN-SUFFIX,www.perspnemoki.pro,REJECT
   - DOMAIN-SUFFIX,www.perspnonpl.pro,REJECT
@@ -64323,6 +64378,7 @@ rules:
   - DOMAIN-SUFFIX,www.photogrott.pro,REJECT
   - DOMAIN-SUFFIX,www.photohoodte.pro,REJECT
   - DOMAIN-SUFFIX,www.photoimpia.pro,REJECT
+  - DOMAIN-SUFFIX,www.photomitri.pro,REJECT
   - DOMAIN-SUFFIX,www.photoparaf.pro,REJECT
   - DOMAIN-SUFFIX,www.photoralle.pro,REJECT
   - DOMAIN-SUFFIX,www.photosubex.pro,REJECT
@@ -64412,6 +64468,7 @@ rules:
   - DOMAIN-SUFFIX,www.pimplinnes.pro,REJECT
   - DOMAIN-SUFFIX,www.pinacantic.pro,REJECT
   - DOMAIN-SUFFIX,www.pinburicon.pro,REJECT
+  - DOMAIN-SUFFIX,www.pindatangf.pro,REJECT
   - DOMAIN-SUFFIX,www.pinecloud.pro,REJECT
   - DOMAIN-SUFFIX,www.pinekotrach.pro,REJECT
   - DOMAIN-SUFFIX,www.pinetreeneedlesfall.pro,REJECT
@@ -64438,6 +64495,7 @@ rules:
   - DOMAIN-SUFFIX,www.pinnisimul.pro,REJECT
   - DOMAIN-SUFFIX,www.pinziimpas.pro,REJECT
   - DOMAIN-SUFFIX,www.pinzimeric.pro,REJECT
+  - DOMAIN-SUFFIX,www.piogerazzu.pro,REJECT
   - DOMAIN-SUFFIX,www.piombramut.pro,REJECT
   - DOMAIN-SUFFIX,www.piombvicis.pro,REJECT
   - DOMAIN-SUFFIX,www.pionidefra.pro,REJECT
@@ -64583,7 +64641,6 @@ rules:
   - DOMAIN-SUFFIX,www.playfulvista.pro,REJECT
   - DOMAIN-SUFFIX,www.playfulwhimsy.pro,REJECT
   - DOMAIN-SUFFIX,www.playfulwhirl.pro,REJECT
-  - DOMAIN-SUFFIX,www.playfulwondersof.pro,REJECT
   - DOMAIN-SUFFIX,www.playfulwordbloom.pro,REJECT
   - DOMAIN-SUFFIX,www.playfulwordstream.pro,REJECT
   - DOMAIN-SUFFIX,www.playfulzephyr.pro,REJECT
@@ -64949,6 +65006,7 @@ rules:
   - DOMAIN-SUFFIX,www.preciousperch.pro,REJECT
   - DOMAIN-SUFFIX,www.preciousvulture.pro,REJECT
   - DOMAIN-SUFFIX,www.preciseaardwark.pro,REJECT
+  - DOMAIN-SUFFIX,www.preciseargumen.pro,REJECT
   - DOMAIN-SUFFIX,www.preciseasp.pro,REJECT
   - DOMAIN-SUFFIX,www.precisecollie.pro,REJECT
   - DOMAIN-SUFFIX,www.precisefoxhound.pro,REJECT
@@ -64992,6 +65050,7 @@ rules:
   - DOMAIN-SUFFIX,www.prefafleec.pro,REJECT
   - DOMAIN-SUFFIX,www.prefascori.pro,REJECT
   - DOMAIN-SUFFIX,www.prefatradi.pro,REJECT
+  - DOMAIN-SUFFIX,www.prefectagendafeed.pro,REJECT
   - DOMAIN-SUFFIX,www.prefepiaga.pro,REJECT
   - DOMAIN-SUFFIX,www.prefiraggi.pro,REJECT
   - DOMAIN-SUFFIX,www.prefiriapp.pro,REJECT
@@ -65250,6 +65309,7 @@ rules:
   - DOMAIN-SUFFIX,www.propatonna.pro,REJECT
   - DOMAIN-SUFFIX,www.properepen.pro,REJECT
   - DOMAIN-SUFFIX,www.properisca.pro,REJECT
+  - DOMAIN-SUFFIX,www.propernewshub.pro,REJECT
   - DOMAIN-SUFFIX,www.prophantap.pro,REJECT
   - DOMAIN-SUFFIX,www.prophdeben.pro,REJECT
   - DOMAIN-SUFFIX,www.propheticcrayfish.pro,REJECT
@@ -65360,6 +65420,7 @@ rules:
   - DOMAIN-SUFFIX,www.pseudfumar.pro,REJECT
   - DOMAIN-SUFFIX,www.pseudinciu.pro,REJECT
   - DOMAIN-SUFFIX,www.pseudorrip.pro,REJECT
+  - DOMAIN-SUFFIX,www.pseudtelha.pro,REJECT
   - DOMAIN-SUFFIX,www.pseudzygen.pro,REJECT
   - DOMAIN-SUFFIX,www.psgorobin.pro,REJECT
   - DOMAIN-SUFFIX,www.pshaleuke.pro,REJECT
@@ -65505,7 +65566,6 @@ rules:
   - DOMAIN-SUFFIX,www.puzzlingbeetle.pro,REJECT
   - DOMAIN-SUFFIX,www.puzzlingearwig.pro,REJECT
   - DOMAIN-SUFFIX,www.puzzlingfoxhound.pro,REJECT
-  - DOMAIN-SUFFIX,www.pwefrn.pro,REJECT
   - DOMAIN-SUFFIX,www.pxespashe.pro,REJECT
   - DOMAIN-SUFFIX,www.pyalkudisen.pro,REJECT
   - DOMAIN-SUFFIX,www.pycnipensi.pro,REJECT
@@ -65561,7 +65621,6 @@ rules:
   - DOMAIN-SUFFIX,www.qipivou9.pro,REJECT
   - DOMAIN-SUFFIX,www.qiuyva.pro,REJECT
   - DOMAIN-SUFFIX,www.qiwagiy8.pro,REJECT
-  - DOMAIN-SUFFIX,www.qiwdjfniejuk.pro,REJECT
   - DOMAIN-SUFFIX,www.qiwotyy9.pro,REJECT
   - DOMAIN-SUFFIX,www.qkixi.com,REJECT
   - DOMAIN-SUFFIX,www.qkztpx.pro,REJECT
@@ -65860,7 +65919,6 @@ rules:
   - DOMAIN-SUFFIX,www.radiantdreamscapes.pro,REJECT
   - DOMAIN-SUFFIX,www.radiantdrift.pro,REJECT
   - DOMAIN-SUFFIX,www.radiantdrifterst.pro,REJECT
-  - DOMAIN-SUFFIX,www.radiantecho.pro,REJECT
   - DOMAIN-SUFFIX,www.radiantechorse.pro,REJECT
   - DOMAIN-SUFFIX,www.radiantechorseyt.pro,REJECT
   - DOMAIN-SUFFIX,www.radiantechos.pro,REJECT
@@ -66184,6 +66242,7 @@ rules:
   - DOMAIN-SUFFIX,www.rapidheron.pro,REJECT
   - DOMAIN-SUFFIX,www.rapidhyena.pro,REJECT
   - DOMAIN-SUFFIX,www.rapidkestrel.pro,REJECT
+  - DOMAIN-SUFFIX,www.rapidreporting.pro,REJECT
   - DOMAIN-SUFFIX,www.rapidterrier.pro,REJECT
   - DOMAIN-SUFFIX,www.rapidturaco.pro,REJECT
   - DOMAIN-SUFFIX,www.rapiduakari.pro,REJECT
@@ -66306,6 +66365,7 @@ rules:
   - DOMAIN-SUFFIX,www.readpeak.pro,REJECT
   - DOMAIN-SUFFIX,www.readvconve.pro,REJECT
   - DOMAIN-SUFFIX,www.realanteater.pro,REJECT
+  - DOMAIN-SUFFIX,www.realbreakingnews.pro,REJECT
   - DOMAIN-SUFFIX,www.realgopher.pro,REJECT
   - DOMAIN-SUFFIX,www.realhippo.pro,REJECT
   - DOMAIN-SUFFIX,www.realisticeagle.pro,REJECT
@@ -66318,6 +66378,7 @@ rules:
   - DOMAIN-SUFFIX,www.realisticrhino.pro,REJECT
   - DOMAIN-SUFFIX,www.realisticsawfish.pro,REJECT
   - DOMAIN-SUFFIX,www.realisticspoonbill.pro,REJECT
+  - DOMAIN-SUFFIX,www.realitychecknew.pro,REJECT
   - DOMAIN-SUFFIX,www.realityshifterschange.pro,REJECT
   - DOMAIN-SUFFIX,www.realityshiftingfast.pro,REJECT
   - DOMAIN-SUFFIX,www.realityshiftsnow.pro,REJECT
@@ -66327,6 +66388,7 @@ rules:
   - DOMAIN-SUFFIX,www.realsawfly.pro,REJECT
   - DOMAIN-SUFFIX,www.realtextads.com,REJECT
   - DOMAIN-SUFFIX,www.realtimeprivacyadvancedhigh.autos,REJECT
+  - DOMAIN-SUFFIX,www.realtimeupdates.pro,REJECT
   - DOMAIN-SUFFIX,www.realwasp.pro,REJECT
   - DOMAIN-SUFFIX,www.reanastrac.pro,REJECT
   - DOMAIN-SUFFIX,www.reappsaint.pro,REJECT
@@ -66364,7 +66426,6 @@ rules:
   - DOMAIN-SUFFIX,www.rechapatto.pro,REJECT
   - DOMAIN-SUFFIX,www.recharinfo.pro,REJECT
   - DOMAIN-SUFFIX,www.rechisfott.pro,REJECT
-  - DOMAIN-SUFFIX,www.recipefordads.com,REJECT
   - DOMAIN-SUFFIX,www.recipparim.pro,REJECT
   - DOMAIN-SUFFIX,www.recirattra.pro,REJECT
   - DOMAIN-SUFFIX,www.recirkorya.pro,REJECT
@@ -66392,6 +66453,7 @@ rules:
   - DOMAIN-SUFFIX,www.recourigua.pro,REJECT
   - DOMAIN-SUFFIX,www.recrecrono.pro,REJECT
   - DOMAIN-SUFFIX,www.recredilac.pro,REJECT
+  - DOMAIN-SUFFIX,www.recruit.courserathreads.business,REJECT
   - DOMAIN-SUFFIX,www.recryateli.pro,REJECT
   - DOMAIN-SUFFIX,www.rectangledownloads.com,REJECT
   - DOMAIN-SUFFIX,www.recupdibbi.pro,REJECT
@@ -66537,13 +66599,13 @@ rules:
   - DOMAIN-SUFFIX,www.relazprese.pro,REJECT
   - DOMAIN-SUFFIX,www.relazramma.pro,REJECT
   - DOMAIN-SUFFIX,www.relegplnk.pro,REJECT
+  - DOMAIN-SUFFIX,www.relevantfeed.pro,REJECT
   - DOMAIN-SUFFIX,www.relevinsuf.pro,REJECT
   - DOMAIN-SUFFIX,www.reliable-fast-advanced-accurate.autos,REJECT
   - DOMAIN-SUFFIX,www.reliableaccuratesafeadvanced.autos,REJECT
   - DOMAIN-SUFFIX,www.reliablefastadvancedaccurate.autos,REJECT
   - DOMAIN-SUFFIX,www.reliablefastadvancedexpress.autos,REJECT
   - DOMAIN-SUFFIX,www.reliableguide.pro,REJECT
-  - DOMAIN-SUFFIX,www.reliableinsight.pro,REJECT
   - DOMAIN-SUFFIX,www.reliasgamb.pro,REJECT
   - DOMAIN-SUFFIX,www.relieoverg.pro,REJECT
   - DOMAIN-SUFFIX,www.religfrusc.pro,REJECT
@@ -67151,6 +67213,7 @@ rules:
   - DOMAIN-SUFFIX,www.rimpidisol.pro,REJECT
   - DOMAIN-SUFFIX,www.rimpiester.pro,REJECT
   - DOMAIN-SUFFIX,www.rimpipapis.pro,REJECT
+  - DOMAIN-SUFFIX,www.rimpisgric.pro,REJECT
   - DOMAIN-SUFFIX,www.rimpisguaz.pro,REJECT
   - DOMAIN-SUFFIX,www.rimpocarona.pro,REJECT
   - DOMAIN-SUFFIX,www.rimpoeebre.pro,REJECT
@@ -67529,6 +67592,7 @@ rules:
   - DOMAIN-SUFFIX,www.rivetcapsi.pro,REJECT
   - DOMAIN-SUFFIX,www.rivetiodur.pro,REJECT
   - DOMAIN-SUFFIX,www.rivibsnowl.pro,REJECT
+  - DOMAIN-SUFFIX,www.rivinsovra.pro,REJECT
   - DOMAIN-SUFFIX,www.rivisgromm.pro,REJECT
   - DOMAIN-SUFFIX,www.rivivdupli.pro,REJECT
   - DOMAIN-SUFFIX,www.rivolcorbe.pro,REJECT
@@ -67597,7 +67661,6 @@ rules:
   - DOMAIN-SUFFIX,www.ronfadisun.pro,REJECT
   - DOMAIN-SUFFIX,www.roniedovec.pro,REJECT
   - DOMAIN-SUFFIX,www.ronzastirp.pro,REJECT
-  - DOMAIN-SUFFIX,www.roofreddom.pro,REJECT
   - DOMAIN-SUFFIX,www.roomwriagg.pro,REJECT
   - DOMAIN-SUFFIX,www.rootivache.pro,REJECT
   - DOMAIN-SUFFIX,www.ropebprete.pro,REJECT
@@ -67652,7 +67715,6 @@ rules:
   - DOMAIN-SUFFIX,www.rovinbooke.pro,REJECT
   - DOMAIN-SUFFIX,www.rovindimin.pro,REJECT
   - DOMAIN-SUFFIX,www.rovyfay.pro,REJECT
-  - DOMAIN-SUFFIX,www.rpvehb.pro,REJECT
   - DOMAIN-SUFFIX,www.rrsf677s.pro,REJECT
   - DOMAIN-SUFFIX,www.rs.ero-advertising.com,REJECT
   - DOMAIN-SUFFIX,www.rs2.ero-advertising.com,REJECT
@@ -67742,7 +67804,6 @@ rules:
   - DOMAIN-SUFFIX,www.ruzzeperdi.pro,REJECT
   - DOMAIN-SUFFIX,www.ruzzeranto.pro,REJECT
   - DOMAIN-SUFFIX,www.rxblxg.pro,REJECT
-  - DOMAIN-SUFFIX,www.rxddsdpgljsl.pro,REJECT
   - DOMAIN-SUFFIX,www.rycasuy5.pro,REJECT
   - DOMAIN-SUFFIX,www.ryduvou0.pro,REJECT
   - DOMAIN-SUFFIX,www.ryfysiy2.pro,REJECT
@@ -67783,7 +67844,6 @@ rules:
   - DOMAIN-SUFFIX,www.sacchpoeti.pro,REJECT
   - DOMAIN-SUFFIX,www.sacchsolet.pro,REJECT
   - DOMAIN-SUFFIX,www.sacermazae.pro,REJECT
-  - DOMAIN-SUFFIX,www.sacfeqjpmznz.pro,REJECT
   - DOMAIN-SUFFIX,www.sacraaccin.pro,REJECT
   - DOMAIN-SUFFIX,www.sacradouci.pro,REJECT
   - DOMAIN-SUFFIX,www.sacraperse.pro,REJECT
@@ -67804,12 +67864,15 @@ rules:
   - DOMAIN-SUFFIX,www.safeadvancedshieldsmart.autos,REJECT
   - DOMAIN-SUFFIX,www.safehrifig.pro,REJECT
   - DOMAIN-SUFFIX,www.safendispe.pro,REJECT
+  - DOMAIN-SUFFIX,www.safereading.pro,REJECT
+  - DOMAIN-SUFFIX,www.safetynews.pro,REJECT
   - DOMAIN-SUFFIX,www.saffronbloodhound.pro,REJECT
   - DOMAIN-SUFFIX,www.saffronfennec.pro,REJECT
   - DOMAIN-SUFFIX,www.saffronjaguarundi.pro,REJECT
   - DOMAIN-SUFFIX,www.saffronpetrel.pro,REJECT
   - DOMAIN-SUFFIX,www.saffronsaluki.pro,REJECT
   - DOMAIN-SUFFIX,www.saffronseal.pro,REJECT
+  - DOMAIN-SUFFIX,www.sagamzooph.pro,REJECT
   - DOMAIN-SUFFIX,www.sagebettong.pro,REJECT
   - DOMAIN-SUFFIX,www.sagebutterfly.pro,REJECT
   - DOMAIN-SUFFIX,www.sagelabrador.pro,REJECT
@@ -68002,7 +68065,6 @@ rules:
   - DOMAIN-SUFFIX,www.sbavainfer.pro,REJECT
   - DOMAIN-SUFFIX,www.sbavapausa.pro,REJECT
   - DOMAIN-SUFFIX,www.sbaviantis.pro,REJECT
-  - DOMAIN-SUFFIX,www.sbcqem.pro,REJECT
   - DOMAIN-SUFFIX,www.sbeffcrini.pro,REJECT
   - DOMAIN-SUFFIX,www.sbeffgiela.pro,REJECT
   - DOMAIN-SUFFIX,www.sbeffgoitr.pro,REJECT
@@ -68329,6 +68391,7 @@ rules:
   - DOMAIN-SUFFIX,www.scontsacco.pro,REJECT
   - DOMAIN-SUFFIX,www.scontsbass.pro,REJECT
   - DOMAIN-SUFFIX,www.scontscomp.pro,REJECT
+  - DOMAIN-SUFFIX,www.scoopinsights.pro,REJECT
   - DOMAIN-SUFFIX,www.scopeinsup.pro,REJECT
   - DOMAIN-SUFFIX,www.scopepizzi.pro,REJECT
   - DOMAIN-SUFFIX,www.scopitempe.pro,REJECT
@@ -68545,6 +68608,7 @@ rules:
   - DOMAIN-SUFFIX,www.semilneuro.pro,REJECT
   - DOMAIN-SUFFIX,www.semimcosti.pro,REJECT
   - DOMAIN-SUFFIX,www.seminincat.pro,REJECT
+  - DOMAIN-SUFFIX,www.seminriadd.pro,REJECT
   - DOMAIN-SUFFIX,www.semioimpes.pro,REJECT
   - DOMAIN-SUFFIX,www.semioseggi.pro,REJECT
   - DOMAIN-SUFFIX,www.semiotenci.pro,REJECT
@@ -68762,7 +68826,6 @@ rules:
   - DOMAIN-SUFFIX,www.sfendderub.pro,REJECT
   - DOMAIN-SUFFIX,www.sfendelarg.pro,REJECT
   - DOMAIN-SUFFIX,www.sfeniairdr.pro,REJECT
-  - DOMAIN-SUFFIX,www.sferinonco.pro,REJECT
   - DOMAIN-SUFFIX,www.sferitalie.pro,REJECT
   - DOMAIN-SUFFIX,www.sferzgrama.pro,REJECT
   - DOMAIN-SUFFIX,www.sfiamgiust.pro,REJECT
@@ -68821,6 +68884,7 @@ rules:
   - DOMAIN-SUFFIX,www.sfumabaren.pro,REJECT
   - DOMAIN-SUFFIX,www.sfummcapti.pro,REJECT
   - DOMAIN-SUFFIX,www.sfummsonor.pro,REJECT
+  - DOMAIN-SUFFIX,www.sgabbmisfi.pro,REJECT
   - DOMAIN-SUFFIX,www.sgallrespe.pro,REJECT
   - DOMAIN-SUFFIX,www.sgambcampa.pro,REJECT
   - DOMAIN-SUFFIX,www.sgangsembr.pro,REJECT
@@ -68838,7 +68902,6 @@ rules:
   - DOMAIN-SUFFIX,www.sgassuncra.pro,REJECT
   - DOMAIN-SUFFIX,www.sgavaaffaka.pro,REJECT
   - DOMAIN-SUFFIX,www.sgavaspher.pro,REJECT
-  - DOMAIN-SUFFIX,www.sgczywmfqglh.pro,REJECT
   - DOMAIN-SUFFIX,www.sghercontr.pro,REJECT
   - DOMAIN-SUFFIX,www.sgherrudma.pro,REJECT
   - DOMAIN-SUFFIX,www.sghiaassum.pro,REJECT
@@ -68850,10 +68913,10 @@ rules:
   - DOMAIN-SUFFIX,www.sgommbooth.pro,REJECT
   - DOMAIN-SUFFIX,www.sgommperfe.pro,REJECT
   - DOMAIN-SUFFIX,www.sgorgparap.pro,REJECT
+  - DOMAIN-SUFFIX,www.sgottdisco.pro,REJECT
   - DOMAIN-SUFFIX,www.sgoverefut.pro,REJECT
   - DOMAIN-SUFFIX,www.sgradambid.pro,REJECT
   - DOMAIN-SUFFIX,www.sgrafrayon.pro,REJECT
-  - DOMAIN-SUFFIX,www.sgrafwrist.pro,REJECT
   - DOMAIN-SUFFIX,www.sgramcrott.pro,REJECT
   - DOMAIN-SUFFIX,www.sgramlimon.pro,REJECT
   - DOMAIN-SUFFIX,www.sgramunnet.pro,REJECT
@@ -69259,6 +69322,7 @@ rules:
   - DOMAIN-SUFFIX,www.skyskifire.pro,REJECT
   - DOMAIN-SUFFIX,www.skyskycold.pro,REJECT
   - DOMAIN-SUFFIX,www.skystdispe.pro,REJECT
+  - DOMAIN-SUFFIX,www.slabbuntow.pro,REJECT
   - DOMAIN-SUFFIX,www.slaccscomp.pro,REJECT
   - DOMAIN-SUFFIX,www.slaccsmezz.pro,REJECT
   - DOMAIN-SUFFIX,www.slaccunopt.pro,REJECT
@@ -69373,6 +69437,7 @@ rules:
   - DOMAIN-SUFFIX,www.smartmeteradvisor.com,REJECT
   - DOMAIN-SUFFIX,www.smartpegasus.pro,REJECT
   - DOMAIN-SUFFIX,www.smartreliableadvancedguard.autos,REJECT
+  - DOMAIN-SUFFIX,www.smartreporting.pro,REJECT
   - DOMAIN-SUFFIX,www.smartspark.pro,REJECT
   - DOMAIN-SUFFIX,www.smartspoonbill.pro,REJECT
   - DOMAIN-SUFFIX,www.smascaccor.pro,REJECT
@@ -69504,6 +69569,7 @@ rules:
   - DOMAIN-SUFFIX,www.snubbaroei.pro,REJECT
   - DOMAIN-SUFFIX,www.snudaauten.pro,REJECT
   - DOMAIN-SUFFIX,www.snudamanic.pro,REJECT
+  - DOMAIN-SUFFIX,www.snuffingly.pro,REJECT
   - DOMAIN-SUFFIX,www.snugfizz.pro,REJECT
   - DOMAIN-SUFFIX,www.snugglewink.pro,REJECT
   - DOMAIN-SUFFIX,www.snugitowne.pro,REJECT
@@ -69541,6 +69607,7 @@ rules:
   - DOMAIN-SUFFIX,www.soffimagni.pro,REJECT
   - DOMAIN-SUFFIX,www.soffiscorn.pro,REJECT
   - DOMAIN-SUFFIX,www.soffobreak.pro,REJECT
+  - DOMAIN-SUFFIX,www.soffotacci.pro,REJECT
   - DOMAIN-SUFFIX,www.soffoteolo.pro,REJECT
   - DOMAIN-SUFFIX,www.soffrideol.pro,REJECT
   - DOMAIN-SUFFIX,www.soffrrimbe.pro,REJECT
@@ -69756,6 +69823,7 @@ rules:
   - DOMAIN-SUFFIX,www.sottoverdu.pro,REJECT
   - DOMAIN-SUFFIX,www.sottrregur.pro,REJECT
   - DOMAIN-SUFFIX,www.soubioveri.pro,REJECT
+  - DOMAIN-SUFFIX,www.soulamaliz.pro,REJECT
   - DOMAIN-SUFFIX,www.soulfsubba.pro,REJECT
   - DOMAIN-SUFFIX,www.soulsearchersseektruth.pro,REJECT
   - DOMAIN-SUFFIX,www.soulsearchingjourney.pro,REJECT
@@ -70135,6 +70203,7 @@ rules:
   - DOMAIN-SUFFIX,www.spoted-pro.it.com,REJECT
   - DOMAIN-SUFFIX,www.spotemyoti.pro,REJECT
   - DOMAIN-SUFFIX,www.spotify.sub-update.com,REJECT
+  - DOMAIN-SUFFIX,www.spotlightreporting.pro,REJECT
   - DOMAIN-SUFFIX,www.spottedaardwark.pro,REJECT
   - DOMAIN-SUFFIX,www.spottedalligator.pro,REJECT
   - DOMAIN-SUFFIX,www.spottedbird.pro,REJECT
@@ -70556,7 +70625,6 @@ rules:
   - DOMAIN-SUFFIX,www.strasmiris.pro,REJECT
   - DOMAIN-SUFFIX,www.stratallth.pro,REJECT
   - DOMAIN-SUFFIX,www.stratdisso.pro,REJECT
-  - DOMAIN-SUFFIX,www.strategiccore.pro,REJECT
   - DOMAIN-SUFFIX,www.strategicflow.pro,REJECT
   - DOMAIN-SUFFIX,www.strategicpath.pro,REJECT
   - DOMAIN-SUFFIX,www.strategicteam.pro,REJECT
@@ -70937,6 +71005,7 @@ rules:
   - DOMAIN-SUFFIX,www.supersocks.pro,REJECT
   - DOMAIN-SUFFIX,www.supersonicads.com,REJECT
   - DOMAIN-SUFFIX,www.supersoppi.pro,REJECT
+  - DOMAIN-SUFFIX,www.supersprig.pro,REJECT
   - DOMAIN-SUFFIX,www.supersquac.pro,REJECT
   - DOMAIN-SUFFIX,www.supersting.pro,REJECT
   - DOMAIN-SUFFIX,www.supertrist.pro,REJECT
@@ -70974,6 +71043,7 @@ rules:
   - DOMAIN-SUFFIX,www.suriecolpi.pro,REJECT
   - DOMAIN-SUFFIX,www.suriefilia.pro,REJECT
   - DOMAIN-SUFFIX,www.surinappai.pro,REJECT
+  - DOMAIN-SUFFIX,www.surmiperid.pro,REJECT
   - DOMAIN-SUFFIX,www.surprisehaven.pro,REJECT
   - DOMAIN-SUFFIX,www.surprisespark.pro,REJECT
   - DOMAIN-SUFFIX,www.surprisingsong.pro,REJECT
@@ -71070,7 +71140,6 @@ rules:
   - DOMAIN-SUFFIX,www.swanmrhegu.pro,REJECT
   - DOMAIN-SUFFIX,www.swap-pro-relpax.com,REJECT
   - DOMAIN-SUFFIX,www.swartravag.pro,REJECT
-  - DOMAIN-SUFFIX,www.swaujw.pro,REJECT
   - DOMAIN-SUFFIX,www.swaybaint.pro,REJECT
   - DOMAIN-SUFFIX,www.swaybrisk.pro,REJECT
   - DOMAIN-SUFFIX,www.swayecho.pro,REJECT
@@ -71149,6 +71218,7 @@ rules:
   - DOMAIN-SUFFIX,www.synervacci.pro,REJECT
   - DOMAIN-SUFFIX,www.synonbilbo.pro,REJECT
   - DOMAIN-SUFFIX,www.synopnapea.pro,REJECT
+  - DOMAIN-SUFFIX,www.synqor.pro,REJECT
   - DOMAIN-SUFFIX,www.syodidroga.pro,REJECT
   - DOMAIN-SUFFIX,www.syphiassis.pro,REJECT
   - DOMAIN-SUFFIX,www.syqezio3.pro,REJECT
@@ -71217,7 +71287,6 @@ rules:
   - DOMAIN-SUFFIX,www.talentedmammoth.pro,REJECT
   - DOMAIN-SUFFIX,www.talentedmarten.pro,REJECT
   - DOMAIN-SUFFIX,www.talentedwolf.pro,REJECT
-  - DOMAIN-SUFFIX,www.taleqram.pro,REJECT
   - DOMAIN-SUFFIX,www.talisunder.pro,REJECT
   - DOMAIN-SUFFIX,www.talkfhumdr.pro,REJECT
   - DOMAIN-SUFFIX,www.talkingdata.com,REJECT
@@ -71444,6 +71513,7 @@ rules:
   - DOMAIN-SUFFIX,www.termounibr.pro,REJECT
   - DOMAIN-SUFFIX,www.ternanonnu.pro,REJECT
   - DOMAIN-SUFFIX,www.ternariqua.pro,REJECT
+  - DOMAIN-SUFFIX,www.terracinqu.pro,REJECT
   - DOMAIN-SUFFIX,www.terrafolkm.pro,REJECT
   - DOMAIN-SUFFIX,www.terratetralogy.pro,REJECT
   - DOMAIN-SUFFIX,www.terredelta.pro,REJECT
@@ -71501,7 +71571,6 @@ rules:
   - DOMAIN-SUFFIX,www.thankfultoad.pro,REJECT
   - DOMAIN-SUFFIX,www.thankfulwoodpecker.pro,REJECT
   - DOMAIN-SUFFIX,www.theclfilos.pro,REJECT
-  - DOMAIN-SUFFIX,www.thehigginsadventure.com,REJECT
   - DOMAIN-SUFFIX,www.thehotads.com,REJECT
   - DOMAIN-SUFFIX,www.thejugaadstudio.com,REJECT
   - DOMAIN-SUFFIX,www.themortgageadvisorguy.com,REJECT
@@ -71521,6 +71590,7 @@ rules:
   - DOMAIN-SUFFIX,www.thermrubozo.pro,REJECT
   - DOMAIN-SUFFIX,www.thermscult.pro,REJECT
   - DOMAIN-SUFFIX,www.therosmart.pro,REJECT
+  - DOMAIN-SUFFIX,www.theveryarticle.pro,REJECT
   - DOMAIN-SUFFIX,www.thewiarneni.pro,REJECT
   - DOMAIN-SUFFIX,www.thiassched.pro,REJECT
   - DOMAIN-SUFFIX,www.thickblueb.pro,REJECT
@@ -71707,7 +71777,6 @@ rules:
   - DOMAIN-SUFFIX,www.titudui0.pro,REJECT
   - DOMAIN-SUFFIX,www.tiumbs.ero-advertising.com,REJECT
   - DOMAIN-SUFFIX,www.tizzaltal.pro,REJECT
-  - DOMAIN-SUFFIX,www.tkvyau.pro,REJECT
   - DOMAIN-SUFFIX,www.tnnidisbr.pro,REJECT
   - DOMAIN-SUFFIX,www.toccafanti.pro,REJECT
   - DOMAIN-SUFFIX,www.toccaspurg.pro,REJECT
@@ -71767,6 +71836,7 @@ rules:
   - DOMAIN-SUFFIX,www.topazshiningbrightly.pro,REJECT
   - DOMAIN-SUFFIX,www.topazvicugna.pro,REJECT
   - DOMAIN-SUFFIX,www.topcrassev.pro,REJECT
+  - DOMAIN-SUFFIX,www.topicalupdatesnews.pro,REJECT
   - DOMAIN-SUFFIX,www.topicinfec.pro,REJECT
   - DOMAIN-SUFFIX,www.toplomacru.pro,REJECT
   - DOMAIN-SUFFIX,www.toponadss.com,REJECT
@@ -71775,6 +71845,7 @@ rules:
   - DOMAIN-SUFFIX,www.topotinaci.pro,REJECT
   - DOMAIN-SUFFIX,www.topperinfe.pro,REJECT
   - DOMAIN-SUFFIX,www.topqualityonlineleads.com,REJECT
+  - DOMAIN-SUFFIX,www.topsectionnews.pro,REJECT
   - DOMAIN-SUFFIX,www.torbiassie.pro,REJECT
   - DOMAIN-SUFFIX,www.torcedissi.pro,REJECT
   - DOMAIN-SUFFIX,www.torciscapp.pro,REJECT
@@ -71967,6 +72038,7 @@ rules:
   - DOMAIN-SUFFIX,www.tramebuird.pro,REJECT
   - DOMAIN-SUFFIX,www.trameturin.pro,REJECT
   - DOMAIN-SUFFIX,www.tramipoete.pro,REJECT
+  - DOMAIN-SUFFIX,www.tramiswigti.pro,REJECT
   - DOMAIN-SUFFIX,www.trammsyssi.pro,REJECT
   - DOMAIN-SUFFIX,www.trampfatto.pro,REJECT
   - DOMAIN-SUFFIX,www.trampparso.pro,REJECT
@@ -71997,7 +72069,6 @@ rules:
   - DOMAIN-SUFFIX,www.tranquilphoenixwhirl.pro,REJECT
   - DOMAIN-SUFFIX,www.tranquilreflections.pro,REJECT
   - DOMAIN-SUFFIX,www.tranquilshadowflare.pro,REJECT
-  - DOMAIN-SUFFIX,www.tranquilspot.pro,REJECT
   - DOMAIN-SUFFIX,www.tranquilstardustpath.pro,REJECT
   - DOMAIN-SUFFIX,www.tranquilstarflare.pro,REJECT
   - DOMAIN-SUFFIX,www.tranquilstars.pro,REJECT
@@ -72030,6 +72101,7 @@ rules:
   - DOMAIN-SUFFIX,www.translucentlemur.pro,REJECT
   - DOMAIN-SUFFIX,www.translucentquetzal.pro,REJECT
   - DOMAIN-SUFFIX,www.translucentsheep.pro,REJECT
+  - DOMAIN-SUFFIX,www.transmonac.pro,REJECT
   - DOMAIN-SUFFIX,www.transmoote.pro,REJECT
   - DOMAIN-SUFFIX,www.transpalma.pro,REJECT
   - DOMAIN-SUFFIX,www.transparentbeaver.pro,REJECT
@@ -72081,6 +72153,7 @@ rules:
   - DOMAIN-SUFFIX,www.trascsverm.pro,REJECT
   - DOMAIN-SUFFIX,www.trasecollo.pro,REJECT
   - DOMAIN-SUFFIX,www.trasemisit.pro,REJECT
+  - DOMAIN-SUFFIX,www.trasepress.pro,REJECT
   - DOMAIN-SUFFIX,www.trasfaffor.pro,REJECT
   - DOMAIN-SUFFIX,www.trasfdemon.pro,REJECT
   - DOMAIN-SUFFIX,www.trasfgrogi.pro,REJECT
@@ -72097,6 +72170,7 @@ rules:
   - DOMAIN-SUFFIX,www.trasmfrang.pro,REJECT
   - DOMAIN-SUFFIX,www.trasmhouse.pro,REJECT
   - DOMAIN-SUFFIX,www.trasmpseud.pro,REJECT
+  - DOMAIN-SUFFIX,www.trasmrehar.pro,REJECT
   - DOMAIN-SUFFIX,www.trasmskidd.pro,REJECT
   - DOMAIN-SUFFIX,www.trasmtarpe.pro,REJECT
   - DOMAIN-SUFFIX,www.trasmwhist.pro,REJECT
@@ -72156,6 +72230,7 @@ rules:
   - DOMAIN-SUFFIX,www.tremeprose.pro,REJECT
   - DOMAIN-SUFFIX,www.tremiapopl.pro,REJECT
   - DOMAIN-SUFFIX,www.tremijoebu.pro,REJECT
+  - DOMAIN-SUFFIX,www.trendingreports.pro,REJECT
   - DOMAIN-SUFFIX,www.trendsfreshnews.pro,REJECT
   - DOMAIN-SUFFIX,www.trendyglimpse.pro,REJECT
   - DOMAIN-SUFFIX,www.trendynests.pro,REJECT
@@ -72207,7 +72282,6 @@ rules:
   - DOMAIN-SUFFIX,www.trionfruit.pro,REJECT
   - DOMAIN-SUFFIX,www.trip-update-info.com,REJECT
   - DOMAIN-SUFFIX,www.tripadvisor-rent.com-book872.com,REJECT
-  - DOMAIN-SUFFIX,www.tripadvisor-up.com,REJECT
   - DOMAIN-SUFFIX,www.tripadvisor-villa-747937.com,REJECT
   - DOMAIN-SUFFIX,www.tripecolas.pro,REJECT
   - DOMAIN-SUFFIX,www.triplbrocc.pro,REJECT
@@ -72442,7 +72516,6 @@ rules:
   - DOMAIN-SUFFIX,www.twistwhirl.pro,REJECT
   - DOMAIN-SUFFIX,www.twuyed.pro,REJECT
   - DOMAIN-SUFFIX,www.tybakoo5.pro,REJECT
-  - DOMAIN-SUFFIX,www.tycajoi9.pro,REJECT
   - DOMAIN-SUFFIX,www.tycihua.pro,REJECT
   - DOMAIN-SUFFIX,www.tycipuy1.pro,REJECT
   - DOMAIN-SUFFIX,www.tyciqai6.pro,REJECT
@@ -72492,6 +72565,7 @@ rules:
   - DOMAIN-SUFFIX,www.ulanehiem.pro,REJECT
   - DOMAIN-SUFFIX,www.ulcerasper.pro,REJECT
   - DOMAIN-SUFFIX,www.ulnarpipon.pro,REJECT
+  - DOMAIN-SUFFIX,www.ultimateinsights.pro,REJECT
   - DOMAIN-SUFFIX,www.ultimmarte.pro,REJECT
   - DOMAIN-SUFFIX,www.ultraalbatross.pro,REJECT
   - DOMAIN-SUFFIX,www.ultraaman.pro,REJECT
@@ -72735,6 +72809,7 @@ rules:
   - DOMAIN-SUFFIX,www.uniquebutterfly.pro,REJECT
   - DOMAIN-SUFFIX,www.uniquecougar.pro,REJECT
   - DOMAIN-SUFFIX,www.uniqueinsight.pro,REJECT
+  - DOMAIN-SUFFIX,www.uniqueinsights.pro,REJECT
   - DOMAIN-SUFFIX,www.uniquejourney.pro,REJECT
   - DOMAIN-SUFFIX,www.uniqueladybug.pro,REJECT
   - DOMAIN-SUFFIX,www.uniquemushroom.pro,REJECT
@@ -72744,7 +72819,6 @@ rules:
   - DOMAIN-SUFFIX,www.unitabugse.pro,REJECT
   - DOMAIN-SUFFIX,www.unitazazze.pro,REJECT
   - DOMAIN-SUFFIX,www.uniteunori.pro,REJECT
-  - DOMAIN-SUFFIX,www.unityofmundrzed.pro,REJECT
   - DOMAIN-SUFFIX,www.univecontr.pro,REJECT
   - DOMAIN-SUFFIX,www.univepsamm.pro,REJECT
   - DOMAIN-SUFFIX,www.universal-traffic.com,REJECT
@@ -72782,6 +72856,7 @@ rules:
   - DOMAIN-SUFFIX,www.unnosabsco.pro,REJECT
   - DOMAIN-SUFFIX,www.unobvcomia.pro,REJECT
   - DOMAIN-SUFFIX,www.unocuscorc.pro,REJECT
+  - DOMAIN-SUFFIX,www.unoffendingly.pro,REJECT
   - DOMAIN-SUFFIX,www.unorgintro.pro,REJECT
   - DOMAIN-SUFFIX,www.unorivesic.pro,REJECT
   - DOMAIN-SUFFIX,www.unovemarin.pro,REJECT
@@ -72946,6 +73021,7 @@ rules:
   - DOMAIN-SUFFIX,www.update.dlsinyplus.alyaf.com,REJECT
   - DOMAIN-SUFFIX,www.update.dlsinyplus.louis-ip.com,REJECT
   - DOMAIN-SUFFIX,www.update.onlinegrouptext.com,REJECT
+  - DOMAIN-SUFFIX,www.updatesexpress.pro,REJECT
   - DOMAIN-SUFFIX,www.uperitrigo.pro,REJECT
   - DOMAIN-SUFFIX,www.upflosplen.pro,REJECT
   - DOMAIN-SUFFIX,www.upgazsoffi.pro,REJECT
@@ -73014,7 +73090,6 @@ rules:
   - DOMAIN-SUFFIX,www.uricoestro.pro,REJECT
   - DOMAIN-SUFFIX,www.urinarisol.pro,REJECT
   - DOMAIN-SUFFIX,www.urineripul.pro,REJECT
-  - DOMAIN-SUFFIX,www.urkjpptnwwra.pro,REJECT
   - DOMAIN-SUFFIX,www.urlatfisca.pro,REJECT
   - DOMAIN-SUFFIX,www.urolispei.pro,REJECT
   - DOMAIN-SUFFIX,www.uromaaceta.pro,REJECT
@@ -73027,6 +73102,7 @@ rules:
   - DOMAIN-SUFFIX,www.usciobypas.pro,REJECT
   - DOMAIN-SUFFIX,www.uscitunpro.pro,REJECT
   - DOMAIN-SUFFIX,www.useactiveleads.org,REJECT
+  - DOMAIN-SUFFIX,www.usefulfeednews.pro,REJECT
   - DOMAIN-SUFFIX,www.user.altacon-investment.pro,REJECT
   - DOMAIN-SUFFIX,www.user.oakwell-finance.pro,REJECT
   - DOMAIN-SUFFIX,www.users.ero-advertising.com,REJECT
@@ -73349,7 +73425,6 @@ rules:
   - DOMAIN-SUFFIX,www.vibrantdreamers.pro,REJECT
   - DOMAIN-SUFFIX,www.vibrantdreamscape.pro,REJECT
   - DOMAIN-SUFFIX,www.vibrantecho.pro,REJECT
-  - DOMAIN-SUFFIX,www.vibrantecosystem.pro,REJECT
   - DOMAIN-SUFFIX,www.vibranteden.pro,REJECT
   - DOMAIN-SUFFIX,www.vibrantfuzz.pro,REJECT
   - DOMAIN-SUFFIX,www.vibrantglimpse.pro,REJECT
@@ -73548,6 +73623,7 @@ rules:
   - DOMAIN-SUFFIX,www.vittiscomu.pro,REJECT
   - DOMAIN-SUFFIX,www.vittohorse.pro,REJECT
   - DOMAIN-SUFFIX,www.vittozendo.pro,REJECT
+  - DOMAIN-SUFFIX,www.vitupinfal.pro,REJECT
   - DOMAIN-SUFFIX,www.vituprista.pro,REJECT
   - DOMAIN-SUFFIX,www.vivaciousauk.pro,REJECT
   - DOMAIN-SUFFIX,www.vivaciousbug.pro,REJECT
@@ -73641,7 +73717,6 @@ rules:
   - DOMAIN-SUFFIX,www.vivucabbru.pro,REJECT
   - DOMAIN-SUFFIX,www.vjehnkibunu.pro,REJECT
   - DOMAIN-SUFFIX,www.vmsal.vip,REJECT
-  - DOMAIN-SUFFIX,www.vntkasoccdadvmtlkf8mhuxwi25s6i8c.xyz,REJECT
   - DOMAIN-SUFFIX,www.vocaljoy.pro,REJECT
   - DOMAIN-SUFFIX,www.vocaltrasc.pro,REJECT
   - DOMAIN-SUFFIX,www.vocifjeopa.pro,REJECT
@@ -73852,6 +73927,7 @@ rules:
   - DOMAIN-SUFFIX,www.wattstraum.pro,REJECT
   - DOMAIN-SUFFIX,www.watyxaa.pro,REJECT
   - DOMAIN-SUFFIX,www.wavefuji.pro,REJECT
+  - DOMAIN-SUFFIX,www.wavelengthnews.pro,REJECT
   - DOMAIN-SUFFIX,www.wavelorezz.pro,REJECT
   - DOMAIN-SUFFIX,www.wavelsbaci.pro,REJECT
   - DOMAIN-SUFFIX,www.waveripple.pro,REJECT
@@ -73880,6 +73956,7 @@ rules:
   - DOMAIN-SUFFIX,www.web.cellfun.mobi,REJECT
   - DOMAIN-SUFFIX,www.web.pro-earnltd.com,REJECT
   - DOMAIN-SUFFIX,www.web3-check.com,REJECT
+  - DOMAIN-SUFFIX,www.webcommunitynews.pro,REJECT
   - DOMAIN-SUFFIX,www.webihio4.pro,REJECT
   - DOMAIN-SUFFIX,www.wechat-sg.com,REJECT
   - DOMAIN-SUFFIX,www.wedgejaspe.pro,REJECT
@@ -73914,6 +73991,7 @@ rules:
   - DOMAIN-SUFFIX,www.wezesi-dagujo.pro,REJECT
   - DOMAIN-SUFFIX,www.whalecashads.com,REJECT
   - DOMAIN-SUFFIX,www.whalesongsmelodies.pro,REJECT
+  - DOMAIN-SUFFIX,www.whatsnewtodayweb.pro,REJECT
   - DOMAIN-SUFFIX,www.whatsupjoy.pro,REJECT
   - DOMAIN-SUFFIX,www.whefnudri.pro,REJECT
   - DOMAIN-SUFFIX,www.whencidria.pro,REJECT
@@ -74074,7 +74152,6 @@ rules:
   - DOMAIN-SUFFIX,www.whiteriall.pro,REJECT
   - DOMAIN-SUFFIX,www.whitetapir.pro,REJECT
   - DOMAIN-SUFFIX,www.whitewebpinklink.pro,REJECT
-  - DOMAIN-SUFFIX,www.whitewebplumbot.pro,REJECT
   - DOMAIN-SUFFIX,www.whitfaggra.pro,REJECT
   - DOMAIN-SUFFIX,www.whizzyflare.pro,REJECT
   - DOMAIN-SUFFIX,www.whjiryjr.pro,REJECT
@@ -74323,6 +74400,7 @@ rules:
   - DOMAIN-SUFFIX,www.wreatcoinc.pro,REJECT
   - DOMAIN-SUFFIX,www.wreckindol.pro,REJECT
   - DOMAIN-SUFFIX,www.wrilqmyv.pro,REJECT
+  - DOMAIN-SUFFIX,www.writenewsnow.pro,REJECT
   - DOMAIN-SUFFIX,www.wrybinumis.pro,REJECT
   - DOMAIN-SUFFIX,www.wsw.ero-advertising.com,REJECT
   - DOMAIN-SUFFIX,www.wta.ero-advertising.com,REJECT
@@ -74431,7 +74509,6 @@ rules:
   - DOMAIN-SUFFIX,www.xyxycaa4.pro,REJECT
   - DOMAIN-SUFFIX,www.xyzikoy4.pro,REJECT
   - DOMAIN-SUFFIX,www.yachtdivis.pro,REJECT
-  - DOMAIN-SUFFIX,www.yachtgoods.pro,REJECT
   - DOMAIN-SUFFIX,www.yajnadipre.pro,REJECT
   - DOMAIN-SUFFIX,www.yaknodamse.pro,REJECT
   - DOMAIN-SUFFIX,www.yamasnonap.pro,REJECT
@@ -74672,8 +74749,10 @@ rules:
   - DOMAIN-SUFFIX,www.zomehiy1.pro,REJECT
   - DOMAIN-SUFFIX,www.zonizsorri.pro,REJECT
   - DOMAIN-SUFFIX,www.zooflappia.pro,REJECT
+  - DOMAIN-SUFFIX,www.zoomingheadlines.pro,REJECT
   - DOMAIN-SUFFIX,www.zoopaposti.pro,REJECT
   - DOMAIN-SUFFIX,www.zoophscost.pro,REJECT
+  - DOMAIN-SUFFIX,www.zootofuggi.pro,REJECT
   - DOMAIN-SUFFIX,www.zootomonoc.pro,REJECT
   - DOMAIN-SUFFIX,www.zopiwoo.pro,REJECT
   - DOMAIN-SUFFIX,www.zoppegorgi.pro,REJECT
@@ -75171,7 +75250,6 @@ rules:
   - DOMAIN-SUFFIX,yaaumqa.top,REJECT
   - DOMAIN-SUFFIX,yac5t.cn,REJECT
   - DOMAIN-SUFFIX,yachtdivis.pro,REJECT
-  - DOMAIN-SUFFIX,yachtgoods.pro,REJECT
   - DOMAIN-SUFFIX,yads.c.yimg.jp,REJECT
   - DOMAIN-SUFFIX,yads.tech,REJECT
   - DOMAIN-SUFFIX,yads.yahoo.co.jp,REJECT
@@ -75841,8 +75919,10 @@ rules:
   - DOMAIN-SUFFIX,zonizsorri.pro,REJECT
   - DOMAIN-SUFFIX,zonyff.xyz,REJECT
   - DOMAIN-SUFFIX,zooflappia.pro,REJECT
+  - DOMAIN-SUFFIX,zoomingheadlines.pro,REJECT
   - DOMAIN-SUFFIX,zoopaposti.pro,REJECT
   - DOMAIN-SUFFIX,zoophscost.pro,REJECT
+  - DOMAIN-SUFFIX,zootofuggi.pro,REJECT
   - DOMAIN-SUFFIX,zootomonoc.pro,REJECT
   - DOMAIN-SUFFIX,zopiwoo.pro,REJECT
   - DOMAIN-SUFFIX,zoppegorgi.pro,REJECT
