@@ -1,9 +1,9 @@
 # Title: Clash Meta规则
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2025-07-24 22:15:52（北京时间）
-# Clash Meta规则数量: 76024
-! Total count: 76024
+# Last Updated: 2025-07-25 01:17:24（北京时间）
+# Clash Meta规则数量: 76014
+! Total count: 76014
 payload:
   - '0-bloghkgadv.app.salemove.com'
   - '0.r.msn.com'
@@ -9770,7 +9770,6 @@ payload:
   - 'applog.ucdns.uc.cn'
   - 'applog.zijieapi.com'
   - 'applovin.com'
-  - 'applvn.com'
   - 'appmarket.api.gsxnj.cn'
   - 'appmetrica.yandex.ru'
   - 'appmobile.cn'
@@ -23748,8 +23747,6 @@ payload:
   - 'imads.ero-advertising.com'
   - 'imads.integral-marketing.com'
   - 'imads.rediff.com'
-  - 'imag8.pubmatic.com'
-  - 'imag86.pubmatic.com'
   - 'imagazine.advertserve.com'
   - 'image-ad.sm.cn'
   - 'image.adsgram.ai'
@@ -23763,7 +23760,6 @@ payload:
   - 'imageads.sexmoney.com'
   - 'imageadvantage.net'
   - 'imagedvdreview.analytics.qlook.net'
-  - 'imageplus.baidu.com'
   - 'imageresizer.services.adx1.com'
   - 'images-cdn.azoogleads.com'
   - 'images.ad7.com'
@@ -23878,7 +23874,6 @@ payload:
   - 'img.ad.zhangyue.com'
   - 'img.ad2.maho.jp'
   - 'img.adbox.sina.com.cn'
-  - 'img.adnyg.com'
   - 'img.adnyg.com.w.kunlungr.com'
   - 'img.ads.csdn.net'
   - 'img.ads.huntmad.com'
@@ -27269,7 +27264,6 @@ payload:
   - 'log.amemv.com'
   - 'log.appstore3.huan.tv'
   - 'log.avlyun.com'
-  - 'log.avlyun.sec.intl.miui.com'
   - 'log.byteoversea.com'
   - 'log.daqi.com'
   - 'log.fc.yahoo.com'
@@ -27752,7 +27746,6 @@ payload:
   - 'm.gz-bz.cn'
   - 'm.hot-mob.com'
   - 'm.iqiyipic.com'
-  - 'm.kubiqq.com'
   - 'm.l.qq.com'
   - 'm.mixadvert.com'
   - 'm.nereus.live'
@@ -28879,7 +28872,6 @@ payload:
   - 'mindopu.com'
   - 'mindreadingpower.pro'
   - 'mindsparkadvertising.com'
-  - 'mine.baidu.com'
   - 'mingemetal.pro'
   - 'mingleluxe.pro'
   - 'mingleverse.pro'
@@ -74805,7 +74797,6 @@ payload:
   - 'www3.hot-mob.com'
   - 'www3.smartadserver.com'
   - 'www4.smartadserver.com'
-  - 'www42.zskwai.com'
   - 'www5.smartadserver.com'
   - 'www6.click-fr.com'
   - 'www6.smartadserver.com'
@@ -74909,7 +74900,6 @@ payload:
   - 'xckj0623.com'
   - 'xckyqq.com'
   - 'xcmz999.com'
-  - 'xcultur.com'
   - 'xcvwrj.xyz'
   - 'xcwzq.xyz'
   - 'xd.mediav.com'

@@ -2,11 +2,11 @@
 ! Title: AdByeBye去广告规则
 ! Homepage: https://github.com/045200/adbyebye
 ! Expires: 12 Hours
-! Version: 2025-07-25 06:15:54（北京时间）
+! Version: 2025-07-25 09:17:26（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 76028
+! Total count: 76018
 # AdClose 专用广告规则
-# 生成时间: 2025-07-24 22:15:52（北京时间）
+# 生成时间: 2025-07-25 01:17:24（北京时间）
 # 格式：domain, <域名>
 domain, 0-bloghkgadv.app.salemove.com
 domain, 0.r.msn.com
@@ -9773,7 +9773,6 @@ domain, applog.uc.cn
 domain, applog.ucdns.uc.cn
 domain, applog.zijieapi.com
 domain, applovin.com
-domain, applvn.com
 domain, appmarket.api.gsxnj.cn
 domain, appmetrica.yandex.ru
 domain, appmobile.cn
@@ -23751,8 +23750,6 @@ domain, im58log.58.com
 domain, imads.ero-advertising.com
 domain, imads.integral-marketing.com
 domain, imads.rediff.com
-domain, imag8.pubmatic.com
-domain, imag86.pubmatic.com
 domain, imagazine.advertserve.com
 domain, image-ad.sm.cn
 domain, image.adsgram.ai
@@ -23766,7 +23763,6 @@ domain, imageads.codoon.com
 domain, imageads.sexmoney.com
 domain, imageadvantage.net
 domain, imagedvdreview.analytics.qlook.net
-domain, imageplus.baidu.com
 domain, imageresizer.services.adx1.com
 domain, images-cdn.azoogleads.com
 domain, images.ad7.com
@@ -23881,7 +23877,6 @@ domain, img.ad-seek.jp
 domain, img.ad.zhangyue.com
 domain, img.ad2.maho.jp
 domain, img.adbox.sina.com.cn
-domain, img.adnyg.com
 domain, img.adnyg.com.w.kunlungr.com
 domain, img.ads.csdn.net
 domain, img.ads.huntmad.com
@@ -27272,7 +27267,6 @@ domain, log.aispeech.com
 domain, log.amemv.com
 domain, log.appstore3.huan.tv
 domain, log.avlyun.com
-domain, log.avlyun.sec.intl.miui.com
 domain, log.byteoversea.com
 domain, log.daqi.com
 domain, log.fc.yahoo.com
@@ -27755,7 +27749,6 @@ domain, m.gdt.qq.com
 domain, m.gz-bz.cn
 domain, m.hot-mob.com
 domain, m.iqiyipic.com
-domain, m.kubiqq.com
 domain, m.l.qq.com
 domain, m.mixadvert.com
 domain, m.nereus.live
@@ -28882,7 +28875,6 @@ domain, mindfulwapiti.pro
 domain, mindopu.com
 domain, mindreadingpower.pro
 domain, mindsparkadvertising.com
-domain, mine.baidu.com
 domain, mingemetal.pro
 domain, mingleluxe.pro
 domain, mingleverse.pro
@@ -74808,7 +74800,6 @@ domain, www3.game-advertising-online.com
 domain, www3.hot-mob.com
 domain, www3.smartadserver.com
 domain, www4.smartadserver.com
-domain, www42.zskwai.com
 domain, www5.smartadserver.com
 domain, www6.click-fr.com
 domain, www6.smartadserver.com
@@ -74912,7 +74903,6 @@ domain, xcisleoa.cn
 domain, xckj0623.com
 domain, xckyqq.com
 domain, xcmz999.com
-domain, xcultur.com
 domain, xcvwrj.xyz
 domain, xcwzq.xyz
 domain, xd.mediav.com

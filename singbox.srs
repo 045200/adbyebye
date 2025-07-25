@@ -1,9 +1,9 @@
 # Title: SingBox SRS Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2025-07-24 22:15:52（北京时间）
-# Singbox规则数量: 76024
-! Total count: 76024
+# Last Updated: 2025-07-25 01:17:24（北京时间）
+# Singbox规则数量: 76014
+! Total count: 76014
 DOMAIN-SUFFIX,0-bloghkgadv.app.salemove.com,REJECT
 DOMAIN-SUFFIX,0.r.msn.com,REJECT
 DOMAIN-SUFFIX,000123456789.online,REJECT
@@ -9769,7 +9769,6 @@ DOMAIN-SUFFIX,applog.uc.cn,REJECT
 DOMAIN-SUFFIX,applog.ucdns.uc.cn,REJECT
 DOMAIN-SUFFIX,applog.zijieapi.com,REJECT
 DOMAIN-SUFFIX,applovin.com,REJECT
-DOMAIN-SUFFIX,applvn.com,REJECT
 DOMAIN-SUFFIX,appmarket.api.gsxnj.cn,REJECT
 DOMAIN-SUFFIX,appmetrica.yandex.ru,REJECT
 DOMAIN-SUFFIX,appmobile.cn,REJECT
@@ -23747,8 +23746,6 @@ DOMAIN-SUFFIX,im58log.58.com,REJECT
 DOMAIN-SUFFIX,imads.ero-advertising.com,REJECT
 DOMAIN-SUFFIX,imads.integral-marketing.com,REJECT
 DOMAIN-SUFFIX,imads.rediff.com,REJECT
-DOMAIN-SUFFIX,imag8.pubmatic.com,REJECT
-DOMAIN-SUFFIX,imag86.pubmatic.com,REJECT
 DOMAIN-SUFFIX,imagazine.advertserve.com,REJECT
 DOMAIN-SUFFIX,image-ad.sm.cn,REJECT
 DOMAIN-SUFFIX,image.adsgram.ai,REJECT
@@ -23762,7 +23759,6 @@ DOMAIN-SUFFIX,imageads.codoon.com,REJECT
 DOMAIN-SUFFIX,imageads.sexmoney.com,REJECT
 DOMAIN-SUFFIX,imageadvantage.net,REJECT
 DOMAIN-SUFFIX,imagedvdreview.analytics.qlook.net,REJECT
-DOMAIN-SUFFIX,imageplus.baidu.com,REJECT
 DOMAIN-SUFFIX,imageresizer.services.adx1.com,REJECT
 DOMAIN-SUFFIX,images-cdn.azoogleads.com,REJECT
 DOMAIN-SUFFIX,images.ad7.com,REJECT
@@ -23877,7 +23873,6 @@ DOMAIN-SUFFIX,img.ad-seek.jp,REJECT
 DOMAIN-SUFFIX,img.ad.zhangyue.com,REJECT
 DOMAIN-SUFFIX,img.ad2.maho.jp,REJECT
 DOMAIN-SUFFIX,img.adbox.sina.com.cn,REJECT
-DOMAIN-SUFFIX,img.adnyg.com,REJECT
 DOMAIN-SUFFIX,img.adnyg.com.w.kunlungr.com,REJECT
 DOMAIN-SUFFIX,img.ads.csdn.net,REJECT
 DOMAIN-SUFFIX,img.ads.huntmad.com,REJECT
@@ -27268,7 +27263,6 @@ DOMAIN-SUFFIX,log.aispeech.com,REJECT
 DOMAIN-SUFFIX,log.amemv.com,REJECT
 DOMAIN-SUFFIX,log.appstore3.huan.tv,REJECT
 DOMAIN-SUFFIX,log.avlyun.com,REJECT
-DOMAIN-SUFFIX,log.avlyun.sec.intl.miui.com,REJECT
 DOMAIN-SUFFIX,log.byteoversea.com,REJECT
 DOMAIN-SUFFIX,log.daqi.com,REJECT
 DOMAIN-SUFFIX,log.fc.yahoo.com,REJECT
@@ -27751,7 +27745,6 @@ DOMAIN-SUFFIX,m.gdt.qq.com,REJECT
 DOMAIN-SUFFIX,m.gz-bz.cn,REJECT
 DOMAIN-SUFFIX,m.hot-mob.com,REJECT
 DOMAIN-SUFFIX,m.iqiyipic.com,REJECT
-DOMAIN-SUFFIX,m.kubiqq.com,REJECT
 DOMAIN-SUFFIX,m.l.qq.com,REJECT
 DOMAIN-SUFFIX,m.mixadvert.com,REJECT
 DOMAIN-SUFFIX,m.nereus.live,REJECT
@@ -28878,7 +28871,6 @@ DOMAIN-SUFFIX,mindfulwapiti.pro,REJECT
 DOMAIN-SUFFIX,mindopu.com,REJECT
 DOMAIN-SUFFIX,mindreadingpower.pro,REJECT
 DOMAIN-SUFFIX,mindsparkadvertising.com,REJECT
-DOMAIN-SUFFIX,mine.baidu.com,REJECT
 DOMAIN-SUFFIX,mingemetal.pro,REJECT
 DOMAIN-SUFFIX,mingleluxe.pro,REJECT
 DOMAIN-SUFFIX,mingleverse.pro,REJECT
@@ -74804,7 +74796,6 @@ DOMAIN-SUFFIX,www3.game-advertising-online.com,REJECT
 DOMAIN-SUFFIX,www3.hot-mob.com,REJECT
 DOMAIN-SUFFIX,www3.smartadserver.com,REJECT
 DOMAIN-SUFFIX,www4.smartadserver.com,REJECT
-DOMAIN-SUFFIX,www42.zskwai.com,REJECT
 DOMAIN-SUFFIX,www5.smartadserver.com,REJECT
 DOMAIN-SUFFIX,www6.click-fr.com,REJECT
 DOMAIN-SUFFIX,www6.smartadserver.com,REJECT
@@ -74908,7 +74899,6 @@ DOMAIN-SUFFIX,xcisleoa.cn,REJECT
 DOMAIN-SUFFIX,xckj0623.com,REJECT
 DOMAIN-SUFFIX,xckyqq.com,REJECT
 DOMAIN-SUFFIX,xcmz999.com,REJECT
-DOMAIN-SUFFIX,xcultur.com,REJECT
 DOMAIN-SUFFIX,xcvwrj.xyz,REJECT
 DOMAIN-SUFFIX,xcwzq.xyz,REJECT
 DOMAIN-SUFFIX,xd.mediav.com,REJECT
